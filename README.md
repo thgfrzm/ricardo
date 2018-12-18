@@ -8,7 +8,6 @@ e este projeto adere à [Versionamento Semântico](https://semver.org/spec/v2.0.
 - Página: Escala de visitas (tabela|calendário)
 - Página: Tarefas (lista)
 - Página: Medicamentos (descritivo)
-- Página: Contato
 - Página: Sobre
 
 ## [0.0.1] - 2018-12-18
