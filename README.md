@@ -8,5 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2018-12-18
 ### Added
+- Publishing on GitHub Pages
 - Changelog
 - Jekyll structure
