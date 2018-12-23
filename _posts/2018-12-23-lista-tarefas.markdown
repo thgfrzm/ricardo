@@ -26,6 +26,21 @@ Atualizado em: 2018-12-23
 - [ ] Comprar calçado (tam. 38) `Thiago`
 - [ ] Acompanhamento - Natal `Eduardo`
 - [ ] Acompanhamento - Ano novo `Eduardo`
+- [ ] Providenciar receita médica (venceu em 11/2018)
+  - [x] Pedir mudança de Posto de Saúde (Jrd. Interlagos) `Thiago`
+  - [x] Acompanhamento - Exames 3.Dez, 7h00 `Thiago`
+  - [x] Ver resultados - a partir de 11.Dez `Juninho`
+  - [ ] Caso der alterações, pedir agendamento com prioridade
+  - [ ] Acompanhamento - Consulta médico (sem prioridade está agendado para 1º.Abr)
+	```
+	nota: houve alterações (incoformidade com padrões);
+	ao tentar agendamento, por duas vezes, fomos informados que:
+	- agendamento só são realizados no período da manhã; `Thiago`
+	- sistema estava fora do ar na última tentativa. `Juninho`
+
+	dúvida: É necessário tratamento com hidroclorotiazida e
+	losartana (tratamento de hipertensão) simultaneamente?
+	```
 
 ## Novembro'18:
 - [x] Acompanhamento - Finados `Thiago`
@@ -41,11 +56,6 @@ Atualizado em: 2018-12-23
 	```
 	Juninho foi uma vez, mas foi pedido Cert. Casamento ao invés de
 	Cert. Nascimento. Novo agendamento será neessário.
-	```
-- [ ] Providenciar receita médica (venc. 11/2018) `Thiago`
-	```
-	dúvida: É necessário tratamento com hidroclorotiazida e
-	losartana (tratamento de hipertensão) simultaneamente?
 	```
 - [x] Providenciar nova conta Poupança `Thiago`
 
