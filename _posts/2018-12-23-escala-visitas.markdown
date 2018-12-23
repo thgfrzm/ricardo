@@ -24,3 +24,14 @@ categories: agenda
 | 28.dez  | Sex        |        | Juninho |             |
 | 29.dez  | Sab        |        | Thiago  |             |
 | 30.dez  | Dom        |        | Juninho |             |
+
+
+| dia/mês | dia/semana | almoço | janta | observações  |
+| ------- | ---------- | ------ | ----- | ------------ |
+| 31.dez  | Seg        |        |       | _véspera_    |
+| 01.jan  | Ter        |        |       | _ano novo_   |
+| 02.jan  | Qua        |        |       |              |
+| 03.jan  | Qui        |        |       |              |
+| 04.jan  | Sex        |        |       |              |
+| 05.jan  | Sab        |        |       | _Ju & Bruna_ |
+| 06.jan  | Dom        |        |       |              |
