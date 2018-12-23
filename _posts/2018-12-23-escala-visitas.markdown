@@ -7,16 +7,6 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 17.dez | Seg | Juninho |             |
-| 18.dez | Ter | Eduardo |             |
-| 19.dez | Qua | Juninho |             |
-| 20.dez | Qui | Thiago  |             |
-| 21.dez | Sex | Eduardo |             |
-| 22.dez | Sab | Thiago  |             |
-| 23.dez | Dom | Eduardo |             |
-
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
 | 24.dez | Seg | Eduardo | _véspera_   |
 | 25.dez | Ter | Eduardo | _natal_     |
 | 26.dez | Qua | Juninho |             |
