@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lista de Tarefas"
-date:   2018-12-23 15:13:12 -0200
+date:   2018-12-23 17:20:12 -0200
 categories: misc
 ---
 
@@ -9,6 +9,7 @@ categories: misc
 
 ```
 Considerar mês da última atualização desta publicação.
+Atualizado em: 2018-12-23
 ```
 
 - [x] Comprar remédios recorrente `Thiago`
@@ -54,9 +55,9 @@ Considerar mês da última atualização desta publicação.
 	- [x] instalação: móvel e extensão de energia `Eduardo`
 
 
-- [ ] Recalcular orçamento combustível `Thiago`
-	- [ ] Calcular distância das residências até pensionato
-	- [ ] Calcular gastos de cada um (considerar consumo 10km/L)
+- [x] Recalcular orçamento combustível `Thiago`
+	- [x] Calcular distância das residências até pensionato
+	- [x] Calcular gastos de cada um (considerar consumo 10km/L)
 
 
 - [ ] Discutir Fisioterapia `TODOS`

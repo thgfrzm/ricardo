@@ -33,12 +33,14 @@ e este projeto adere à [Versionamento Semântico](https://semver.org/spec/v2.0.
 - Configurações: link/URLs amigáveis
 - Folha de estilo (CSS)
 
+
 ## [1.0.0] - 2018-12-23
 #### Adicionado
 - Página: Changelog
 - Posts: Escala de visitas (tabelas)
 - Posts: Tarefas (lista)
 - Posts: Medicamentos
+- Posts: Custo de deslocamento
 
 
 ## [0.1.0] - 2018-12-18
