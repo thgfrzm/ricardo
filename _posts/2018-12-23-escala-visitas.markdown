@@ -25,13 +25,12 @@ categories: agenda
 | 29.dez  | Sab        |        | Thiago  |             |
 | 30.dez  | Dom        |        | Juninho |             |
 
-
-| dia/mês | dia/semana | almoço | janta | observações  |
-| ------- | ---------- | ------ | ----- | ------------ |
-| 31.dez  | Seg        |        |       | _véspera_    |
-| 01.jan  | Ter        |        |       | _ano novo_   |
-| 02.jan  | Qua        |        |       |              |
-| 03.jan  | Qui        |        |       |              |
-| 04.jan  | Sex        |        |       |              |
-| 05.jan  | Sab        |        |       | _Ju & Bruna_ |
-| 06.jan  | Dom        |        |       |              |
+| dia/mês | dia/semana | almoço | janta   | observações  |
+| ------- | ---------- | ------ | ------- | ------------ |
+| 31.dez  | Seg        |        | Eduardo | _véspera_    |
+| 01.jan  | Ter        |        | Eduardo | _ano novo_   |
+| 02.jan  | Qua        |        | Juninho |              |
+| 03.jan  | Qui        |        | Thiago  |              |
+| 04.jan  | Sex        |        | Juninho |              |
+| 05.jan  | Sab        |        | Thiago  | _Ju & Bruna_ |
+| 06.jan  | Dom        |        | Thiago  |              |
