@@ -23,6 +23,7 @@ Atualizado em: 2018-12-23
 ---
 
 ## Dezembro'18:
+- [ ] Comprar calçado (tam. 38) `Thiago`
 - [ ] Acompanhamento - Natal `Eduardo`
 - [ ] Acompanhamento - Ano novo `Eduardo`
 
