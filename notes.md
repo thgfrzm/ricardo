@@ -1,3 +1,5 @@
+# Notas
+
 ## Prestashop
 
 Here are the standards, conventions and guidelines that we choose to follow as of May 10th, 2016 (for PrestaShop 1.6.1.5+ and PrestaShop 1.7):
