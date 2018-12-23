@@ -11,14 +11,15 @@ categories: misc
 Considerar mês da última atualização desta publicação.
 Atualizado em: 2018-12-23
 ```
-
+- [x] Sacar benefício banco Itaú `Thiago`
+- [x] Pagar aluguel do pensionato `Thiago`
 - [x] Comprar remédios recorrente `Thiago`
   - [x] Em farmácia - Vasogard™ (Cilostazol) 50mg 60comp/mês
   - [x] Em farmácia - AAS infantil 100mg 30comp/mês
   - [x] Em Posto de Saúde - Hidroclorotiazida 25mg 30comp/mês
   - [x] Em Posto de Saúde - Sinvastatina 40mg 30comp/mês
   - [x] Em Posto de Saúde - Losartana 50mg 30comp/mês
-- [x] Repassar aprox. R$200/mês para mãe
+- [x] Repassar aprox. R$200/mês para mãe `Thiago`
 
 ---
 
@@ -55,7 +56,7 @@ Atualizado em: 2018-12-23
 	- [ ] Acompanhamento - Posto de identificação (R. Guaporé, 180 | taxa R$25,00)
 	```
 	Juninho foi uma vez, mas foi pedido Cert. Casamento ao invés de
-	Cert. Nascimento. Novo agendamento será neessário.
+	Cert. Nascimento. Novo agendamento será neessário. `Juninho`
 	```
 - [x] Providenciar nova conta Poupança `Thiago`
 
