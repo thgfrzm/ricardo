@@ -33,6 +33,9 @@ e este projeto adere à [Versionamento Semântico](https://semver.org/spec/v2.0.
 - Configurações: link/URLs amigáveis
 - Folha de estilo (CSS)
 
+## [1.1.0] - 2018-12-24
+- Theme: Adicionado arquivos do tema default (minima) para possibilitar sobrescrita
+- Segurança: Adicionado meta tag para prevenir indexação deste site por mecanismos de pesquisa (não desejado)
 
 ## [1.0.0] - 2018-12-23
 #### Adicionado
