@@ -9,7 +9,7 @@ categories: misc
 
 ```
 Considerar mês da última atualização desta publicação.
-Atualizado em: 2018-12-23
+Atualizado em: 2018-12-26
 ```
 - [x] Sacar benefício banco Itaú `Thiago`
 - [x] Pagar aluguel do pensionato `Thiago`
@@ -24,8 +24,8 @@ Atualizado em: 2018-12-23
 ---
 
 ## Dezembro'18:
-- [ ] Comprar calçado (tam. 38) `Thiago`
-- [ ] Acompanhamento - Natal `Eduardo`
+- [x] Comprar calçado (tam. 38) `Thiago`
+- [x] Acompanhamento - Natal `Eduardo`
 - [ ] Acompanhamento - Ano novo `Eduardo`
 - [ ] Providenciar receita médica (venceu em 11/2018)
   - [x] Pedir mudança de Posto de Saúde (Jrd. Interlagos) `Thiago`

@@ -10,8 +10,8 @@ categories: agenda
 | 24.dez | Seg | Eduardo | _véspera_   |
 | 25.dez | Ter | Eduardo | _natal_     |
 | 26.dez | Qua | Juninho |             |
-| 27.dez | Qui | Thiago  |             |
-| 28.dez | Sex | Juninho |             |
+| 27.dez | Qui | Juninho |             |
+| 28.dez | Sex | Thiago  |             |
 | 29.dez | Sab | Thiago  |             |
 | 30.dez | Dom | Juninho |             |
 
