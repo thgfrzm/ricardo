@@ -1,9 +1,54 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2018-12-30 19:00:00 -0200
+date:   2019-01-03 21:33:21 -0200
 categories: agenda
 ---
+
+### Atual
+
+| data   | dia | visita  | observações  |
+| ------ | --- | ------- | ------------ |
+| 31.dez | Seg | Eduardo | _véspera_    |
+| 01.jan | Ter | Eduardo | _ano novo_   |
+| 02.jan | Qua | Juninho |              |
+| 03.jan | Qui | Thiago  |              |
+| 04.jan | Sex | Thiago¹ |              |
+| 05.jan | Sab | Thiago  | _Ju & Bruna_ |
+| 06.jan | Dom | Thiago  |              |
+
+¹assumiu visita de Juninho
+
+
+### Próximas semanas
+
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 07.dez | Seg | Eduardo |             |
+| 08.jan | Ter | Thiago  |             |
+| 09.jan | Qua | Thiago² |             |
+| 10.jan | Qui | Thiago  |             |
+| 11.jan | Sex | Eduardo |             |
+| 12.jan | Sab | Thiago  |             |
+| 13.jan | Dom | Eduardo |             |
+
+²devolvendo visita 29.dez
+
+
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 14.dez | Seg | Thiago  |             |
+| 15.jan | Ter | Eduardo |             |
+| 16.jan | Qua | Thiago  |             |
+| 17.jan | Qui | Eduardo |             |
+| 18.jan | Sex | Thiago  |             |
+| 19.jan | Sab | Eduardo |             |
+| 20.jan | Dom | Thiago  |             |
+
+
+---
+
+#### Histórico
 
 | data   | dia | visita   | observações |
 | ------ | --- | -------- | ----------- |
@@ -12,17 +57,7 @@ categories: agenda
 | 26.dez | Qua | Juninho  |             |
 | 27.dez | Qui | Juninho  |             |
 | 28.dez | Sex | Thiago   |             |
-| 29.dez | Sab | Eduardo¹ |             |
+| 29.dez | Sab | Eduardo* |             |
 | 30.dez | Dom | Juninho  |             |
 
-¹assumiu visita de Thiago
-
-| data   | dia | visita  | observações  |
-| ------ | --- | ------- | ------------ |
-| 31.dez | Seg | Eduardo | _véspera_    |
-| 01.jan | Ter | Eduardo | _ano novo_   |
-| 02.jan | Qua | Juninho |              |
-| 03.jan | Qui | Thiago  |              |
-| 04.jan | Sex | Juninho |              |
-| 05.jan | Sab | Thiago  | _Ju & Bruna_ |
-| 06.jan | Dom | Thiago  |              |
+*assumiu visita de Thiago
