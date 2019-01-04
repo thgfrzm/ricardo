@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lista de Tarefas"
-date:   2018-12-23 17:20:12 -0200
+date:   2019-01-03 21:59:23 -0200
 categories: misc
 ---
 
@@ -9,24 +9,20 @@ categories: misc
 
 ```
 Considerar mês da última atualização desta publicação.
-Atualizado em: 2018-12-26
+Atualizado em: 2019-01-03
 ```
-- [x] Sacar benefício banco Itaú `Thiago`
-- [x] Pagar aluguel do pensionato `Thiago`
-- [x] Comprar remédios recorrente `Thiago`
-  - [x] Em farmácia - Vasogard™ (Cilostazol) 50mg 60comp/mês
-  - [x] Em farmácia - AAS infantil 100mg 30comp/mês
-  - [x] Em Posto de Saúde - Hidroclorotiazida 25mg 30comp/mês
-  - [x] Em Posto de Saúde - Sinvastatina 40mg 30comp/mês
-  - [x] Em Posto de Saúde - Losartana 50mg 30comp/mês
-- [x] Repassar aprox. R$200/mês para mãe `Thiago`
+- [ ] Sacar benefício banco Itaú `Thiago`
+- [ ] Pagar aluguel do pensionato `Thiago`
+- [ ] Comprar remédios recorrente `Thiago`
+  - [ ] Em farmácia - Vasogard™ (Cilostazol) 50mg 60comp/mês
+  - [ ] Em farmácia - AAS infantil 100mg 30comp/mês
+  - [ ] Em Posto de Saúde - Hidroclorotiazida 25mg 30comp/mês
+  - [ ] Em Posto de Saúde - Sinvastatina 40mg 30comp/mês
+  - [ ] Em Posto de Saúde - Losartana 50mg 30comp/mês
+- [ ] Repassar aprox. R$200/mês para mãe `Thiago`
 
 ---
-
-## Dezembro'18:
-- [x] Comprar calçado (tam. 38) `Thiago`
-- [x] Acompanhamento - Natal `Eduardo`
-- [ ] Acompanhamento - Ano novo `Eduardo`
+## Em aberto (2018)
 - [ ] Providenciar receita médica (venceu em 11/2018)
   - [x] Pedir mudança de Posto de Saúde (Jrd. Interlagos) `Thiago`
   - [x] Acompanhamento - Exames 3.Dez, 7h00 `Thiago`
@@ -42,14 +38,6 @@ Atualizado em: 2018-12-26
 	dúvida: É necessário tratamento com hidroclorotiazida e
 	losartana (tratamento de hipertensão) simultaneamente?
 	```
-
-## Novembro'18:
-- [x] Acompanhamento - Finados `Thiago`
-- [x] Antena (sinal analógico encerra em 28.Nov) `Eduardo`
-
-## Outubro'18:
-- [x] Acompanhamento - Eleições (1º turno) `Eduardo`
-- [x] Acompanhamento - Eleições (2º turno) `Eduardo`
 - [ ] Providenciar novo RG
 	- [x] Documentos - 02 (duas) fotos 3X4; `Eduardo`;
 	- [x] Documentos - Cópias simples RG, CPF, PIS/PASEP, Cert. Casamento `Thiago`
@@ -58,6 +46,20 @@ Atualizado em: 2018-12-26
 	Juninho foi uma vez, mas foi pedido Cert. Casamento ao invés de
 	Cert. Nascimento. Novo agendamento será neessário. `Juninho`
 	```
+
+
+## Dezembro'18:
+- [x] Comprar calçado (tam. 38) `Thiago`
+- [x] Acompanhamento - Natal `Eduardo`
+- [x] Acompanhamento - Ano novo `Eduardo`
+
+## Novembro'18:
+- [x] Acompanhamento - Finados `Thiago`
+- [x] Antena (sinal analógico encerra em 28.Nov) `Eduardo`
+
+## Outubro'18:
+- [x] Acompanhamento - Eleições (1º turno) `Eduardo`
+- [x] Acompanhamento - Eleições (2º turno) `Eduardo`
 - [x] Providenciar nova conta Poupança `Thiago`
 
 ## Sem prazo:
@@ -71,8 +73,7 @@ Atualizado em: 2018-12-26
 	- [x] Calcular distância das residências até pensionato
 	- [x] Calcular gastos de cada um (considerar consumo 10km/L)
 
-
-- [ ] Discutir Fisioterapia `TODOS`
+- [ ] Discutir Fisioterapia
 	* pai informou (sobre atendimento na R. São Paulo) que:
 		* é só chegar no posto e aguardar atendimento;
 		* tem todos os dias 9h;

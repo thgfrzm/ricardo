@@ -1,39 +1,36 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-01-03 21:33:21 -0200
+date:   2019-01-03 21:58:58 -0200
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações  |
-| ------ | --- | ------- | ------------ |
-| 31.dez | Seg | Eduardo | _véspera_    |
-| 01.jan | Ter | Eduardo | _ano novo_   |
-| 02.jan | Qua | Juninho |              |
-| 03.jan | Qui | Thiago  |              |
-| 04.jan | Sex | Thiago¹ |              |
-| 05.jan | Sab | Thiago  | _Ju & Bruna_ |
-| 06.jan | Dom | Thiago  |              |
-
-¹assumiu visita de Juninho
+| data   | dia | visita     | observações   |
+| ------ | --- | ---------- | ------------- |
+| 31.dez | Seg | Eduardo    | _véspera_     |
+| 01.jan | Ter | Eduardo    | _ano novo_    |
+| 02.jan | Qua | Juninho    |               |
+| 03.jan | Qui | Thiago     |               |
+| 04.jan | Sex | **Thiago** | subs. Juninho |
+| 05.jan | Sab | Thiago     | _Ju & Bruna_  |
+| 06.jan | Dom | Thiago     |               |
 
 
 ### Próximas semanas
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 07.dez | Seg | Eduardo |             |
-| 08.jan | Ter | Thiago  |             |
-| 09.jan | Qua | Thiago² |             |
-| 10.jan | Qui | Thiago  |             |
-| 11.jan | Sex | Eduardo |             |
-| 12.jan | Sab | Thiago  |             |
-| 13.jan | Dom | Eduardo |             |
+| data   | dia | visita     | observações |
+| ------ | --- | ---------- | ----------- |
+| 07.dez | Seg | Eduardo    |             |
+| 08.jan | Ter | Thiago     |             |
+| 09.jan | Qua | **Thiago** | ref. 29.dez |
+| 10.jan | Qui | Thiago     |             |
+| 11.jan | Sex | Eduardo    |             |
+| 12.jan | Sab | Thiago     |             |
+| 13.jan | Dom | Eduardo    |             |
 
-²devolvendo visita 29.dez
-
+.
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
@@ -50,14 +47,12 @@ categories: agenda
 
 #### Histórico
 
-| data   | dia | visita   | observações |
-| ------ | --- | -------- | ----------- |
-| 24.dez | Seg | Eduardo  | _véspera_   |
-| 25.dez | Ter | Eduardo  | _natal_     |
-| 26.dez | Qua | Juninho  |             |
-| 27.dez | Qui | Juninho  |             |
-| 28.dez | Sex | Thiago   |             |
-| 29.dez | Sab | Eduardo* |             |
-| 30.dez | Dom | Juninho  |             |
-
-*assumiu visita de Thiago
+| data   | dia | visita      | observações  |
+| ------ | --- | ----------- | ------------ |
+| 24.dez | Seg | Eduardo     | _véspera_    |
+| 25.dez | Ter | Eduardo     | _natal_      |
+| 26.dez | Qua | Juninho     |              |
+| 27.dez | Qui | Juninho     |              |
+| 28.dez | Sex | Thiago      |              |
+| 29.dez | Sab | **Eduardo** | subs. Thiago |
+| 30.dez | Dom | Juninho     |              |
