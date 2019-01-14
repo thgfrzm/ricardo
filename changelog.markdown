@@ -32,11 +32,11 @@ e este projeto adere à [Versionamento Semântico](https://semver.org/spec/v2.0.
 ## [A lançar]
 (a definir)
 
-## [1.2.0] - 2019-01-14
+## [1.1.0] - 2019-01-14
 #### Adicionado
 - CSS: tabelas agora possuem cor para facilitar identificação dos nomes na Escala de visitas
 
-## [1.1.0] - 2018-12-24
+## [1.0.1] - 2018-12-24
 #### Modificado
 - Configurações: link/URLs amigáveis
 - Tema: Adicionado arquivos do tema default (minima) para possibilitar sobrescrita
