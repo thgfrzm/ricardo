@@ -30,13 +30,17 @@ e este projeto adere à [Versionamento Semântico](https://semver.org/spec/v2.0.
 -->
 
 ## [A lançar]
-- Folha de estilo (CSS)
+(a definir)
+
+## [1.2.0] - 2019-01-14
+#### Adicionado
+- CSS: tabelas agora possuem cor para facilitar identificação dos nomes na Escala de visitas
 
 ## [1.1.0] - 2018-12-24
-#### Melhorias
+#### Modificado
 - Configurações: link/URLs amigáveis
-- Theme: Adicionado arquivos do tema default (minima) para possibilitar sobrescrita
-- Segurança: Adicionado meta tag para prevenir indexação deste site por mecanismos de pesquisa (não desejado)
+- Tema: Adicionado arquivos do tema default (minima) para possibilitar sobrescrita
+- Segurança: Adicionado meta tag para prevenir indexação (não desejada) deste site por mecanismos de pesquisa
 
 ## [1.0.0] - 2018-12-23
 #### Adicionado

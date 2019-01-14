@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lista de Tarefas"
-date:   2019-01-03 21:59:23 -0200
+date:   2019-01-14 02:26:41 -0200
 categories: misc
 ---
 
@@ -9,10 +9,10 @@ categories: misc
 
 ```
 Considerar mês da última atualização desta publicação.
-Atualizado em: 2019-01-03
+Atualizado em: 2019-01-14
 ```
-- [ ] Sacar benefício banco Itaú `Thiago`
-- [ ] Pagar aluguel do pensionato `Thiago`
+- [x] Sacar benefício banco Itaú `Thiago`
+- [x] Pagar aluguel do pensionato `Thiago`
 - [ ] Comprar remédios recorrente `Thiago`
   - [ ] Em farmácia - Vasogard™ (Cilostazol) 50mg 60comp/mês
   - [ ] Em farmácia - AAS infantil 100mg 30comp/mês
@@ -32,12 +32,12 @@ Atualizado em: 2019-01-03
 	```
 	nota: houve alterações (incoformidade com padrões);
 	ao tentar agendamento, por duas vezes, fomos informados que:
-	- agendamento só são realizados no período da manhã; `Thiago`
-	- sistema estava fora do ar na última tentativa. `Juninho`
-
+	- agendamento só são realizados no período da manhã; (Thiago)
+	- sistema estava fora do ar na última tentativa. (Juninho)
 	dúvida: É necessário tratamento com hidroclorotiazida e
 	losartana (tratamento de hipertensão) simultaneamente?
 	```
+
 - [ ] Providenciar novo RG
 	- [x] Documentos - 02 (duas) fotos 3X4; `Eduardo`;
 	- [x] Documentos - Cópias simples RG, CPF, PIS/PASEP, Cert. Casamento `Thiago`
@@ -73,11 +73,13 @@ Atualizado em: 2019-01-03
 	- [x] Calcular distância das residências até pensionato
 	- [x] Calcular gastos de cada um (considerar consumo 10km/L)
 
-- [ ] Discutir Fisioterapia
-	* pai informou (sobre atendimento na R. São Paulo) que:
-		* é só chegar no posto e aguardar atendimento;
-		* tem todos os dias 9h;
-		* não consegue se deslocar até lá;
+- ~~Discutir Fisioterapia~~
+	```
+	pai informou (sobre atendimento na R. São Paulo) que:
+	- é só chegar no posto e aguardar atendimento;
+	- tem todos os dias 9h;
+	- não consegue se deslocar até lá;
+	```
 
 ## A decidir:
 ~~Comprar TV moderna (c/ conversor digital)~~ `rejeitado`
