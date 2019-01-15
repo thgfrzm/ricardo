@@ -12,8 +12,8 @@ categories: agenda
 | 14.dez | Seg | Thiago  |             |
 | 15.jan | Ter | Eduardo |             |
 | 16.jan | Qua | Juninho |             |
-| 17.jan | Qui | Thiago  |             |
-| 18.jan | Sex | Juninho |             |
+| 17.jan | Qui | **Juninho**  | troca            |
+| 18.jan | Sex | **Thiago** | troca            |
 | 19.jan | Sab | Eduardo |             |
 | 20.jan | Dom | Thiago  |             |
 
