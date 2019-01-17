@@ -20,6 +20,8 @@ categories: agenda
 ### Próximas semanas
 
 (a definir)
+obs.: Juninho folga dias pares
+obs.: agendar dia para fazer novo RG
 
 ---
 
