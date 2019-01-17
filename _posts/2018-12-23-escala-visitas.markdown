@@ -1,27 +1,36 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-01-13 20:40:44 -0200
+date:   2019-01-16 22:49:17 -0200
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 14.dez | Seg | Thiago  |             |
-| 15.jan | Ter | Eduardo |             |
-| 16.jan | Qua | Juninho |             |
-| 17.jan | Qui | **Juninho**  | troca            |
-| 18.jan | Sex | **Thiago** | troca            |
-| 19.jan | Sab | Eduardo |             |
-| 20.jan | Dom | Thiago  |             |
+| data   | dia | visita      | observações |
+| ------ | --- | ----------- | ----------- |
+| 14.dez | Seg | Thiago      |             |
+| 15.jan | Ter | Eduardo     |             |
+| 16.jan | Qua | Juninho     |             |
+| 17.jan | Qui | **Juninho** | troca       |
+| 18.jan | Sex | **Eduardo** | troca       |
+| 19.jan | Sab | **Thiago**  | troca       |
+| 20.jan | Dom | Thiago      |             |
 
 ### Próximas semanas
 
-(a definir)
-obs.: Juninho folga dias pares
-obs.: agendar dia para fazer novo RG
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 21.dez | Seg | Eduardo |             |
+| 22.jan | Ter | Juninho |             |
+| 23.jan | Qua | Thiago  |             |
+| 24.jan | Qui | Juninho |             |
+| 25.jan | Sex | Eduardo |             |
+| 26.jan | Sab | Thiago  |             |
+| 27.jan | Dom | Eduardo |             |
+
+[Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas):
+obs.: agendar dia para fazer novo RG (Juninho folga dias pares)
 
 ---
 

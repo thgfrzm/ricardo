@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lista de Tarefas"
-date:   2019-01-14 02:26:41 -0200
+date:   2019-01-16 22:49:23 -0200
 categories: misc
 ---
 
@@ -9,17 +9,17 @@ categories: misc
 
 ```
 Considerar mês da última atualização desta publicação.
-Atualizado em: 2019-01-14
+Atualizado em: 2019-01-16
 ```
 - [x] Sacar benefício banco Itaú `Thiago`
 - [x] Pagar aluguel do pensionato `Thiago`
-- [ ] Comprar remédios recorrente `Thiago`
-  - [ ] Em farmácia - Vasogard™ (Cilostazol) 50mg 60comp/mês
-  - [ ] Em farmácia - AAS infantil 100mg 30comp/mês
-  - [ ] Em Posto de Saúde - Hidroclorotiazida 25mg 30comp/mês
-  - [ ] Em Posto de Saúde - Sinvastatina 40mg 30comp/mês
-  - [ ] Em Posto de Saúde - Losartana 50mg 30comp/mês
-- [ ] Repassar aprox. R$200/mês para mãe `Thiago`
+- [x] Comprar remédios recorrente `Thiago`
+  - [x] Em farmácia - Vasogard™ (Cilostazol) 50mg 60comp/mês
+  - [x] Em farmácia - AAS infantil 100mg 30comp/mês
+  - [x] Em Posto de Saúde - Hidroclorotiazida 25mg 30comp/mês
+  - [x] Em Posto de Saúde - Sinvastatina 40mg 30comp/mês
+  - [x] Em Posto de Saúde - Losartana 50mg 30comp/mês
+- [x] Repassar aprox. R$200/mês para mãe `Thiago`
 
 ---
 ## Em aberto (2018)
@@ -27,7 +27,7 @@ Atualizado em: 2019-01-14
   - [x] Pedir mudança de Posto de Saúde (Jrd. Interlagos) `Thiago`
   - [x] Acompanhamento - Exames 3.Dez, 7h00 `Thiago`
   - [x] Ver resultados - a partir de 11.Dez `Juninho`
-  - [ ] Caso der alterações, pedir agendamento com prioridade
+  - [ ] Caso der alterações, pedir agendamento com prioridade `Eduardo`
   - [ ] Acompanhamento - Consulta médico (sem prioridade está agendado para 1º.Abr)
 	```
 	nota: houve alterações (incoformidade com padrões);
@@ -41,7 +41,9 @@ Atualizado em: 2019-01-14
 - [ ] Providenciar novo RG
 	- [x] Documentos - 02 (duas) fotos 3X4; `Eduardo`;
 	- [x] Documentos - Cópias simples RG, CPF, PIS/PASEP, Cert. Casamento `Thiago`
-	- [ ] Acompanhamento - Posto de identificação (R. Guaporé, 180 | taxa R$25,00)
+	- [ ] Documentos - Cópias simples Comprovante de Residência `Thiago`
+	- [ ] Agendamento `Thiago`
+	- [ ] Acompanhamento - Posto de identificação (R. Guaporé, 180 | taxa R$25,00) `Juninho`
 	```
 	Juninho foi uma vez, mas foi pedido Cert. Casamento ao invés de
 	Cert. Nascimento. Novo agendamento será neessário. `Juninho`
