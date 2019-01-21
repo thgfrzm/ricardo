@@ -4,6 +4,25 @@
 
 @import "minima";
 
-table>tbody>tr>td:last-child{
+table>tbody>tr>td:last-child {
   background: #F0F0F0;
+}
+
+#github_account img {
+  max-width: 64px;
+}
+
+#github_account span {
+  font-weight: bolder;
+  font-kerning: normal;
+  letter-spacing: 2px;
+  padding-left: 15px;
+}
+
+.site-footer {
+  display: inline-flex;
+}
+
+.footer-col-wrapper {
+  font-size: 42px;
 }

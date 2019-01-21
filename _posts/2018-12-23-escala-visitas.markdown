@@ -1,35 +1,28 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-01-16 22:49:17 -0200
+date:   2019-01-21 00:36:36 -0200
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita      | observações |
-| ------ | --- | ----------- | ----------- |
-| 14.dez | Seg | Thiago      |             |
-| 15.jan | Ter | Eduardo     |             |
-| 16.jan | Qua | Juninho     |             |
-| 17.jan | Qui | **Juninho** | troca       |
-| 18.jan | Sex | **Eduardo** | troca       |
-| 19.jan | Sab | **Thiago**  | troca       |
-| 20.jan | Dom | Thiago      |             |
-
-### Próximas semanas
-
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 21.dez | Seg | Eduardo |             |
+| 21.dez | Seg | Thiago  |             |
 | 22.jan | Ter | Juninho |             |
-| 23.jan | Qua | Thiago  |             |
+| 23.jan | Qua | Eduardo |             |
 | 24.jan | Qui | Juninho |             |
 | 25.jan | Sex | Eduardo |             |
 | 26.jan | Sab | Thiago  |             |
 | 27.jan | Dom | Eduardo |             |
 
-[Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas):
+### Próximas semanas
+
+a definir
+
+[Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
+
 obs.: agendar dia para fazer novo RG (Juninho folga dias pares)
 
 ---
@@ -59,3 +52,10 @@ obs.: agendar dia para fazer novo RG (Juninho folga dias pares)
 | 11.jan | Sex | **Thiago**  | troca         |
 | 12.jan | Sab | **Eduardo** | troca         |
 | 13.jan | Dom | Eduardo     |               |
+| 14.dez | Seg | Thiago      |               |
+| 15.jan | Ter | Eduardo     |               |
+| 16.jan | Qua | Juninho     |               |
+| 17.jan | Qui | **Juninho** | troca         |
+| 18.jan | Sex | **Eduardo** | troca         |
+| 19.jan | Sab | **Thiago**  | troca         |
+| 20.jan | Dom | Thiago      |               |
