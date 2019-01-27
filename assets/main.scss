@@ -8,21 +8,68 @@ table>tbody>tr>td:last-child {
   background: #F0F0F0;
 }
 
-#github_account img {
-  max-width: 64px;
+#github_account a {
+  text-decoration: none;
+  color: #424242;
 }
 
-#github_account span {
-  font-weight: bolder;
-  font-kerning: normal;
-  letter-spacing: 2px;
-  padding-left: 15px;
+#github_account img {
+  max-width: 24px;
+  padding-bottom: 4px;
+}
+
+.site-nav .page-link {
+  padding: 0 15px;
+}
+
+nav.site-nav {
+  display: inline-flex;
+}
+
+.page-content {
+  margin-top: 80px;
+  padding: 0;
+}
+
+.site-header {
+  position: fixed;
+  z-index: 1030 !important;
+  width: 100%;
+  border-bottom: none;
+  box-shadow: 1px 1px 8px 1px #CCC;
+  background: rgba(255, 255, 255, 0.90);
+  transition: all .7s ease;
 }
 
 .site-footer {
   display: inline-flex;
 }
 
-.footer-col-wrapper {
-  font-size: 42px;
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 30px 0;
+}
+
+a#github {
+  color: #424242;
+  padding-right: 15px;
+  text-decoration: none;
+}
+
+a#github > img {
+  height: 20px;
+  padding-bottom: 8px;
+}
+
+
+@media screen and (max-width: 600px){
+
+  .trigger {
+    padding-top: 8px;
+  }
+
+  .site-nav input:checked ~ .trigger {
+    padding-bottom: unset;
+  }
+
 }

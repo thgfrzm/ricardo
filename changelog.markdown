@@ -32,6 +32,15 @@ e este projeto adere à [Versionamento Semântico](https://semver.org/spec/v2.0.
 ## [A lançar]
 (a definir)
 
+## [1.1.1] - 2019-01-27
+#### Modificado
+- Header: fixado no topo;
+- Footer: removido;
+
+#### Corrigido
+- Header: correção de quebra de link de imagens;
+
+
 ## [1.1.0] - 2019-01-14
 #### Adicionado
 - CSS: tabelas agora possuem cor para facilitar identificação dos nomes na Escala de visitas
