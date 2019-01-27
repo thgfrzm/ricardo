@@ -4,6 +4,10 @@
 
 @import "minima";
 
+ul.post-list li {
+  margin-bottom: 0;
+}
+
 table>tbody>tr>td:last-child {
   background: #F0F0F0;
 }
