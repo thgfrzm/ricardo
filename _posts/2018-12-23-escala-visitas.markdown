@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-01-27 15:00:41 -0200
+date:   2019-01-27 18:46:59 -0200
 categories: agenda
 ---
 
@@ -9,7 +9,7 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 28.dez | Seg | Eduardo |             |
+| 28.jan | Seg | Eduardo |             |
 | 29.jan | Ter | Juninho |             |
 | 30.jan | Qua | Thiago  |             |
 | 31.jan | Qui | Juninho |             |
@@ -54,21 +54,21 @@ obs.: agendar dia para fazer novo RG (Juninho folga dias pares)
 | 04.jan | Sex | **Thiago**  | subs. Juninho |
 | 05.jan | Sab | Thiago      | _Ju & Bruna_  |
 | 06.jan | Dom | Thiago      |               |
-| 07.dez | Seg | Eduardo     |               |
+| 07.jan | Seg | Eduardo     |               |
 | 08.jan | Ter | Thiago      |               |
 | 09.jan | Qua | **Thiago**  | ref. 29.dez   |
 | 10.jan | Qui | Thiago      |               |
 | 11.jan | Sex | **Thiago**  | troca         |
 | 12.jan | Sab | **Eduardo** | troca         |
 | 13.jan | Dom | Eduardo     |               |
-| 14.dez | Seg | Thiago      |               |
+| 14.jan | Seg | Thiago      |               |
 | 15.jan | Ter | Eduardo     |               |
 | 16.jan | Qua | Juninho     |               |
 | 17.jan | Qui | **Juninho** | troca         |
 | 18.jan | Sex | **Eduardo** | troca         |
 | 19.jan | Sab | **Thiago**  | troca         |
 | 20.jan | Dom | Thiago      |               |
-| 21.dez | Seg | Thiago      |               |
+| 21.jan | Seg | Thiago      |               |
 | 22.jan | Ter | Juninho     |               |
 | 23.jan | Qua | Eduardo     |               |
 | 24.jan | Qui | Juninho     |               |
