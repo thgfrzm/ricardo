@@ -32,13 +32,17 @@ e este projeto adere à [Versionamento Semântico](https://semver.org/spec/v2.0.
 ## [A lançar]
 (a definir)
 
+## [1.1.2] - 2019-02-10
+#### Adicionado
+- Tracking: Google Analytics
+
 ## [1.1.1] - 2019-01-27
 #### Modificado
-- Header: fixado no topo;
-- Footer: removido;
+- Header: fixado no topo
+- Footer: removido
 
 #### Corrigido
-- Header: correção de quebra de link de imagens;
+- Header: correção de quebra de link de imagens
 
 
 ## [1.1.0] - 2019-01-14
