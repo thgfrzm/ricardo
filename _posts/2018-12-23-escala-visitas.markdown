@@ -1,33 +1,33 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-01-27 18:46:59 -0200
+date:   2019-02-10 18:32:08 -0200
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 28.jan | Seg | Eduardo |             |
-| 29.jan | Ter | Juninho |             |
-| 30.jan | Qua | Thiago  |             |
-| 31.jan | Qui | Juninho |             |
-| 01.fev | Sex | Thiago  |             |
-| 02.fev | Sab | Thiago  |             |
-| 03.fev | Dom | Eduardo |             |
+| data   | dia | visita  | observações       |
+| ------ | --- | ------- | ----------------- |
+| 11.jan | Seg | Eduardo |                   |
+| 12.jan | Ter | Juninho |                   |
+| 13.jan | Qua | Thiago  |                   |
+| 14.jan | Qui | Juninho |                   |
+| 15.fev | Sex | Eduardo |                   |
+| 16.fev | Sab | Thiago  |                   |
+| 17.fev | Dom | Thiago  | fim horário verão |
 
 ### Próximas semanas
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 04.fev | Seg | Eduardo |             |
-| 05.fev | Ter | Juninho |             |
-| 06.fev | Qua | Thiago  |             |
-| 07.fev | Qui | Juninho |             |
-| 08.fev | Sex | Eduardo |             |
-| 09.fev | Sab | Eduardo |             |
-| 10.fev | Dom | Thiago  |             |
+| 18.fev | Seg | Eduardo |             |
+| 19.fev | Ter | Juninho |             |
+| 20.fev | Qua | Thiago  |             |
+| 21.fev | Qui | Juninho |             |
+| 22.fev | Sex | Eduardo |             |
+| 23.fev | Sab | Eduardo |             |
+| 24.fev | Dom | Thiago  |             |
 
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
@@ -75,3 +75,17 @@ obs.: agendar dia para fazer novo RG (Juninho folga dias pares)
 | 25.jan | Sex | Eduardo     |               |
 | 26.jan | Sab | Thiago      |               |
 | 27.jan | Dom | Eduardo     |               |
+| 28.jan | Seg | Eduardo     |               |
+| 29.jan | Ter | Juninho     |               |
+| 30.jan | Qua | Thiago      |               |
+| 31.jan | Qui | Juninho     |               |
+| 01.fev | Sex | Thiago      |               |
+| 02.fev | Sab | Thiago      |               |
+| 03.fev | Dom | Eduardo     |               |
+| 04.fev | Seg | Eduardo     |               |
+| 05.fev | Ter | Juninho     |               |
+| 06.fev | Qua | Thiago      |               |
+| 07.fev | Qui | Juninho     |               |
+| 08.fev | Sex | Eduardo     |               |
+| 09.fev | Sab | Eduardo     |               |
+| 10.fev | Dom | Thiago      |               |
