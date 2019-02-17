@@ -1,23 +1,11 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-02-10 18:32:08 -0200
+date:   2019-02-17 16:16:00 -0200
 categories: agenda
 ---
 
 ### Atual
-
-| data   | dia | visita  | observações       |
-| ------ | --- | ------- | ----------------- |
-| 11.jan | Seg | Eduardo |                   |
-| 12.jan | Ter | Juninho |                   |
-| 13.jan | Qua | Thiago  |                   |
-| 14.jan | Qui | Juninho |                   |
-| 15.fev | Sex | Eduardo |                   |
-| 16.fev | Sab | Thiago  |                   |
-| 17.fev | Dom | Thiago  | fim horário verão |
-
-### Próximas semanas
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
@@ -28,6 +16,11 @@ categories: agenda
 | 22.fev | Sex | Eduardo |             |
 | 23.fev | Sab | Eduardo |             |
 | 24.fev | Dom | Thiago  |             |
+
+
+### Próximas semanas
+
+a definir
 
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
@@ -89,3 +82,10 @@ obs.: agendar dia para fazer novo RG (Juninho folga dias pares)
 | 08.fev | Sex | Eduardo     |               |
 | 09.fev | Sab | Eduardo     |               |
 | 10.fev | Dom | Thiago      |               |
+| 11.jan | Seg | Eduardo |                   |
+| 12.jan | Ter | Juninho |                   |
+| 13.jan | Qua | Thiago  |                   |
+| 14.jan | Qui | Juninho |                   |
+| 15.fev | Sex | Eduardo |                   |
+| 16.fev | Sab | Thiago  |                   |
+| 17.fev | Dom | Thiago  | fim horário verão |
