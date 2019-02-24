@@ -33,6 +33,13 @@ categories: agenda
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
 
+- [ ] reorganizar documentos e cópicas
+
+- [ ] agendar data no [Instituto de Identificação do Paraná](http://www.institutodeidentificacao.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61)
+
+RG: pesquisar no histórico do grupo no whatsapp
+
+
 obs.: agendar dia para fazer novo RG (Juninho folga dias pares)
 
 ---
