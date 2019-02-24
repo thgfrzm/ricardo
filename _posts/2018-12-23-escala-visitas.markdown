@@ -40,8 +40,6 @@ categories: agenda
 RG: pesquisar no histórico do grupo no whatsapp
 
 
-obs.: agendar dia para fazer novo RG (Juninho folga dias pares)
-
 ---
 
 #### Histórico
