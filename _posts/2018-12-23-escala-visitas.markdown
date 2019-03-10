@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-02-24 18:13:34 -0300
+date:   2019-03-10 12:28:59 -0300
 categories: agenda
 ---
 
@@ -9,26 +9,26 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 25.fev | Seg | Eduardo |             |
-| 26.fev | Ter | Juninho |             |
-| 27.fev | Qua | Thiago  |             |
-| 28.fev | Qui | Juninho |             |
-| 01.mar | Sex | Thiago  |             |
-| 02.mar | Sab | Eduardo |             |
-| 03.mar | Dom | Thiago  |             |
+| 11.mar | Seg | Thiago  |             |
+| 12.mar | Ter | Juninho |             |
+| 13.mar | Qua | Thiago  |             |
+| 14.mar | Qui | Juninho |             |
+| 15.mar | Sex | Thiago  |             |
+| 16.mar | Sab | Thiago  |             |
+| 17.mar | Dom | Eduardo |             |
 
 
 ### Próximas semanas
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 04.mar | Seg | Eduardo |             |
-| 05.mar | Ter | Juninho | _carnaval_  |
-| 06.mar | Qua | Thiago  | _cinzas_    |
-| 07.mar | Qui | Juninho |             |
-| 08.mar | Sex | Eduardo |             |
-| 09.mar | Sab | Eduardo |             |
-| 10.mar | Dom | Thiago  |             |
+| 11.mar | Seg | Eduardo |             |
+| 12.mar | Ter | Juninho |             |
+| 13.mar | Qua | Eduardo |             |
+| 14.mar | Qui | Juninho |             |
+| 15.mar | Sex | Thiago  |             |
+| 16.mar | Sab | Eduardo |             |
+| 17.mar | Dom | Eduardo |             |
 
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
@@ -109,3 +109,17 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 22.fev | Sex | Eduardo     |                   |
 | 23.fev | Sab | Eduardo     |                   |
 | 24.fev | Dom | Thiago      |                   |
+| 25.fev | Seg | Eduardo     |                   |
+| 26.fev | Ter | Juninho     |                   |
+| 27.fev | Qua | Thiago      |                   |
+| 28.fev | Qui | Juninho     |                   |
+| 01.mar | Sex | Thiago      |                   |
+| 02.mar | Sab | Eduardo     |                   |
+| 03.mar | Dom | Thiago      |                   |
+| 04.mar | Seg | Eduardo     |                   |
+| 05.mar | Ter | Juninho     | _carnaval_        |
+| 06.mar | Qua | Thiago      | _cinzas_          |
+| 07.mar | Qui | Juninho     |                   |
+| 08.mar | Sex | Eduardo     |                   |
+| 09.mar | Sab | Eduardo     |                   |
+| 10.mar | Dom | Thiago      |                   |
