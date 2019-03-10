@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-03-10 12:28:59 -0300
+date:   2019-03-10 15:17:22 -0300
 categories: agenda
 ---
 
@@ -13,7 +13,7 @@ categories: agenda
 | 12.mar | Ter | Juninho |             |
 | 13.mar | Qua | Thiago  |             |
 | 14.mar | Qui | Juninho |             |
-| 15.mar | Sex | Thiago  |             |
+| 15.mar | Sex | Eduardo |             |
 | 16.mar | Sab | Thiago  |             |
 | 17.mar | Dom | Eduardo |             |
 
@@ -27,7 +27,7 @@ categories: agenda
 | 13.mar | Qua | Eduardo |             |
 | 14.mar | Qui | Juninho |             |
 | 15.mar | Sex | Thiago  |             |
-| 16.mar | Sab | Eduardo |             |
+| 16.mar | Sab | Thiago  |             |
 | 17.mar | Dom | Eduardo |             |
 
 
