@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-03-10 15:17:22 -0300
+date:   2019-03-10 16:48:24 -0300
 categories: agenda
 ---
 
@@ -22,13 +22,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 11.mar | Seg | Eduardo |             |
-| 12.mar | Ter | Juninho |             |
-| 13.mar | Qua | Eduardo |             |
-| 14.mar | Qui | Juninho |             |
-| 15.mar | Sex | Thiago  |             |
-| 16.mar | Sab | Thiago  |             |
-| 17.mar | Dom | Eduardo |             |
+| 18.mar | Seg | Eduardo |             |
+| 19.mar | Ter | Juninho |             |
+| 20.mar | Qua | Eduardo |             |
+| 21.mar | Qui | Juninho |             |
+| 22.mar | Sex | Thiago  |             |
+| 23.mar | Sab | Thiago  |             |
+| 24.mar | Dom | Eduardo |             |
 
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
