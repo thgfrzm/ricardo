@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-03-10 16:48:24 -0300
+date:   2019-03-15 17:34:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 11.mar | Seg | Thiago  |             |
-| 12.mar | Ter | Juninho |             |
-| 13.mar | Qua | Thiago  |             |
-| 14.mar | Qui | Juninho |             |
-| 15.mar | Sex | Eduardo |             |
-| 16.mar | Sab | Thiago  |             |
-| 17.mar | Dom | Eduardo |             |
+| data   | dia | visita     | observações |
+| ------ | --- | ---------- | ----------- |
+| 11.mar | Seg | Thiago     |             |
+| 12.mar | Ter | Juninho    |             |
+| 13.mar | Qua | Thiago     |             |
+| 14.mar | Qui | **Thiago** | troca       |
+| 15.mar | Sex | Eduardo    |             |
+| 16.mar | Sab | **Juninho**| troca       |
+| 17.mar | Dom | Eduardo    |             |
 
 
 ### Próximas semanas
