@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-03-10 16:48:24 -0300
+date:   2019-03-18 21:53:58 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,6 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 11.mar | Seg | Thiago  |             |
-| 12.mar | Ter | Juninho |             |
-| 13.mar | Qua | Thiago  |             |
-| 14.mar | Qui | Juninho |             |
-| 15.mar | Sex | Eduardo |             |
-| 16.mar | Sab | Thiago  |             |
-| 17.mar | Dom | Eduardo |             |
 | 18.mar | Seg | Eduardo |             |
 | 19.mar | Ter | Juninho |             |
 | 20.mar | Qua | Eduardo |             |
@@ -24,10 +17,8 @@ categories: agenda
 | 23.mar | Sab | Thiago  |             |
 | 24.mar | Dom | Eduardo |             |
 
-### Próximas semanas
 
-<!-- | data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- | -->
+### Próximas semanas
 _indefinido_
 
 
@@ -123,10 +114,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 08.mar | Sex | Eduardo     |                   |
 | 09.mar | Sab | Eduardo     |                   |
 | 10.mar | Dom | Thiago      |                   |
-| 11.mar | Seg | Thiago  |             |
-| 12.mar | Ter | Juninho |             |
-| 13.mar | Qua | Thiago  |             |
-| 14.mar | Qui | Juninho |             |
-| 15.mar | Sex | Eduardo |             |
-| 16.mar | Sab | Thiago  |             |
-| 17.mar | Dom | Eduardo |             |
+| 11.mar | Seg | Thiago     |             |
+| 12.mar | Ter | Juninho    |             |
+| 13.mar | Qua | Thiago     |             |
+| 14.mar | Qui | **Thiago** | troca       |
+| 15.mar | Sex | Eduardo    |             |
+| 16.mar | Sab | **Juninho**| troca       |
+| 17.mar | Dom | Eduardo    |             |
