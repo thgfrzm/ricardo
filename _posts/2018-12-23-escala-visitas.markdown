@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-03-18 21:53:58 -0300
+date:   2019-03-25 22:39:58 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 18.mar | Seg | Eduardo |             |
-| 19.mar | Ter | Juninho |             |
-| 20.mar | Qua | Eduardo |             |
-| 21.mar | Qui | Juninho |             |
-| 22.mar | Sex | Thiago  |             |
-| 23.mar | Sab | Thiago  |             |
-| 24.mar | Dom | Eduardo |             |
+| 25.mar | Seg | Thiago |             |
+| 26.mar | Ter | Juninho |             |
+| 27.mar | Qua | Eduardo |             |
+| 28.mar | Qui | Juninho |             |
+| 29.mar | Sex | Eduardo |             |
+| 30.mar | Sab | Thiago  |             |
+| 31.mar | Dom | Thiago |             |
 
 
 ### Próximas semanas
@@ -121,3 +121,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 15.mar | Sex | Eduardo    |             |
 | 16.mar | Sab | **Juninho**| troca       |
 | 17.mar | Dom | Eduardo    |             |
+| 18.mar | Seg | Eduardo |             |
+| 19.mar | Ter | Juninho |             |
+| 20.mar | Qua | Eduardo |             |
+| 21.mar | Qui | Juninho |             |
+| 22.mar | Sex | Thiago  |             |
+| 23.mar | Sab | Thiago  |             |
+| 24.mar | Dom | Eduardo |             |
