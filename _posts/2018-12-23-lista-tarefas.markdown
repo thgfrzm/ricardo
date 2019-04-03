@@ -69,8 +69,6 @@ Atualizado em: 2019-01-16
 	- [x] pesquisa aparelho *novo para mãe, antigo para pai `Eduardo`
 	- [x] compra `Thiago`
 	- [x] instalação: móvel e extensão de energia `Eduardo`
-
-
 - [x] Recalcular orçamento combustível `Thiago`
 	- [x] Calcular distância das residências até pensionato
 	- [x] Calcular gastos de cada um (considerar consumo 10km/L)
