@@ -1,33 +1,26 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-04-03 20:40:58 -0300
+date:   2019-04-08 13:16:47 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 01.abr | Seg | Thiago  |             |
-| 02.abr | Ter | Juninho |             |
-| 03.abr | Qua | *Juninho* | _troca_     |
-| 04.abr | Qui | *Eduardo* | _troca_     |
-| 05.abr | Sex | *Thiago* | _troca_      |
-| 06.abr | Sab | Eduardo  |             |
-| 07.abr | Dom | *Eduardo* | _troca_      |
+| data   | dia | visita  | observações   |
+| ------ | --- | ------- | ------------- |
+| 08.abr | Seg | Thiago  |               |
+| 09.abr | Ter | Juninho |               |
+| 10.abr | Qua | Eduardo | _aniversario_ |
+| 11.abr | Qui | Juninho |               |
+| 12.abr | Sex | Thiago  |               |
+| 13.abr | Sab | Thiago  |               |
+| 14.abr | Dom | Eduardo |               |
 
 
 ### Próximas semanas
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 08.abr | Seg | Thiago  |             |
-| 09.abr | Ter | Juninho |             |
-| 10.abr | Qua | Eduardo | _aniversario_    |
-| 11.abr | Qui | Juninho |      |
-| 12.abr | Sex | Thiago |       |
-| 13.abr | Sab | Thiago |             |
-| 14.abr | Dom | Eduardo |       |
+
+_indefinido_
 
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
@@ -122,24 +115,31 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 08.mar | Sex | Eduardo     |                   |
 | 09.mar | Sab | Eduardo     |                   |
 | 10.mar | Dom | Thiago      |                   |
-| 11.mar | Seg | Thiago     |             |
-| 12.mar | Ter | Juninho    |             |
-| 13.mar | Qua | Thiago     |             |
-| 14.mar | Qui | **Thiago** | troca       |
-| 15.mar | Sex | Eduardo    |             |
-| 16.mar | Sab | **Juninho**| troca       |
-| 17.mar | Dom | Eduardo    |             |
-| 18.mar | Seg | Eduardo |             |
-| 19.mar | Ter | Juninho |             |
-| 20.mar | Qua | Eduardo |             |
-| 21.mar | Qui | Juninho |             |
-| 22.mar | Sex | Thiago  |             |
-| 23.mar | Sab | Thiago  |             |
-| 24.mar | Dom | Eduardo |             |
-| 25.mar | Seg | Thiago |             |
-| 26.mar | Ter | Juninho |             |
-| 27.mar | Qua | Eduardo |             |
-| 28.mar | Qui | Juninho |             |
-| 29.mar | Sex | Eduardo |             |
-| 30.mar | Sab | Thiago  |             |
-| 31.mar | Dom | Thiago |             |
+| 11.mar | Seg | Thiago      |                   |
+| 12.mar | Ter | Juninho     |                   |
+| 13.mar | Qua | Thiago      |                   |
+| 14.mar | Qui | **Thiago**  | troca             |
+| 15.mar | Sex | Eduardo     |                   |
+| 16.mar | Sab | **Juninho** | troca             |
+| 17.mar | Dom | Eduardo     |                   |
+| 18.mar | Seg | Eduardo     |                   |
+| 19.mar | Ter | Juninho     |                   |
+| 20.mar | Qua | Eduardo     |                   |
+| 21.mar | Qui | Juninho     |                   |
+| 22.mar | Sex | Thiago      |                   |
+| 23.mar | Sab | Thiago      |                   |
+| 24.mar | Dom | Eduardo     |                   |
+| 25.mar | Seg | Thiago      |                   |
+| 26.mar | Ter | Juninho     |                   |
+| 27.mar | Qua | Eduardo     |                   |
+| 28.mar | Qui | Juninho     |                   |
+| 29.mar | Sex | Eduardo     |                   |
+| 30.mar | Sab | Thiago      |                   |
+| 31.mar | Dom | Thiago      |                   |
+| 01.abr | Seg | Thiago      |                   |
+| 02.abr | Ter | Juninho     |                   |
+| 03.abr | Qua | *Juninho*   | _troca_           |
+| 04.abr | Qui | *Eduardo*   | _troca_           |
+| 05.abr | Sex | *Thiago*    | _troca_           |
+| 06.abr | Sab | Eduardo     |                   |
+| 07.abr | Dom | *Eduardo*   | _troca_           |
