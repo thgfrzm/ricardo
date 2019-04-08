@@ -10,8 +10,8 @@ categories: agenda
 | data   | dia | visita  | observações   |
 | ------ | --- | ------- | ------------- |
 | 08.abr | Seg | Thiago  |               |
-| 09.abr | Ter | Juninho |               |
-| 10.abr | Qua | Eduardo | _aniversario_ |
+| 09.abr | Ter | Juninho | _aniversario_ |
+| 10.abr | Qua | Eduardo |               |
 | 11.abr | Qui | Juninho |               |
 | 12.abr | Sex | Thiago  |               |
 | 13.abr | Sab | Thiago  |               |
