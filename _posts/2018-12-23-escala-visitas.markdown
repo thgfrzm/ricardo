@@ -7,28 +7,22 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita    | observações   |
-| ------ | --- | --------- | ------------- |
-| 08.abr | Seg | Thiago    |               |
-| 09.abr | Ter | *Thiago*  | _aniversario_ |
-| 10.abr | Qua | Eduardo   |               |
-| 11.abr | Qui | Juninho   |               |
-| 12.abr | Sex | *Juninho* |               |
-| 13.abr | Sab | Thiago    |               |
-| 14.abr | Dom | Eduardo   |               |
+| data   | dia | visita  | observações      |
+| ------ | --- | ------- | ---------------- |
+| 15.abr | Seg | Juninho |                  |
+| 16.abr | Ter | Eduardo | _result. exames_ |
+| 17.abr | Qua | Juninho |                  |
+| 18.abr | Qui | Thiago  |                  |
+| 19.abr | Sex | Eduardo |                  |
+| 20.abr | Sab | Thiago  |                  |
+| 21.abr | Dom | Eduardo |                  |
 
 
 ### Próximas semanas
 
-| data   | dia | visita  | observações        |
-| ------ | --- | ------- | ------------------ |
-| 15.abr | Seg | Juninho |                    |
-| 16.abr | Ter | Eduardo | _resultado exames_ |
-| 17.abr | Qua | Juninho |                    |
-| 18.abr | Qui | Thiago  |                    |
-| 19.abr | Sex | Eduardo |                    |
-| 20.abr | Sab | Thiago  |                    |
-| 21.abr | Dom | Eduardo |                    |
+| data | dia | visita | observações |
+| ---- | --- | ------ | ----------- |
+
 
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
@@ -151,3 +145,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 05.abr | Sex | *Thiago*    | _troca_           |
 | 06.abr | Sab | Eduardo     |                   |
 | 07.abr | Dom | *Eduardo*   | _troca_           |
+| 08.abr | Seg | Thiago      |                   |
+| 09.abr | Ter | *Thiago*    | _aniversario_     |
+| 10.abr | Qua | Eduardo     |                   |
+| 11.abr | Qui | Juninho     |                   |
+| 12.abr | Sex | *Juninho*   |                   |
+| 13.abr | Sab | Thiago      |                   |
+| 14.abr | Dom | Eduardo     |                   |
