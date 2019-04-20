@@ -17,7 +17,7 @@ categories: agenda
 | 22.abr | Seg | Juninho |                     |
 | 23.abr | Ter | Juninho | _Policlínica_ (Edu) |
 | 24.abr | Qua | Eduardo |                     |
-| 25.abr | Qui | Thiago  |                     |
+| 25.abr | Qui | Juninho |                     |
 | 26.abr | Sex | Eduardo |                     |
 | 27.abr | Sab | Thiago  |                     |
 | 28.abr | Dom | Thiago  |                     |
