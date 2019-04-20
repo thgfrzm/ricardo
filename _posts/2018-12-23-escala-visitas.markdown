@@ -1,29 +1,28 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-04-10 22:36:25 -0300
+date:   2019-04-20 16:26:50 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações      |
-| ------ | --- | ------- | ---------------- |
-| 15.abr | Seg | Juninho |                  |
-| 16.abr | Ter | Eduardo | _result. exames_ |
-| 17.abr | Qua | Juninho |                  |
-| 18.abr | Qui | Thiago  |                  |
-| 19.abr | Sex | Eduardo |                  |
-| 20.abr | Sab | Thiago  |                  |
-| 21.abr | Dom | Eduardo |                  |
+| data   | dia | visita  | observações   |
+| ------ | --- | ------- | ------------- |
+| 20.abr | Sab | Thiago  |               |
+| 21.abr | Dom | Eduardo | _Páscoa_      |
 
+| data   | dia | visita  | observações         |
+| ------ | --- | ------- | ------------------- |
+| 22.abr | Seg | Juninho |                     |
+| 23.abr | Ter | Juninho | _Policlínica_ (Edu) |
+| 24.abr | Qua | Eduardo |                     |
+| 25.abr | Qui | Thiago  |                     |
+| 26.abr | Sex | Eduardo |                     |
+| 27.abr | Sab | Thiago  |                     |
+| 28.abr | Dom | Thiago  |                     |
 
-### Próximas semanas
-
-| data | dia | visita | observações |
-| ---- | --- | ------ | ----------- |
-
-
+<!-- ### Próximas semanas -->
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
 
@@ -152,3 +151,8 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 12.abr | Sex | *Juninho*   |                   |
 | 13.abr | Sab | Thiago      |                   |
 | 14.abr | Dom | Eduardo     |                   |
+| 15.abr | Seg | Juninho |               |
+| 16.abr | Ter | Eduardo | _res. exames_ |
+| 17.abr | Qua | Juninho |               |
+| 18.abr | Qui | Thiago  | _retorno_     |
+| 19.abr | Sex | Eduardo |               |
