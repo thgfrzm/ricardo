@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-05-05 12:01:16 -0300
+date:   2019-05-13 22:30:16 -0300
 categories: agenda
 ---
 
@@ -9,26 +9,20 @@ categories: agenda
 
 | data   | dia | visita  | observações         |
 | ------ | --- | ------- | ------------------- |
-| 06.mai | Seg | Eduardo |                     |
-| 07.mai | Ter | Thiago  |                     |
-| 08.mai | Qua | Eduardo |                     |
-| 09.mai | Qui | Juninho |                     |
-| 10.mai | Sex | Eduardo | _missa Vó Andressa_ |
-| 11.mai | Sab | Thiago  |                     |
-| 12.mai | Dom | Juninho | _dia das mães_      |
+| 13.mai | Seg | Thiago  |             |
+| 14.mai | Ter | Juninho |             |
+| 15.mai | Qua | Eduardo |             |
+| 16.mai | Qui | Eduardo |             |
+| 17.mai | Sex | Juninho |             |
+| 18.mai | Sab | Thiago  |             |
+| 19.mai | Dom | Thiago  |             |
 
 
 ### Próximas semanas
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 13.mai | Seg | Thiago  |             |
-| 14.mai | Ter | Thiago  |             |
-| 15.mai | Qua | Juninho |             |
-| 16.mai | Qui | Thiago  |             |
-| 17.mai | Sex | Eduardo |             |
-| 18.mai | Sab | Juninho |             |
-| 19.mai | Dom | Eduardo |             |
+| 20.mai | Seg | Thiago  |             |
 
 <!--
 Observações:
@@ -191,3 +185,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 03.mai | Sex | Eduardo     |                     |
 | 04.mai | Sab | Thiago      |                     |
 | 05.mai | Dom | Thiago      |                     |
+| 06.mai | Seg | Eduardo |                     |
+| 07.mai | Ter | Thiago  |                     |
+| 08.mai | Qua | Eduardo |                     |
+| 09.mai | Qui | Juninho |                     |
+| 10.mai | Sex | Eduardo | _missa Vó Andressa_ |
+| 11.mai | Sab | Thiago  |                     |
+| 12.mai | Dom | Juninho | _dia das mães_      |
