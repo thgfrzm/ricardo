@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-05-13 22:30:16 -0300
+date:   2019-05-19 22:04:36 -0300
 categories: agenda
 ---
 
@@ -9,32 +9,22 @@ categories: agenda
 
 | data   | dia | visita  | observações         |
 | ------ | --- | ------- | ------------------- |
-| 13.mai | Seg | Thiago  |             |
-| 14.mai | Ter | Juninho |             |
-| 15.mai | Qua | Eduardo |             |
-| 16.mai | Qui | Eduardo |             |
-| 17.mai | Sex | Juninho |             |
-| 18.mai | Sab | Thiago  |             |
-| 19.mai | Dom | Thiago  |             |
+| 20.mai | Seg | Juninho |             |
+| 21.mai | Ter | Juninho |             |
+| 22.mai | Qua | Thiago  |             |
+| 23.mai | Qui | Eduardo |             |
+| 24.mai | Sex | Eduardo |             |
+| 25.mai | Sab | Thiago  |             |
+| 26.mai | Dom | Eduardo |             |
 
 
 ### Próximas semanas
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 20.mai | Seg | Thiago  |             |
+_indefinido_
 
 <!--
 Observações:
-
-[09:26, 3/22/2019] Eduardo: Poderia não me incluir as segundas a noite pra escala?
-
-Ref. Maio
-[18:09, 4/20/2019] Ricardo Mitsuo Yokota, Jr: Mês que vem começa meus plantões de 24 horas
-[18:10, 4/20/2019] Ricardo Mitsuo Yokota, Jr: Dias 2 8 14 20 26 não poderei
-[18:11, 4/20/2019] Ricardo Mitsuo Yokota, Jr: Dias 5 11 17 23 29
-
-
+Eduardo: não pode às terças
 -->
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
@@ -192,3 +182,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 10.mai | Sex | Eduardo | _missa Vó Andressa_ |
 | 11.mai | Sab | Thiago  |                     |
 | 12.mai | Dom | Juninho | _dia das mães_      |
+| 13.mai | Seg | Thiago  |             |
+| 14.mai | Ter | Juninho |             |
+| 15.mai | Qua | Eduardo |             |
+| 16.mai | Qui | Eduardo |             |
+| 17.mai | Sex | Juninho |             |
+| 18.mai | Sab | Thiago  |             |
+| 19.mai | Dom | Thiago  |             |
