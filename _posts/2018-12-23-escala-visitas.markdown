@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-06-16 16:30:00 -0300
+date:   2019-06-16 22:00:00 -0300
 categories: agenda
 ---
 
@@ -10,7 +10,7 @@ categories: agenda
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
 | 17.mai | Seg | Juninho |             |
-| 18.mai | Ter | Thiago  |             |
+| 18.mai | Ter | Eduardo |             |
 | 19.mai | Qua | Juninho |             |
 | 20.mai | Qui | Eduardo | _Feriado_   |
 | 21.mai | Sex | Eduardo |             |
