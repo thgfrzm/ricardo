@@ -9,11 +9,11 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 17.mai | Seg | Juninho |             |
-| 18.mai | Ter | Eduardo |             |
-| 19.mai | Qua | Juninho |             |
-| 20.mai | Qui | Eduardo | _Feriado_   |
-| 21.mai | Sex | Eduardo |             |
+| 17.jun | Seg | Juninho |             |
+| 18.jun | Ter | Eduardo |             |
+| 19.jun | Qua | Juninho |             |
+| 20.jun | Qui | Eduardo | _Feriado_   |
+| 21.jun | Sex | Eduardo |             |
 | 22.jun | Sab | Thiago  |             |
 | 23.jun | Dom | Thiago  |             |
 
@@ -204,17 +204,17 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 31.mai | Sex | Eduardo     |                     |
 | 01.jun | Sab | Thiago      |                     |
 | 02.jun | Dom | Thiago      |                     |
-| 03.mai | Seg | Juninho     |                     |
-| 04.mai | Ter | Thiago      |                     |
-| 05.mai | Qua | Eduardo     |                     |
-| 06.mai | Qui | Juninho     |                     |
-| 07.mai | Sex | Eduardo     |                     |
+| 03.jun | Seg | Juninho     |                     |
+| 04.jun | Ter | Thiago      |                     |
+| 05.jun | Qua | Eduardo     |                     |
+| 06.jun | Qui | Juninho     |                     |
+| 07.jun | Sex | Eduardo     |                     |
 | 08.jun | Sab | Thiago      |                     |
 | 09.jun | Dom | Eduardo     |                     |
-| 10.mai | Seg | Eduardo     |                     |
-| 11.mai | Ter | Thiago      |                     |
-| 12.mai | Qua | Eduardo     |                     |
-| 13.mai | Qui | Juninho     |                     |
-| 14.mai | Sex | Juninho     |                     |
+| 10.jun | Seg | Eduardo     |                     |
+| 11.jun | Ter | Thiago      |                     |
+| 12.jun | Qua | Eduardo     |                     |
+| 13.jun | Qui | Juninho     |                     |
+| 14.jun | Sex | Juninho     |                     |
 | 15.jun | Sab | Thiago      |                     |
 | 16.jun | Dom | Thiago      |                     |
