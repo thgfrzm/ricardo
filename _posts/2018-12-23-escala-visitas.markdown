@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-06-16 22:00:00 -0300
+date:   2019-06-25 00:00:00 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 17.jun | Seg | Juninho |             |
-| 18.jun | Ter | Eduardo |             |
-| 19.jun | Qua | Juninho |             |
-| 20.jun | Qui | Eduardo | _Feriado_   |
-| 21.jun | Sex | Eduardo |             |
-| 22.jun | Sab | Thiago  |             |
-| 23.jun | Dom | Thiago  |             |
+| 24.jun | Seg | Thiago  |             |
+| 25.jun | Ter | Juninho |             |
+| 26.jun | Qua | Juninho |             |
+| 27.jun | Qui | Eduardo |             |
+| 28.jun | Sex | Eduardo | _Feriado_   |
+| 29.jun | Sab | Thiago  |             |
+| 30.jun | Dom | Thiago  |             |
 
 ### Próximas semanas
 
@@ -23,8 +23,6 @@ _indefinido_
 
 <!--
 Observações:
-Thiago 3x visitas semana 10 a 16.jun e 17 a 23.jun. 
-Eduardo com 3x nas próximas duas semanas
 Eduardo: não pode às terças
 -->
 
@@ -218,3 +216,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 14.jun | Sex | Juninho     |                     |
 | 15.jun | Sab | Thiago      |                     |
 | 16.jun | Dom | Thiago      |                     |
+| 17.jun | Seg | Juninho     |                     |
+| 18.jun | Ter | Eduardo     |                     |
+| 19.jun | Qua | Juninho     |                     |
+| 20.jun | Qui | Eduardo     | _Feriado_           |
+| 21.jun | Sex | Thiago      |                     |
+| 22.jun | Sab | Eduardo     |                     |
+| 23.jun | Dom | Thiago      |                     |
