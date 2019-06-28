@@ -1,27 +1,46 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-06-25 00:00:00 -0300
+date:   2019-06-28 00:00:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 24.jun | Seg | Thiago  |             |
-| 25.jun | Ter | Juninho |             |
-| 26.jun | Qua | Juninho |             |
-| 27.jun | Qui | Eduardo |             |
-| 28.jun | Sex | Eduardo | _Feriado_   |
-| 29.jun | Sab | Thiago  |             |
-| 30.jun | Dom | Thiago  |             |
+| data   | dia | visita    | observações |
+| ------ | --- | --------- | ----------- |
+| 24.jun | Seg | Thiago    |             |
+| 25.jun | Ter | Juninho   |             |
+| 26.jun | Qua | Juninho   |             |
+| 27.jun | Qui | *Juninho* | _troca_     |
+| 28.jun | Sex | Eduardo   | _Feriado_   |
+| 29.jun | Sab | *Juninho* | _troca_     |
+| 30.jun | Dom | *Juninho* | _troca_     |
 
 ### Próximas semanas
 
-_indefinido_
+| data   | dia | visita   | observações |
+| ------ | --- | -------- | ----------- |
+| 01.jul | Seg | Juninho  |             |
+| 02.jul | Ter | Thiago   |             |
+| 03.jul | Qua | Eduardo  |             |
+| 04.jul | Qui | Thiago   |             |
+| 05.jul | Sex | Eduardo  |             |
+| 06.jul | Sab | *Thiago* | _troca_     |
+| 07.jul | Dom | *Thiago* | _troca_     |
+
+| data   | dia | visita    | observações |
+| ------ | --- | --------- | ----------- |
+| 08.jul | Seg | *Eduardo* | _troca_     |
+| 09.jul | Ter | Thiago    |             |
+| 10.jul | Qua | Eduardo   |             |
+| 11.jul | Qui | Thiago    |             |
+| 12.jul | Sex | Eduardo   |             |
+| 13.jul | Sab | Thiago    |             |
+| 14.jul | Dom | Juninho   |             |
 
 <!--
+_indefinido_
 Observações:
 Eduardo: não pode às terças
 -->
@@ -223,3 +242,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 21.jun | Sex | Thiago      |                     |
 | 22.jun | Sab | Eduardo     |                     |
 | 23.jun | Dom | Thiago      |                     |
+| 24.jun | Seg | Thiago      |                     |
+| 25.jun | Ter | Juninho     |                     |
+| 26.jun | Qua | Juninho     |                     |
+| 27.jun | Qui | *Juninho*   | _troca_             |
+| 28.jun | Sex | Eduardo     | _Feriado_           |
+| 29.jun | Sab | *Juninho*   | _troca_             |
+| 30.jun | Dom | *Juninho*   | _troca_             |
