@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-06-28 00:00:00 -0300
+date:   2019-07-07 00:00:00 -0300
 categories: agenda
 ---
 
@@ -9,35 +9,17 @@ categories: agenda
 
 | data   | dia | visita    | observações |
 | ------ | --- | --------- | ----------- |
-| 24.jun | Seg | Thiago    |             |
-| 25.jun | Ter | Juninho   |             |
-| 26.jun | Qua | Juninho   |             |
-| 27.jun | Qui | *Juninho* | _troca_     |
-| 28.jun | Sex | Eduardo   | _Feriado_   |
-| 29.jun | Sab | *Juninho* | _troca_     |
-| 30.jun | Dom | *Juninho* | _troca_     |
-
-### Próximas semanas
-
-| data   | dia | visita   | observações |
-| ------ | --- | -------- | ----------- |
-| 01.jul | Seg | Juninho  |             |
-| 02.jul | Ter | Thiago   |             |
-| 03.jul | Qua | Eduardo  |             |
-| 04.jul | Qui | Thiago   |             |
-| 05.jul | Sex | Eduardo  |             |
-| 06.jul | Sab | *Thiago* | _troca_     |
-| 07.jul | Dom | *Thiago* | _troca_     |
-
-| data   | dia | visita    | observações |
-| ------ | --- | --------- | ----------- |
-| 08.jul | Seg | *Eduardo* | _troca_     |
+| 08.jul | Seg | Thiago    |             |
 | 09.jul | Ter | Thiago    |             |
 | 10.jul | Qua | Eduardo   |             |
 | 11.jul | Qui | Thiago    |             |
 | 12.jul | Sex | Eduardo   |             |
-| 13.jul | Sab | Thiago    |             |
+| 13.jul | Sab | *Eduardo* | _troca_     |
 | 14.jul | Dom | Juninho   |             |
+
+### Próximas semanas
+
+_indefinido_
 
 <!--
 _indefinido_
@@ -249,3 +231,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 28.jun | Sex | Eduardo     | _Feriado_           |
 | 29.jun | Sab | *Juninho*   | _troca_             |
 | 30.jun | Dom | *Juninho*   | _troca_             |
+| 01.jul | Seg | Juninho     |                     |
+| 02.jul | Ter | Thiago      |                     |
+| 03.jul | Qua | Eduardo     |                     |
+| 04.jul | Qui | Thiago      |                     |
+| 05.jul | Sex | Eduardo     |                     |
+| 06.jul | Sab | *Thiago*    | _troca_             |
+| 07.jul | Dom | *Thiago*    | _troca_             |
