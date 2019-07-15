@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-07-07 00:00:00 -0300
+date:   2019-07-14 00:00:00 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,14 @@ categories: agenda
 
 | data   | dia | visita    | observações |
 | ------ | --- | --------- | ----------- |
-| 08.jul | Seg | Thiago    |             |
-| 09.jul | Ter | Thiago    |             |
-| 10.jul | Qua | Eduardo   |             |
-| 11.jul | Qui | Thiago    |             |
-| 12.jul | Sex | Eduardo   |             |
-| 13.jul | Sab | *Eduardo* | _troca_     |
-| 14.jul | Dom | Juninho   |             |
+| 15.jul | Seg | *Juninho* | _troca_     |
+| 16.jul | Ter | Thiago    |             |
+| 17.jul | Qua | Eduardo   |             |
+| 18.jul | Qui | Thiago    |             |
+| 19.jul | Sex | Juninho   |             |
+| 20.jul | Sab | Juninho   |             |
+| 21.jul | Dom | Eduardo   |             |
+
 
 ### Próximas semanas
 
@@ -238,3 +239,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 05.jul | Sex | Eduardo     |                     |
 | 06.jul | Sab | *Thiago*    | _troca_             |
 | 07.jul | Dom | *Thiago*    | _troca_             |
+| 08.jul | Seg | *Thiago*    | _troca_             |
+| 09.jul | Ter | Thiago      |                     |
+| 10.jul | Qua | Eduardo     |                     |
+| 11.jul | Qui | Thiago      |                     |
+| 12.jul | Sex | Eduardo     |                     |
+| 13.jul | Sab | *Eduardo*   | _troca_             |
+| 14.jul | Dom | *Thiago*    | _troca_             |
