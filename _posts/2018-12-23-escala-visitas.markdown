@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-07-14 00:00:00 -0300
+date:   2019-07-21 00:00:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita    | observações |
-| ------ | --- | --------- | ----------- |
-| 15.jul | Seg | *Juninho* | _troca_     |
-| 16.jul | Ter | Thiago    |             |
-| 17.jul | Qua | Eduardo   |             |
-| 18.jul | Qui | Thiago    |             |
-| 19.jul | Sex | Juninho   |             |
-| 20.jul | Sab | Juninho   |             |
-| 21.jul | Dom | Eduardo   |             |
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 22.jul | Seg | Eduardo |             |
+| 23.jul | Ter | Thiago  |             |
+| 24.jul | Qua | Juninho |             |
+| 25.jul | Qui | Eduardo |             |
+| 26.jul | Sex | Juninho |             |
+| 27.jul | Sab | Eduardo |             |
+| 28.jul | Dom | Thiago  |             |
 
 
 ### Próximas semanas
@@ -246,3 +246,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 12.jul | Sex | Eduardo     |                     |
 | 13.jul | Sab | *Eduardo*   | _troca_             |
 | 14.jul | Dom | *Thiago*    | _troca_             |
+| 15.jul | Seg | *Juninho*   | _troca_             |
+| 16.jul | Ter | Thiago      |                     |
+| 17.jul | Qua | Eduardo     |                     | **** |
+| 18.jul | Qui | Thiago      |                     |
+| 19.jul | Sex | Juninho     |                     |
+| 20.jul | Sab | Juninho     |                     |
+| 21.jul | Dom | Eduardo     |                     |
