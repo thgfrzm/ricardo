@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-07-28 20:00:00 -0300
+date:   2019-08-05 20:00:00 -0300
 categories: agenda
 ---
 
@@ -9,14 +9,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 29.jul | Seg | Eduardo |             |
-| 30.jul | Ter | Thiago  |             |
-| 31.jul | Qua | Juninho |             |
-| 01.ago | Qui | Thiago  |             |
-| 02.ago | Sex | Juninho | _roupas_    |
-| 03.ago | Sab | Thiago  |             |
-| 04.ago | Dom | Eduardo |             |
-
+| 05.ago | Seg | Eduardo |             |
+| 06.ago | Ter | Juninho |             |
+| 07.ago | Qua | Thiago  |             |
+| 08.ago | Qui | Juninho | _roupas_    |
+| 09.ago | Sex | Eduardo |             |
+| 10.ago | Sab | Thiago  |             |
+| 11.ago | Dom | Eduardo |             |
 
 ### Próximas semanas
 
@@ -260,3 +259,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 26.jul | Sex | Juninho     |                     |
 | 27.jul | Sab | Eduardo     |                     |
 | 28.jul | Dom | Thiago      |                     |
+| 29.jul | Seg | Eduardo     |                     |
+| 30.jul | Ter | Thiago      |                     |
+| 31.jul | Qua | Juninho     |                     |
+| 01.ago | Qui | Thiago      |                     |
+| 02.ago | Sex | Juninho     | _roupas_            |
+| 03.ago | Sab | Thiago      |                     |
+| 04.ago | Dom | Eduardo     |                     |
