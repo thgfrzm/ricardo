@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-08-20 19:00:00 -0300
+date:   2019-08-26 22:00:00 -0300
 categories: agenda
 ---
 
@@ -9,19 +9,22 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 19.ago | Seg | Juninho |             |
-| 20.ago | Ter | Juninho |             |
-| 21.ago | Qua | Eduardo  |             |
-| 22.ago | Qui | Thiago  |             |
-| 23.ago | Sex | Eduardo |     |
-| 24.ago | Sab | Eduardo  |             |
-| 25.ago | Dom | Thiago | _roupas_ |
+| 26.ago | Seg | Thiago  |             |
+| 27.ago | Ter | Thiago  |             |
+| 28.ago | Qua | Juninho |             |
+| 29.ago | Qui | Thiago  |             |
+| 30.ago | Sex | Thiago  |             |
+| 31.ago | Sab | Eduardo | _roupas_    |
+| 01.set | Dom | Eduardo |             |
 
 ### Próximas semanas
 
 _indefinido_
 
 <!--
+
+proxima roupa Juninho
+
 _indefinido_
 Observações:
 Eduardo: não pode às terças
@@ -263,20 +266,27 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 30.jul | Ter | Thiago      |                     |
 | 31.jul | Qua | Juninho     |                     |
 | 01.ago | Qui | Thiago      |                     |
-| 02.ago | Sex | Juninho     |             |
-| 03.ago | Sab | Thiago      | _roupas_                    |
+| 02.ago | Sex | Juninho     |                     |
+| 03.ago | Sab | Thiago      | _roupas_            |
 | 04.ago | Dom | Eduardo     |                     |
-| 05.ago | Seg | Eduardo |             |
-| 06.ago | Ter | Juninho |             |
-| 07.ago | Qua | Thiago  |             |
-| 08.ago | Qui | Juninho | _roupas_    |
-| 09.ago | Sex | Eduardo |             |
-| 10.ago | Sab | Thiago  |             |
-| 11.ago | Dom | Eduardo |             |
-| 12.ago | Seg | Juninho |             |
-| 13.ago | Ter | Juninho |             |
-| 14.ago | Qua | Thiago  |             |
-| 15.ago | Qui | Thiago  |             |
-| 16.ago | Sex | Eduardo | _roupas_    |
-| 17.ago | Sab | Thiago  |             |
-| 18.ago | Dom | Eduardo | _almoço mãe_|
+| 05.ago | Seg | Eduardo     |                     |
+| 06.ago | Ter | Juninho     |                     |
+| 07.ago | Qua | Thiago      |                     |
+| 08.ago | Qui | Juninho     | _roupas_            |
+| 09.ago | Sex | Eduardo     |                     |
+| 10.ago | Sab | Thiago      |                     |
+| 11.ago | Dom | Eduardo     |                     |
+| 12.ago | Seg | Juninho     |                     |
+| 13.ago | Ter | Juninho     |                     |
+| 14.ago | Qua | Thiago      |                     |
+| 15.ago | Qui | Thiago      |                     |
+| 16.ago | Sex | Eduardo     | _roupas_            |
+| 17.ago | Sab | Thiago      |                     |
+| 18.ago | Dom | Eduardo     | _almoço mãe_        |
+| 19.ago | Seg | Juninho     |                     |
+| 20.ago | Ter | Juninho     |                     |
+| 21.ago | Qua | Eduardo     |                     |
+| 22.ago | Qui | Thiago      |                     |
+| 23.ago | Sex | Eduardo     |                     |
+| 24.ago | Sab | Eduardo     |                     |
+| 25.ago | Dom | Thiago      | _roupas_            |
