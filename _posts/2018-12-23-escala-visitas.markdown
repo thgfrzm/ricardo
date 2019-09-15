@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-09-08 22:00:00 -0300
+date:   2019-09-15 12:00:00 -0300
 categories: agenda
 ---
 
@@ -9,26 +9,18 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 09.set | Seg | Eduardo |             |
-| 10.set | Ter | Juninho |             |
-| 11.set | Qua | Juninho |             |
-| 12.set | Qui | Thiago  | _roupas_    |
-| 13.set | Sex | Thiago  |             |
-| 14.set | Sab | Thiago  |             |
-| 15.set | Dom | Eduardo |             |
+| 16.set | Seg | Juninho |             |
+| 17.set | Ter | Thiago  |             |
+| 18.set | Qua | Juninho |             |
+| 19.set | Qui | Eduardo | _roupas_    |
+| 20.set | Sex | Thiago  |             |
+| 21.set | Sab | Eduardo |             |
+| 22.set | Dom | Eduardo |             |
 
 ### Próximas semanas
 
 _indefinido_
 
-<!--
-
-proxima roupa Juninho
-
-_indefinido_
-Observações:
-Eduardo: não pode às terças
--->
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
 
@@ -304,3 +296,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 06.set | Sex | Juninho     | _roupas_            |
 | 07.set | Sab | Eduardo     |                     |
 | 08.set | Dom | Eduardo     |                     |
+| 09.set | Seg | Eduardo     |                     |
+| 10.set | Ter | Juninho     |                     |
+| 11.set | Qua | Juninho     |                     |
+| 12.set | Qui | Thiago      | _roupas_            |
+| 13.set | Sex | Thiago      |                     |
+| 14.set | Sab | Thiago      |                     |
+| 15.set | Dom | Eduardo     |                     |
