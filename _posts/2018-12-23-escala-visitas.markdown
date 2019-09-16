@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-09-15 12:00:00 -0300
+date:   2019-09-15 22:00:00 -0300
 categories: agenda
 ---
 
@@ -10,12 +10,12 @@ categories: agenda
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
 | 16.set | Seg | Juninho |             |
-| 17.set | Ter | Thiago  |             |
-| 18.set | Qua | Juninho |             |
-| 19.set | Qui | Eduardo | _roupas_    |
-| 20.set | Sex | Thiago  |             |
-| 21.set | Sab | Eduardo |             |
-| 22.set | Dom | Eduardo |             |
+| 17.set | Ter | Juninho |             |
+| 18.set | Qua | Eduardo |             |
+| 19.set | Qui | Eduardo |             |
+| 20.set | Sex | Eduardo | _roupas_    |
+| 21.set | Sab | Thiago  |             |
+| 22.set | Dom | Thiago  |             |
 
 ### Próximas semanas
 
