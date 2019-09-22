@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-09-22 11:30:00 -0300
+date:   2019-09-22 12:00:00 -0300
 categories: agenda
 ---
 
@@ -9,8 +9,8 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 23.set | Seg | Juninho |             |
-| 24.set | Ter | Thiago  |             |
+| 23.set | Seg | Thiago |             |
+| 24.set | Ter | Juninho  |             |
 | 25.set | Qua | Eduardo |             |
 | 26.set | Qui | Thiago  |             |
 | 27.set | Sex | Juninho | _roupas_    |
@@ -24,8 +24,8 @@ _indefinido_
 <!-- 
     S T Q Q S S D
 Ed    - x     x      
-Ju  x     - x - -   
-Th    x   x   - x   
+Ju    x    - x - -   
+Th  x    x   - x   
 -->
 
 
