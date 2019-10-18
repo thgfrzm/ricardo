@@ -9,10 +9,10 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 14.out | Seg | Juninho |             |
-| 15.out | Ter | Thiago  |             |
-| 16.out | Qua | Eduardo |             |
-| 17.out | Qui | Eduardo |             |
+| ~~14.out | Seg | Juninho~~ |             |
+| ~~15.out | Ter | Thiago~~  |             |
+| ~~16.out | Qua | Eduardo~~ |             |
+| ~~17.out | Qui | Eduardo~~ |             |
 | 18.out | Sex | Eduardo |             |
 | 19.out | Sab | Thiago  | _roupas_    |
 | 20.out | Dom | Juninho |             |
