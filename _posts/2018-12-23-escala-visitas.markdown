@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-10-17 21:00:00 -0300
+date:   2019-10-20 19:00:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data       | dia     | visita      | observações |
-| ---------- | ------- | ----------- | ----------- |
-| ~~14.out~~ | ~~Seg~~ | ~~Juninho~~ |             |
-| ~~15.out~~ | ~~Ter~~ | ~~Thiago~~  |             |
-| ~~16.out~~ | ~~Qua~~ | ~~Eduardo~~ |             |
-| ~~17.out~~ | ~~Qui~~ | ~~Eduardo~~ |             |
-| 18.out     | Sex     | Eduardo     |             |
-| 19.out     | Sab     | Thiago      | _roupas_    |
-| 20.out     | Dom     | Juninho     |             |
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 21.out | Seg | Juninho |             |
+| 22.out | Ter | Thiago  |             |
+| 23.out | Qua | Eduardo |             |
+| 24.out | Qui | Thiago  |             |
+| 25.out | Sex | Juninho | _roupas_    |
+| 26.out | Sab | Eduardo |             |
+| 27.out | Dom | Thiago  |             |
 
 ### Próximas semanas
 
@@ -23,9 +23,9 @@ _indefinido_
 
 <!-- 
     S T Q Q S S D
-Ed    - x     x      
-Ju    x    - x - -   
-Th  x    x   - x   
+Ed    - x     x            
+Ju  x   -   x   
+Th    x - x     x
 -->
 
 
@@ -338,3 +338,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 11.out | Sex | Eduardo     | _roupas_            |
 | 12.out | Sab | Thiago      |                     |
 | 13.out | Dom | Eduardo     |                     |
+| 14.out | Seg | Juninho     |                     |
+| 15.out | Ter | Thiago      |                     |
+| 16.out | Qua | Eduardo     |                     |
+| 17.out | Qui | Eduardo     |                     |
+| 18.out | Sex | Eduardo     |                     |
+| 19.out | Sab | Thiago      | _roupas_            |
+| 20.out | Dom | Juninho     |                     |
