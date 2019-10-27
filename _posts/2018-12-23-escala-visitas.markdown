@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-10-27 12:00:00 -0300
+date:   2019-10-27 17:40:00 -0300
 categories: agenda
 ---
 
@@ -351,4 +351,4 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 24.out | Qui | Thiago      |                     |
 | 25.out | Sex | Juninho     | _roupas_            |
 | 26.out | Sab | Eduardo     |                     |
-| 27.out | Dom | Thiago      |                     |
+| 27.out | Dom | Juninho     |                     |
