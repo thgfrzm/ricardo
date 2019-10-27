@@ -10,7 +10,7 @@ categories: agenda
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
 | 28.out | Seg | Eduardo |             |
-| 29.out | Ter | Juninho |             |
+| 29.out | Ter | Thiago  |             |
 | 30.out | Qua | Eduardo |             |
 | 31.out | Qui | Eduardo | _roupas_    |
 | 01.nov | Sex | Thiago  |             |
