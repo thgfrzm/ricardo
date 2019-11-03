@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-10-27 17:40:00 -0300
+date:   2019-11-03 17:00:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 28.out | Seg | Eduardo |             |
-| 29.out | Ter | Thiago  |             |
-| 30.out | Qua | Eduardo |             |
-| 31.out | Qui | Eduardo | _roupas_    |
-| 01.nov | Sex | Thiago  |             |
-| 02.nov | Sab | Thiago  | _finados_   |
-| 03.nov | Dom | Juninho |             |
+| data   | dia | visita | observações      |
+| ------ | --- | ------ | ---------------- |
+| 04.nov | Seg | .      | .                |
+| 05.nov | Ter | Thiago | .                |
+| 06.nov | Qua | .      | .                |
+| 07.nov | Qui | Thiago | .                |
+| 08.nov | Sex | .      | .                |
+| 09.nov | Sab | Thiago | _niver maninhos_ |
+| 10.nov | Dom | .      | .                |
 
 ### Próximas semanas
 
@@ -352,3 +352,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 25.out | Sex | Juninho     | _roupas_            |
 | 26.out | Sab | Eduardo     |                     |
 | 27.out | Dom | Juninho     |                     |
+| 28.out | Seg | Eduardo     |                     |
+| 29.out | Ter | Thiago      |                     |
+| 30.out | Qua | Eduardo     |                     |
+| 31.out | Qui | Eduardo     | _roupas_            |
+| 01.nov | Sex | Thiago      |                     |
+| 02.nov | Sab | Thiago      | _finados_           |
+| 03.nov | Dom | Juninho     |                     |
