@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-11-03 17:00:00 -0300
+date:   2019-11-03 17:40:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita | observações      |
-| ------ | --- | ------ | ---------------- |
-| 04.nov | Seg | .      | .                |
-| 05.nov | Ter | Thiago | .                |
-| 06.nov | Qua | .      | .                |
-| 07.nov | Qui | Thiago | .                |
-| 08.nov | Sex | .      | .                |
-| 09.nov | Sab | Thiago | _niver maninhos_ |
-| 10.nov | Dom | .      | .                |
+| data   | dia | visita  | observações      |
+| ------ | --- | ------- | ---------------- |
+| 04.nov | Seg | Thiago  |                  |
+| 05.nov | Ter | Juninho |                  |
+| 06.nov | Qua | Juninho |                  |
+| 07.nov | Qui | Thiago  |                  |
+| 08.nov | Sex | Eduardo |                  |
+| 09.nov | Sab | Thiago  | _niver maninhos_ |
+| 10.nov | Dom | Eduardo |                  |
 
 ### Próximas semanas
 
