@@ -10,9 +10,9 @@ categories: agenda
 | data   | dia | visita  | observações      |
 | ------ | --- | ------- | ---------------- |
 | 04.nov | Seg | Thiago  |                  |
-| 05.nov | Ter | Juninho |                  |
+| 05.nov | Ter | Thiago  |                  |
 | 06.nov | Qua | Juninho |                  |
-| 07.nov | Qui | Thiago  |                  |
+| 07.nov | Qui | Juninho |                  |
 | 08.nov | Sex | Eduardo |                  |
 | 09.nov | Sab | Thiago  | _niver maninhos_ |
 | 10.nov | Dom | Eduardo |                  |
