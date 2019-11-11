@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-11-03 17:40:00 -0300
+date:   2019-11-11 17:40:00 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,13 @@ categories: agenda
 
 | data   | dia | visita  | observações      |
 | ------ | --- | ------- | ---------------- |
-| 04.nov | Seg | Thiago  |                  |
-| 05.nov | Ter | Thiago  |                  |
-| 06.nov | Qua | Juninho |                  |
-| 07.nov | Qui | Juninho |                  |
-| 08.nov | Sex | Eduardo |                  |
-| 09.nov | Sab | Thiago  | _niver maninhos_ |
-| 10.nov | Dom | Eduardo |                  |
+| 11.nov | Seg | Eduardo |                  |
+| 12.nov | Ter | Juninho |                  |
+| 13.nov | Qua | Eduardo |                  |
+| 14.nov | Qui | Juninho |                  |
+| 15.nov | Sex | Thiago  |                  |
+| 16.nov | Sab | Thiago  |                  |
+| 17.nov | Dom | Eduardo |                  |
 
 ### Próximas semanas
 
@@ -359,3 +359,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 01.nov | Sex | Thiago      |                     |
 | 02.nov | Sab | Thiago      | _finados_           |
 | 03.nov | Dom | Juninho     |                     |
+| 04.nov | Seg | Thiago  |                  |
+| 05.nov | Ter | Thiago  |                  |
+| 06.nov | Qua | Juninho |                  |
+| 07.nov | Qui | Juninho |                  |
+| 08.nov | Sex | Eduardo |                  |
+| 09.nov | Sab | Thiago  | _niver maninhos_ |
+| 10.nov | Dom | Eduardo |                  |
