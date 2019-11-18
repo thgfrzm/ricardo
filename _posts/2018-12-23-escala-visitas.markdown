@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-11-17 22:00:00 -0300
+date:   2019-11-18 20:00:00 -0300
 categories: agenda
 ---
 
@@ -9,10 +9,10 @@ categories: agenda
 
 | data   | dia | visita  | observações        |
 | ------ | --- | ------- | ------------------ |
-| 18.nov | Seg | Thiago  | _roupas_           |
+| 18.nov | Seg | Juninho |                    |
 | 19.nov | Ter | Juninho |                    |
 | 20.nov | Qua | Eduardo | _vespera consulta_ |
-| 21.nov | Qui | Juninho |                    |
+| 21.nov | Qui | Thiago  | _roupas_           |
 | 22.nov | Sex | Thiago  |                    |
 | 23.nov | Sab | Eduardo |                    |
 | 24.nov | Dom | Thiago  |                    |
