@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-11-11 17:40:00 -0300
+date:   2019-11-17 22:00:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações      |
-| ------ | --- | ------- | ---------------- |
-| 11.nov | Seg | Eduardo |                  |
-| 12.nov | Ter | Juninho |                  |
-| 13.nov | Qua | Eduardo |                  |
-| 14.nov | Qui | Juninho |                  |
-| 15.nov | Sex | Thiago  |                  |
-| 16.nov | Sab | Thiago  |                  |
-| 17.nov | Dom | Eduardo |                  |
+| data   | dia | visita  | observações        |
+| ------ | --- | ------- | ------------------ |
+| 18.nov | Seg | Thiago  | _roupas_           |
+| 19.nov | Ter | Juninho |                    |
+| 20.nov | Qua | Eduardo | _vespera consulta_ |
+| 21.nov | Qui | Juninho |                    |
+| 22.nov | Sex | Thiago  |                    |
+| 23.nov | Sab | Eduardo |                    |
+| 24.nov | Dom | Thiago  |                    |
 
 ### Próximas semanas
 
@@ -23,9 +23,9 @@ _indefinido_
 
 <!-- 
     S T Q Q S S D
-Ed    - x     x            
-Ju  x   -   x   
-Th    x - x     x
+Ed  . - . . . . .            
+Ju  . . . . . . .
+Th  . . . . . . .
 -->
 
 
@@ -359,10 +359,17 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 01.nov | Sex | Thiago      |                     |
 | 02.nov | Sab | Thiago      | _finados_           |
 | 03.nov | Dom | Juninho     |                     |
-| 04.nov | Seg | Thiago  |                  |
-| 05.nov | Ter | Thiago  |                  |
-| 06.nov | Qua | Juninho |                  |
-| 07.nov | Qui | Juninho |                  |
-| 08.nov | Sex | Eduardo |                  |
-| 09.nov | Sab | Thiago  | _niver maninhos_ |
-| 10.nov | Dom | Eduardo |                  |
+| 04.nov | Seg | Thiago      |                     |
+| 05.nov | Ter | Thiago      |                     |
+| 06.nov | Qua | Juninho     |                     |
+| 07.nov | Qui | Juninho     |                     |
+| 08.nov | Sex | Eduardo     |                     |
+| 09.nov | Sab | Thiago      | _niver maninhos_    |
+| 10.nov | Dom | Eduardo     |                     |
+| 11.nov | Seg | Eduardo     |                     |
+| 12.nov | Ter | Juninho     |                     |
+| 13.nov | Qua | Eduardo     |                     |
+| 14.nov | Qui | Juninho     |                     |
+| 15.nov | Sex | Thiago      |                     |
+| 16.nov | Sab | Thiago      |                     |
+| 17.nov | Dom | Eduardo     |                     |
