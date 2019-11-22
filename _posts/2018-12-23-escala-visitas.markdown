@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-11-18 20:00:00 -0300
+date:   2019-11-21 23:25:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações        |
-| ------ | --- | ------- | ------------------ |
-| 18.nov | Seg | Juninho |                    |
-| 19.nov | Ter | Juninho |                    |
-| 20.nov | Qua | Eduardo | _vespera consulta_ |
-| 21.nov | Qui | Thiago  | _roupas_           |
-| 22.nov | Sex | Thiago  |                    |
-| 23.nov | Sab | Eduardo |                    |
-| 24.nov | Dom | Thiago  |                    |
+| data   | dia | visita  | observações      |
+| ------ | --- | ------- | ---------------- |
+| 18.nov | Seg | Juninho |                  |
+| 19.nov | Ter | Juninho |                  |
+| 20.nov | Qua | Thiago  | _roupas_         |
+| 21.nov | Qui | Thiago  |                  |
+| 22.nov | Sex | Thiago  |                  |
+| 23.nov | Sab | Juninho | _troca pendente_ |
+| 24.nov | Dom | Eduardo |                  |
 
 ### Próximas semanas
 
