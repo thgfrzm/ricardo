@@ -22,6 +22,7 @@ categories: agenda
 _indefinido_
 
 <!-- 
+prox semana, colocar +1 visita para Edu (ficando 3 no total) pela troca do sabado passado com Juninho
     S T Q Q S S D
 Ed  - - . x x . x            
 Ju  - x x - - - -
