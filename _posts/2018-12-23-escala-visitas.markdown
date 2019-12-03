@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-11-25 08:20:00 -0300
+date:   2019-12-03 20:42:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações      |
-| ------ | --- | ------- | ---------------- |
-| 25.nov | Seg | Thiago  |                  |
-| 26.nov | Ter | Juninho |                  |
-| 27.nov | Qua | Juninho | _roupas_         |
-| 28.nov | Qui | Eduardo |                  |
-| 29.nov | Sex | Eduardo |                  |
-| 30.nov | Sab | Thiago  |                  |
-| 01.dez | Dom | Eduardo |                  |
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 02.dez | Seg | Eduardo |             |
+| 03.dez | Ter | Juninho |             |
+| 04.dez | Qua | Thiago  |             |
+| 05.dez | Qui | Thiago  |             |
+| 06.dez | Sex | Juninho | _banco_     |
+| 07.dez | Sab | Thiago  |             |
+| 08.dez | Dom | Eduardo | _roupas_    |
 
 ### Próximas semanas
 
@@ -381,3 +381,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 22.nov | Sex | Thiago      |                     |
 | 23.nov | Sab | Juninho     | _troca pendente_    |
 | 24.nov | Dom | Eduardo     |                     |
+| 25.nov | Seg | Thiago      |                     |
+| 26.nov | Ter | Juninho     |                     |
+| 27.nov | Qua | Juninho     | _roupas_            |
+| 28.nov | Qui | Eduardo     |                     |
+| 29.nov | Sex | Eduardo     |                     |
+| 30.nov | Sab | Thiago      |                     |
+| 01.dez | Dom | Eduardo     |                     |
