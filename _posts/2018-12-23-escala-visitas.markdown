@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-12-03 20:42:00 -0300
+date:   2019-12-04 10:00:00 -0300
 categories: agenda
 ---
 
@@ -14,8 +14,8 @@ categories: agenda
 | 04.dez | Qua | Thiago  |             |
 | 05.dez | Qui | Thiago  |             |
 | 06.dez | Sex | Juninho | _banco_     |
-| 07.dez | Sab | Thiago  |             |
-| 08.dez | Dom | Eduardo | _roupas_    |
+| 07.dez | Sab | Eduardo | _roupas_    |
+| 08.dez | Dom | Thiago  |             |
 
 ### Próximas semanas
 
