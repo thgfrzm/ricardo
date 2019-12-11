@@ -392,5 +392,5 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 04.dez | Qua | Thiago      |                     |
 | 05.dez | Qui | Thiago      |                     |
 | 06.dez | Sex | Juninho     | _banco_             |
-| 07.dez | Sab | Thiago      |                     |
-| 08.dez | Dom | Eduardo     | _roupas_            |
+| 07.dez | Sab | Eduardo     |                     |
+| 08.dez | Dom | Thiago      | _roupas_            |
