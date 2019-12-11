@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-12-03 20:42:00 -0300
+date:   2019-12-11 02:30:00 -0300
 categories: agenda
 ---
 
@@ -9,24 +9,23 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 02.dez | Seg | Eduardo |             |
-| 03.dez | Ter | Juninho |             |
-| 04.dez | Qua | Thiago  |             |
-| 05.dez | Qui | Thiago  |             |
-| 06.dez | Sex | Juninho | _banco_     |
-| 07.dez | Sab | Thiago  |             |
-| 08.dez | Dom | Eduardo | _roupas_    |
+| 09.dez | Seg | Eduardo |             |
+| 10.dez | Ter | Thiago  | _feriado_   |
+| 11.dez | Qua | Juninho |             |
+| 12.dez | Qui | Juninho |             |
+| 13.dez | Sex | Eduardo |             |
+| 14.dez | Sab | Thiago  |             |
+| 15.dez | Dom | Eduardo |             |
 
 ### Próximas semanas
 
 _indefinido_
 
 <!-- 
-prox semana, colocar +1 visita para Edu (ficando 3 no total) pela troca do sabado passado com Juninho
     S T Q Q S S D
-Ed  - - . x x . x            
-Ju  - x x - - - -
-Th  x . . . . x .
+Ed  . . . . . . .
+Ju  . . . . . . .
+Th  . . . . . . .
 -->
 
 
@@ -388,3 +387,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 29.nov | Sex | Eduardo     |                     |
 | 30.nov | Sab | Thiago      |                     |
 | 01.dez | Dom | Eduardo     |                     |
+| 02.dez | Seg | Eduardo     |                     |
+| 03.dez | Ter | Juninho     |                     |
+| 04.dez | Qua | Thiago      |                     |
+| 05.dez | Qui | Thiago      |                     |
+| 06.dez | Sex | Juninho     | _banco_             |
+| 07.dez | Sab | Thiago      |                     |
+| 08.dez | Dom | Eduardo     | _roupas_            |
