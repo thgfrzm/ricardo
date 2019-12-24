@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-12-16 21:00:00 -0300
+date:   2019-12-23 08:00:00 -0300
 categories: agenda
 ---
 
@@ -9,23 +9,43 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 16.dez | Seg | Thiago  |             |
-| 17.dez | Ter | Thiago  |             |
-| 18.dez | Qua | Juninho |             |
-| 19.dez | Qui | Eduardo |             |
-| 20.dez | Sex | Juninho | _roupas_    |
-| 21.dez | Sab | Eduardo |             |
-| 22.dez | Dom | Thiago  |             |
+| 23.dez | Seg | Eduardo |             |
+| 24.dez | Ter | Thiago  | _véspera_   |
+| 25.dez | Qua | Thiago  | _natal_     |
+| 26.dez | Qui | Juninho |             |
+| 27.dez | Sex | Juninho |             |
+| 28.dez | Sab | Juninho |             |
+| 29.dez | Dom | Eduardo |             |
+
 
 ### Próximas semanas
+
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 30.dez | Seg | Thiago  |             |
+| 31.dez | Ter | Eduardo | _véspera_   |
+| 01.dez | Qua | Eduardo | _ano novo_  |
+| 02.dez | Qui | Thiago  |             |
+| 03.dez | Sex | Eduardo |             |
+| 04.dez | Sab | Thiago  |             |
+| 05.dez | Dom | Eduardo |             |
 
 _indefinido_
 
 <!-- 
-    S T Q Q S S D
-Ed  . . . . . . .
-Ju  . . . . . . .
-Th  . . . . . . .
+```
+   23 24 25 26 27 28 29
+    S  T  Q  Q  S  S  D
+Ed  x  .  .  .  .  .  x
+Ju  .  . --  x  x  x --
+Th  -  x  x  .  .  .  .
+
+   30 31 01 02 03 04 05
+    S  T  Q  Q  S  S  D
+Ed  .  x  x  .  x  .  x
+Ju -- -- -- -- -- -- --
+Th  x  -  .  x  .  x  .
+```
 -->
 
 
@@ -401,3 +421,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 13.dez | Sex | Eduardo     |                     |
 | 14.dez | Sab | Thiago      |                     |
 | 15.dez | Dom | Eduardo     |                     |
+| 16.dez | Seg | Thiago      |                     |
+| 17.dez | Ter | Thiago      |                     |
+| 18.dez | Qua | Juninho     |                     |
+| 19.dez | Qui | Eduardo     |                     |
+| 20.dez | Sex | Juninho     | _roupas_            |
+| 21.dez | Sab | Eduardo     |                     |
+| 22.dez | Dom | Thiago      |                     |
