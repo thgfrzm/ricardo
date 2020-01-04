@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2019-12-23 08:00:00 -0300
+date:   2020-01-04 16:00:00 -0300
 categories: agenda
 ---
 
@@ -9,28 +9,27 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 23.dez | Seg | Eduardo |             |
-| 24.dez | Ter | Thiago  | _véspera_   |
-| 25.dez | Qua | Thiago  | _natal_     |
-| 26.dez | Qui | Juninho |             |
-| 27.dez | Sex | Juninho |             |
-| 28.dez | Sab | Juninho |             |
-| 29.dez | Dom | Eduardo |             |
-
+| 30.dez | Seg | Thiago  |             |
+| 31.dez | Ter | Eduardo | _véspera_   |
+| 01.jan | Qua | Eduardo | _ano novo_  |
+| 02.jan | Qui | Thiago  |             |
+| 03.jan | Sex | Eduardo |             |
+| 04.jan | Sab | Thiago  |             |
+| 05.jan | Dom | Eduardo |             |
 
 ### Próximas semanas
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 30.dez | Seg | Thiago  |             |
-| 31.dez | Ter | Eduardo | _véspera_   |
-| 01.dez | Qua | Eduardo | _ano novo_  |
-| 02.dez | Qui | Thiago  |             |
-| 03.dez | Sex | Eduardo |             |
-| 04.dez | Sab | Thiago  |             |
-| 05.dez | Dom | Eduardo |             |
+| data   | dia | visita | observações |
+| ------ | --- | ------ | ----------- |
+| 06.dez | Seg | Thiago |             |
+| 07.dez | Ter | .      |             |
+| 08.jan | Qua | .      |             |
+| 09.jan | Qui | .      |             |
+| 10.jan | Sex | .      |             |
+| 11.jan | Sab | .      |             |
+| 12.jan | Dom | .      |             |
 
-_indefinido_
+<!-- _indefinido_ -->
 
 <!-- 
 ```
@@ -428,3 +427,17 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 20.dez | Sex | Juninho     | _roupas_            |
 | 21.dez | Sab | Eduardo     |                     |
 | 22.dez | Dom | Thiago      |                     |
+| 23.dez | Seg | Eduardo     |                     |
+| 24.dez | Ter | Thiago      | _véspera_           |
+| 25.dez | Qua | Thiago      | _natal_             |
+| 26.dez | Qui | Juninho     |                     |
+| 27.dez | Sex | Juninho     |                     |
+| 28.dez | Sab | Juninho     |                     |
+| 29.dez | Dom | Eduardo     |                     |
+| 30.dez | Seg | Thiago      |                     |
+| 31.dez | Ter | Eduardo     | _véspera_           |
+| 01.jan | Qua | Eduardo     | _ano novo_          |
+| 02.jan | Qui | Thiago      |                     |
+| 03.jan | Sex | Eduardo     |                     |
+| 04.jan | Sab | Thiago      |                     |
+| 05.jan | Dom | Eduardo     |                     |
