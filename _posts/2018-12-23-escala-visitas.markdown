@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-01-06 23:20:00 -0300
+date:   2020-01-13 01:20:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita | observações |
-| ------ | --- | ------ | ----------- |
-| 06.dez | Seg | Juninho |             |
-| 07.dez | Ter | Eduardo      |             |
-| 08.jan | Qua | Thiago      |             |
-| 09.jan | Qui | Thiago      |             |
-| 10.jan | Sex | Juninho      | _roupas_            |
-| 11.jan | Sab | Eduardo      |             |
-| 12.jan | Dom | Thiago      |             |
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 13.jan | Seg | Juninho |             |
+| 14.jan | Ter | Juninho |             |
+| 15.jan | Qua | Thiago  |             |
+| 16.jan | Qui | Eduardo |             |
+| 17.jan | Sex | Eduardo |             |
+| 18.jan | Sab | Eduardo |             |
+| 19.jan | Dom | Thiago  | _roupas_    |
 
 ### Próximas semanas
 
@@ -431,3 +431,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 03.jan | Sex | Eduardo     |                     |
 | 04.jan | Sab | Thiago      |                     |
 | 05.jan | Dom | Eduardo     |                     |
+| 06.dez | Seg | Juninho     |                     |
+| 07.dez | Ter | Eduardo     |                     |
+| 08.jan | Qua | Thiago      |                     |
+| 09.jan | Qui | Thiago      |                     |
+| 10.jan | Sex | Juninho     | _roupas_            |
+| 11.jan | Sab | Eduardo     |                     |
+| 12.jan | Dom | Thiago      |                     |
