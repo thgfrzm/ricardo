@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-02-02 17:00:00 -0300
+date:   2020-02-10 02:55:00 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 03.fev | Seg | Juninho |             |
-| 04.fev | Ter | Juninho |             |
-| 05.fev | Qua | Eduardo |             |
-| 06.fev | Qui | Thiago  | _roupas_    |
-| 07.fev | Sex | Eduardo |             |
-| 08.fev | Sab | Eduardo |             |
-| 09.fev | Dom | Thiago  |             |
+| 10.fev | Seg | Eduardo |             |
+| 11.fev | Ter | Thiago  |             |
+| 12.fev | Qua | Juninho |             |
+| 13.fev | Qui | Eduardo | _roupas_    |
+| 14.fev | Sex | Thiago  |             |
+| 15.fev | Sab | Juninho |             |
+| 16.fev | Dom | Eduardo |             |
 
 ### Próximas semanas
 
@@ -455,7 +455,14 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 27.jan | Seg | Thiago      |                     |
 | 28.jan | Ter | Thiago      |                     |
 | 29.jan | Qua | Juninho     |                     |
-| 30.jan | Qui | Eduardo     |                     |
+| 30.jan | Qui | *Thiago*    | _troca_             |
 | 31.jan | Sex | Eduardo     |                     |
 | 01.fev | Sab | Juninho     | _roupas_            |
 | 02.fev | Dom | Eduardo     |                     |
+| 03.fev | Seg | Juninho     |                     |
+| 04.fev | Ter | Juninho     |                     |
+| 05.fev | Qua | *Eduardo*   | _troca_             |
+| 06.fev | Qui | Thiago      | _roupas_            |
+| 07.fev | Sex | Eduardo     |                     |
+| 08.fev | Sab | Eduardo     |                     |
+| 09.fev | Dom | Thiago      |                     |
