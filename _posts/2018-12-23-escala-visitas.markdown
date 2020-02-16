@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-02-10 02:55:00 -0300
+date:   2020-02-16 16:10:00 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 10.fev | Seg | Eduardo |             |
-| 11.fev | Ter | Thiago  |             |
-| 12.fev | Qua | Juninho |             |
-| 13.fev | Qui | Eduardo | _roupas_    |
-| 14.fev | Sex | Thiago  |             |
-| 15.fev | Sab | Juninho |             |
-| 16.fev | Dom | Eduardo |             |
+| 17.fev | Seg | Thiago  |             |
+| 18.fev | Ter | Juninho |             |
+| 19.fev | Qua | Juninho | _roupas_    |
+| 20.fev | Qui | Thiago  |             |
+| 21.fev | Sex | Eduardo |             |
+| 22.fev | Sab | Eduardo |             |
+| 23.fev | Dom | Thiago  |             |
 
 ### Próximas semanas
 
@@ -466,3 +466,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 07.fev | Sex | Eduardo     |                     |
 | 08.fev | Sab | Eduardo     |                     |
 | 09.fev | Dom | Thiago      |                     |
+| 10.fev | Seg | Eduardo     |                     |
+| 11.fev | Ter | Thiago      |                     |
+| 12.fev | Qua | Juninho     |                     |
+| 13.fev | Qui | Eduardo     | _roupas_            |
+| 14.fev | Sex | Thiago      |                     |
+| 15.fev | Sab | Juninho     |                     |
+| 16.fev | Dom | Eduardo     |                     |
