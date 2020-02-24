@@ -10,12 +10,12 @@ categories: agenda
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
 | 24.fev | Seg | Eduardo |             |
-| 25.fev | Ter | Juninho |             |
-| 26.fev | Qua | Juninho |             |
+| 25.fev | Ter | Juninho | _roupas_    |
+| 26.fev | Qua | Eduardo |             |
 | 27.fev | Qui | Thiago  |             |
 | 28.fev | Sex | Thiago  |             |
 | 29.fev | Sab | Eduardo |             |
-| 01.mar | Dom | Eduardo |             |
+| 01.mar | Dom | Juninho |             |
 
 ### Próximas semanas
 
