@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-02-24 14:00:00 -0300
+date:   2020-03-02 01:00:00 -0300
 categories: agenda
 ---
 
@@ -9,34 +9,20 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 24.fev | Seg | Eduardo |             |
-| 25.fev | Ter | Juninho | _roupas_    |
-| 26.fev | Qua | Eduardo |             |
-| 27.fev | Qui | Thiago  |             |
-| 28.fev | Sex | Thiago  |             |
-| 29.fev | Sab | Eduardo |             |
-| 01.mar | Dom | Juninho |             |
-
-### Próximas semanas
-
-<!-- _indefinido_ -->
+| 02.mar | Seg | Eduardo |             |
+| 03.mar | Ter | Thiago  |             |
+| 04.mar | Qua | Eduardo |             |
+| 05.mar | Qui | Thiago  | _roupas_    |
+| 06.mar | Sex | Juninho |             |
+| 07.mar | Sab | Juninho |             |
+| 08.mar | Dom | Thiago  |             |
 
 <!-- 
+### Próximas semanas
 ```
-   23 24 25 26 27 28 29
-    S  T  Q  Q  S  S  D
-Ed  x  .  .  .  .  .  x
-Ju  .  . --  x  x  x --
-Th  -  x  x  .  .  .  .
-
-   30 31 01 02 03 04 05
-    S  T  Q  Q  S  S  D
-Ed  .  x  x  .  x  .  x
-Ju -- -- -- -- -- -- --
-Th  x  -  .  x  .  x  .
+Thi, semana que vem terei viagem. Vou precisar da terça, sábado e domingo livres (dias 3, 7 e 8 de março). --Edu
 ```
 -->
-
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
 
@@ -475,8 +461,15 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 16.fev | Dom | Eduardo     |                     |
 | 17.fev | Seg | Thiago      |                     |
 | 18.fev | Ter | Juninho     |                     |
-| 19.fev | Qua | Juninho     | _roupas_            |
+| 19.fev | Qua | Juninho     |                     |
 | 20.fev | Qui | Thiago      |                     |
 | 21.fev | Sex | Eduardo     |                     |
 | 22.fev | Sab | Eduardo     |                     |
 | 23.fev | Dom | Thiago      |                     |
+| 24.fev | Seg | Eduardo     |                     |
+| 25.fev | Ter | Juninho     | _roupas_            |
+| 26.fev | Qua | Eduardo     |                     |
+| 27.fev | Qui | Thiago      |                     |
+| 28.fev | Sex | Thiago      |                     |
+| 29.fev | Sab | Eduardo     |                     |
+| 01.mar | Dom | Juninho     |                     |
