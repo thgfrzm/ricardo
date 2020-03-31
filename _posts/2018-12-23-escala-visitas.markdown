@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-03-10 13:40:00 -0300
+date:   2020-03-30 21:40:00 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 09.mar | Seg | Thiago  |             |
-| 10.mar | Ter | Juninho |             |
-| 11.mar | Qua | Eduardo |             |
-| 12.mar | Qui | Eduardo | _roupas_    |
-| 13.mar | Sex | Juninho |             |
-| 14.mar | Sab | Thiago  |             |
-| 15.mar | Dom | Eduardo |             |
+| 30.mar | Seg | Thiago  |             |
+| 31.mar | Ter | Eduardo |             |
+| 01.abr | Qua | Thiago  | _roupas_    |
+| 02.abr | Qui | Eduardo |             |
+| 03.abr | Sex | Thiago  |             |
+| 04.abr | Sab | Eduardo |             |
+| 05.abr | Dom | Thiago  |             |
 
 <!-- 
 ### Próximas semanas
@@ -480,3 +480,24 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 06.mar | Sex | Thiago      | _roupas_            |
 | 07.mar | Sab | Juninho     |                     |
 | 08.mar | Dom | Thiago      |                     |
+| 09.mar | Seg | Thiago      |                     |
+| 10.mar | Ter | Juninho     |                     |
+| 11.mar | Qua | Eduardo     |                     |
+| 12.mar | Qui | Eduardo     | _roupas_            |
+| 13.mar | Sex | Juninho     |                     |
+| 14.mar | Sab | Thiago      |                     |
+| 15.mar | Dom | Eduardo     |                     |
+| 16.mar | Seg | Eduardo     |                     |
+| 17.mar | Ter | Thiago      |                     |
+| 18.mar | Qua | Thiago      |                     |
+| 19.mar | Qui | Juninho     |                     |
+| 20.mar | Sex | Juninho     |                     |
+| 21.mar | Sab | Thiago      |                     |
+| 22.mar | Dom | Eduardo     |                     |
+| 23.mar | Seg | Eduardo     |                     |
+| 24.mar | Ter | Thiago      |                     |
+| 25.mar | Qua | Eduardo     |                     |
+| 26.mar | Qui | Thiago      |                     |
+| 27.mar | Sex | Eduardo     |                     |
+| 28.mar | Sab | Thiago      |                     |
+| 29.mar | Dom | Eduardo     |                     |
