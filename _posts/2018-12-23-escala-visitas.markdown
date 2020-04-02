@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-03-30 21:40:00 -0300
+date:   2020-04-01 22:10:00 -0300
 categories: agenda
 ---
 
@@ -11,9 +11,9 @@ categories: agenda
 | ------ | --- | ------- | ----------- |
 | 30.mar | Seg | Thiago  |             |
 | 31.mar | Ter | Eduardo |             |
-| 01.abr | Qua | Thiago  | _roupas_    |
-| 02.abr | Qui | Eduardo |             |
-| 03.abr | Sex | Thiago  |             |
+| 01.abr | Qua | Thiago  |             |
+| 02.abr | Qui | Thiago  | _roupas_    |
+| 03.abr | Sex | Eduardo |             |
 | 04.abr | Sab | Eduardo |             |
 | 05.abr | Dom | Thiago  |             |
 
