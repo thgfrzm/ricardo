@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-04-16 13:10:00 -0300
+date:   2020-04-20 14:10:00 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 13.abr | Seg | Juninho |             |
-| 14.abr | Ter | Thiago  |             |
-| 15.abr | Qua | Juninho |             |
-| 16.abr | Qui | Eduardo |             |
-| 17.abr | Sex | Eduardo | _roupas_    |
-| 18.abr | Sab | Thiago  |             |
-| 19.abr | Dom | Thiago  |             |
+| 20.abr | Seg | Juninho |             |
+| 21.abr | Ter | Juninho |             |
+| 22.abr | Qua | Eduardo |             |
+| 23.abr | Qui | Juninho | _roupas_    |
+| 24.abr | Sex | Eduardo |             |
+| 25.abr | Sab | Juninho |             |
+| 26.abr | Dom | Eduardo |             |
 
 <!-- 
 ### Próximas semanas
@@ -515,3 +515,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 10.abr | Sex | Thiago      | _roupas_            |
 | 11.abr | Sab | Thiago      |                     |
 | 12.abr | Dom | Eduardo     |                     |
+| 13.abr | Seg | Juninho     |                     |
+| 14.abr | Ter | Thiago      |                     |
+| 15.abr | Qua | Juninho     |                     |
+| 16.abr | Qui | Eduardo     |                     |
+| 17.abr | Sex | Eduardo     | _roupas_            |
+| 18.abr | Sab | Thiago      |                     |
+| 19.abr | Dom | Thiago      |                     |
