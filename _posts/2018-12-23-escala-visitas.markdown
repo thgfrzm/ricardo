@@ -525,7 +525,7 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 20.abr | Seg | Juninho     |                     |
 | 21.abr | Ter | Juninho     |                     |
 | 22.abr | Qua | Eduardo     |                     |
-| 23.abr | Qui | Juninho     | _roupas_            |
+| 23.abr | Qui | Thiago      | _roupas_            |
 | 24.abr | Sex | Eduardo     |                     |
-| 25.abr | Sab | Juninho     |                     |
+| 25.abr | Sab | Thiago      |                     |
 | 26.abr | Dom | Eduardo     |                     |
