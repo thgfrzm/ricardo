@@ -16,6 +16,7 @@ categories: agenda
 | 08.mai | Sex | Eduardo | _roupas_    |
 | 09.mai | Sab | Thiago  |             |
 | 10.mai | Dom | Juninho |             |
+
 <!-- 
 ### Próximas semanas
 ```
