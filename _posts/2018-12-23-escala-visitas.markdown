@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-05-10 15:00:00 -0300
+date:   2020-05-17 12:30:00 -0300
 categories: agenda
 ---
 
@@ -9,18 +9,18 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 11.mai | Seg | Eduardo |             |
-| 12.mai | Ter | Eduardo |             |
-| 13.mai | Qua | Thiago  |             |
-| 14.mai | Qui | Thiago  |             |
-| 15.mai | Sex | Juninho | _roupas_    |
-| 16.mai | Sab | Juninho |             |
-| 17.mai | Dom | Thiago  |             |
+| 18.mai | Seg | Eduardo |             |
+| 19.mai | Ter | Juninho |             |
+| 20.mai | Qua | Eduardo |             |
+| 21.mai | Qui | Juninho |             |
+| 22.mai | Sex | Eduardo |             |
+| 23.mai | Sab | Thiago  | _roupas_    |
+| 24.mai | Dom | Thiago  |             |
 
 <!-- 
-### Próximas semanas
+### notas
 ```
-Thi, semana que vem terei viagem. Vou precisar da terça, sábado e domingo livres (dias 3, 7 e 8 de março). --Edu
+
 ```
 -->
 
@@ -543,3 +543,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 08.mai | Sex | Eduardo     | _roupas_            |
 | 09.mai | Sab | Thiago      |                     |
 | 10.mai | Dom | Juninho     |                     |
+| 11.mai | Seg | Eduardo     |                     |
+| 12.mai | Ter | Eduardo     |                     |
+| 13.mai | Qua | Thiago      |                     |
+| 14.mai | Qui | Thiago      |                     |
+| 15.mai | Sex | Juninho     | _roupas_            |
+| 16.mai | Sab | Juninho     |                     |
+| 17.mai | Dom | Thiago      |                     |
