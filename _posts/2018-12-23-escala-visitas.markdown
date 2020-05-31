@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-05-31 16:00:00 -0300
+date:   2020-05-31 16:20:00 -0300
 categories: agenda
 ---
 
@@ -9,9 +9,9 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 01.jun | Seg | Eduardo |             |
+| 01.jun | Seg | Thiago |             |
 | 02.jun | Ter | Juninho |             |
-| 03.jun | Qua | Thiago  |             |
+| 03.jun | Qua | Eduardo  |             |
 | 04.jun | Qui | Juninho |             |
 | 05.jun | Sex | Eduardo | _roupas_    |
 | 06.jun | Sab | Eduardo |             |
