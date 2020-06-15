@@ -11,8 +11,8 @@ categories: agenda
 | ------ | --- | ------- | ----------- |
 | 15.jun | Seg | Eduardo |             |
 | 16.jun | Ter | Juninho |             |
-| 17.jun | Qua | Thiago  |             |
-| 18.jun | Qui | Juninho | _roupas_    |
+| 17.jun | Qua | Thiago  | _roupas_    |
+| 18.jun | Qui | Juninho |             |
 | 19.jun | Sex | Eduardo |             |
 | 20.jun | Sab | Eduardo |             |
 | 21.jun | Dom | Thiago  |             |
