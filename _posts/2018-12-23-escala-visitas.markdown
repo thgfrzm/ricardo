@@ -12,9 +12,9 @@ categories: agenda
 | 22.jun | Seg | Eduardo |             |
 | 23.jun | Ter | Juninho |             |
 | 24.jun | Qua | Thiago  |             |
-| 25.jun | Qui | Juninho |             |
+| 25.jun | Qui | Thiago  |             |
 | 26.jun | Sex | Eduardo | _roupas_    |
-| 27.jun | Sab | Thiago  |             |
+| 27.jun | Sab | Juninho |             |
 | 28.jun | Dom | Thiago  |             |
 
 <!-- 
