@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-06-28 16:30:00 -0300
+date:   2020-07-05 17:40:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 29.jun | Seg | Eduardo |             |
-| 30.jun | Ter | Juninho |             |
-| 01.jul | Qua | Thiago  |             |
-| 02.jul | Qui | Juninho | _roupas_    |
-| 03.jul | Sex | Eduardo |             |
-| 04.jul | Sab | Eduardo |             |
-| 05.jul | Dom | Thiago  |             |
+| data   | dia | visita      | observações |
+| ------ | --- | ----------- | ----------- |
+| 06.jul | Seg | Eduardo     |             |
+| 07.jul | Ter | Juninho     |             |
+| 08.jul | Qua | **Eduardo** | _troca_     |
+| 09.jul | Qui | Juninho     |             |
+| 10.jul | Sex | Eduardo     |             |
+| 11.jul | Sab | Thiago      | _roupas_    |
+| 12.jul | Dom | Thiago      |             |
 
 <!-- 
 ### notas
@@ -592,3 +592,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 26.jun | Sex | Eduardo     | _roupas_            |
 | 27.jun | Sab | Thiago      |                     |
 | 28.jun | Dom | Thiago      |                     |
+| 29.jun | Seg | Eduardo     |                     |
+| 30.jun | Ter | Juninho     |                     |
+| 01.jul | Qua | Thiago      |                     |
+| 02.jul | Qui | Juninho     | _roupas_            |
+| 03.jul | Sex | Eduardo     |                     |
+| 04.jul | Sab | Eduardo     |                     |
+| 05.jul | Dom | Thiago      |                     |
