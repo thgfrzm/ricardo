@@ -13,14 +13,14 @@ categories: agenda
 | 14.jul | Ter | Juninho    |             |
 | 15.jul | Qua | Thiago     |             |
 | 16.jul | Qui | Juninho    |             |
-| 17.jul | Sex | **Thiago** |             |
+| 17.jul | Sex | Eduardo    |             |
 | 18.jul | Sab | Thiago     |             |
 | 19.jul | Dom | Thiago     |             |
 
 <!-- 
 ### notas
 ```
-
+Thiago deve uma troca para Eduardo (Thiago deve ir 3x/semana por duas semanas seguidas)
 ```
 -->
 
