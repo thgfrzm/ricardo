@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-07-12 12:25:00 -0300
+date:   2020-07-20 01:00:00 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,13 @@ categories: agenda
 
 | data   | dia | visita     | observações |
 | ------ | --- | ---------- | ----------- |
-| 13.jul | Seg | Eduardo    |             |
-| 14.jul | Ter | Juninho    |             |
-| 15.jul | Qua | Thiago     |             |
-| 16.jul | Qui | Juninho    |             |
-| 17.jul | Sex | Eduardo    |             |
-| 18.jul | Sab | Thiago     |             |
-| 19.jul | Dom | Thiago     |             |
+| 20.jul | Seg | Eduardo    |             |
+| 21.jul | Ter | Juninho    |             |
+| 22.jul | Qua | **Thiago** |             |
+| 23.jul | Qui | Juninho    |             |
+| 24.jul | Sex | Eduardo    |             |
+| 25.jul | Sab | Thiago     |             |
+| 26.jul | Dom | Thiago     |             |
 
 <!-- 
 ### notas
@@ -606,3 +606,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 10.jul | Sex | Eduardo     |                     |
 | 11.jul | Sab | Thiago      |                     |
 | 12.jul | Dom | Thiago      |                     |
+| 13.jul | Seg | Eduardo     |                     |
+| 14.jul | Ter | Juninho     |                     |
+| 15.jul | Qua | Thiago      |                     |
+| 16.jul | Qui | Juninho     |                     |
+| 17.jul | Sex | Eduardo     |                     |
+| 18.jul | Sab | Thiago      |                     |
+| 19.jul | Dom | Thiago      |                     |
