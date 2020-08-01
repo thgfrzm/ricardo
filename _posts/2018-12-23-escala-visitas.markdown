@@ -1,27 +1,25 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-07-20 01:00:00 -0300
+date:   2020-07-31 21:26:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita     | observações |
-| ------ | --- | ---------- | ----------- |
-| 20.jul | Seg | Eduardo    |             |
-| 21.jul | Ter | Juninho    |             |
-| 22.jul | Qua | **Thiago** |             |
-| 23.jul | Qui | Juninho    |             |
-| 24.jul | Sex | Eduardo    |             |
-| 25.jul | Sab | Thiago     |             |
-| 26.jul | Dom | Thiago     |             |
+| data   | dia | visita      | observações |
+| ------ | --- | ----------- | ----------- |
+| 27.jul | Seg | Eduardo     |             |
+| 28.jul | Ter | Juninho     |             |
+| 29.jul | Qua | **Eduardo** |             |
+| 30.jul | Qui | Juninho     |             |
+| 31.jul | Sex | Eduardo     |             |
+| 01.ago | Sab | **Thiago**  | _roupas_    |
+| 02.ago | Dom | Thiago      |             |
 
 <!-- 
-### notas
-```
-Thiago deve uma troca para Eduardo (Thiago deve ir 3x/semana por duas semanas seguidas)
-```
+### nota
+
 -->
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
@@ -613,3 +611,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 17.jul | Sex | Eduardo     |                     |
 | 18.jul | Sab | Thiago      |                     |
 | 19.jul | Dom | Thiago      |                     |
+| 20.jul | Seg | Eduardo     |                     |
+| 21.jul | Ter | Juninho     |                     |
+| 22.jul | Qua | **Thiago**  |                     |
+| 23.jul | Qui | Juninho     |                     |
+| 24.jul | Sex | Eduardo     |                     |
+| 25.jul | Sab | Thiago      |                     |
+| 26.jul | Dom | Thiago      |                     |
