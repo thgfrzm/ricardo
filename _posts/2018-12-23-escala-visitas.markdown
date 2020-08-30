@@ -10,12 +10,12 @@ categories: agenda
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
 | 31.ago | Seg | Eduardo |             |
-| 31.set | Ter | Juninho |             |
-| 31.set | Qua | Thiago  |             |
-| 31.set | Qui | Juninho | _roupas_    |
-| 31.set | Sex | Eduardo |             |
-| 31.set | Sab | Thiago  |             |
-| 31.set | Dom | Thiago  |             |
+| 01.set | Ter | Juninho |             |
+| 02.set | Qua | Thiago  |             |
+| 03.set | Qui | Juninho | _roupas_    |
+| 04.set | Sex | Eduardo |             |
+| 05.set | Sab | Thiago  |             |
+| 06.set | Dom | Thiago  |             |
 
 <!-- 
 ### nota
