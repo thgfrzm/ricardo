@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-09-07 16:00:00 -0300
+date:   2020-09-07 00:00:00 -0300
 categories: agenda
 ---
 
