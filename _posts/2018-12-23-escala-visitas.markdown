@@ -14,8 +14,8 @@ categories: agenda
 | 30.set | Qua | Eduardo |             |
 | 01.out | Qui | Thiago  | _roupas_    |
 | 02.out | Sex | Eduardo |             |
-| 03.out | Sab | Juninho |             |
-| 04.out | Dom | Thiago  |             |
+| 03.out | Sab | Thiago  |             |
+| 04.out | Dom | Juninho |             |
 
 <!-- 
 ### nota
