@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-09-27 12:31:00 -0300
+date:   2020-09-29 08:00:00 -0300
 categories: agenda
 ---
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 28.set | Seg | Thiago  |             |
-| 29.set | Ter | Juninho |             |
-| 30.set | Qua | Eduardo |             |
-| 01.out | Qui | Juninho |             |
-| 02.out | Sex | Eduardo |             |
-| 03.out | Sab | Thiago  | _roupas_    |
-| 04.out | Dom | Thiago  |             |
+| data   | dia | visita      | observações |
+| ------ | --- | ----------- | ----------- |
+| 28.set | Seg | Thiago      |             |
+| 29.set | Ter | Juninho     |             |
+| 30.set | Qua | Eduardo     |             |
+| 01.out | Qui | Juninho     |             |
+| 02.out | Sex | Eduardo     |             |
+| 03.out | Sab | **Eduardo** |             |
+| 04.out | Dom | Thiago      | _roupas_    |
 
 <!-- 
 ### nota
