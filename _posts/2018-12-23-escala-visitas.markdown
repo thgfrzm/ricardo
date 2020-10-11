@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-10-06 09:00:00 -0300
+date:   2020-10-11 14:00:00 -0300
 categories: agenda
 ---
 
@@ -9,13 +9,13 @@ categories: agenda
 
 | data   | dia | visita      | observações |
 | ------ | --- | ----------- | ----------- |
-| 05.out | Seg | Thiago      |             |
-| 06.out | Ter | Juninho     |             |
-| 07.out | Qua | Thiago      |             |
-| 08.out | Qui | **Eduardo** |             |
-| 09.out | Sex | **Eduardo** |             |
-| 10.out | Sab | **Eduardo** |             |
-| 11.out | Dom | **Eduardo** | _roupas_    |
+| 12.out | Seg | **Eduardo** | _feriado_   |
+| 13.out | Ter | **Eduardo** |             |
+| 14.out | Qua | **Eduardo** |             |
+| 15.out | Qui | **Eduardo** |             |
+| 16.out | Sex | **Eduardo** |             |
+| 17.out | Sab | **Eduardo** |             |
+| 18.out | Dom | **Eduardo** |             |
 
 <!-- 
 ### nota
@@ -688,3 +688,10 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 02.out    | Sex | Eduardo     |                     |
 | 03.out    | Sab | **Eduardo** |                     |
 | 04.out    | Dom | Thiago      | _roupas_            |
+| 05.out    | Seg | Thiago      |                     |
+| 06.out    | Ter | Juninho     |                     |
+| 07.out    | Qua | Thiago      | _roupas_            |
+| 08.out    | Qui | **Eduardo** |                     |
+| 09.out    | Sex | **Eduardo** |                     |
+| 10.out    | Sab | **Eduardo** |                     |
+| 11.out    | Dom | **Eduardo** |                     |
