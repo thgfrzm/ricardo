@@ -12,6 +12,7 @@ categories: agenda
 
 - [ ] _______: agendar dentista
 - [ ] _______: segunda via RG
+  - [ ] agendar data em [Instituto de Identificação do Paraná](http://www.institutodeidentificacao.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61)
 
 
 ### Atual
@@ -30,16 +31,6 @@ categories: agenda
 ## Observações
 
 - Juninho viaja entre dias 30.Out a 3.Nov;
-
-
-
-[Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
-
-- [ ] reorganizar documentos e cópicas
-
-- [ ] agendar data no [Instituto de Identificação do Paraná](http://www.institutodeidentificacao.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61)
-
-RG: pesquisar no histórico do grupo no whatsapp
 
 
 ---
