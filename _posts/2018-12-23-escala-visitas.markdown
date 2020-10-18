@@ -1,9 +1,18 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-10-18 17:30:00 -0300
+date:   2020-10-18 17:45:00 -0300
 categories: agenda
 ---
+  
+## Responsabilidades 
+- [ ] Eduardo: verificar serviços de Enfermeiro (Lucas)
+- [ ] Juninho: orçar roupas (camisetas/bermudas/cuecas)
+- [ ] Thiago: recolher roupa de frio
+
+- [ ] _______: agendar dentista
+- [ ] _______: segunda via RG
+
 
 ### Atual
 
@@ -17,10 +26,12 @@ categories: agenda
 | 24.out | Sab | Thiago  |             |
 | 25.out | Dom | Thiago  |             |
 
-<!-- 
-### nota
 
--->
+## Observações
+
+- Juninho viaja entre dias 30.Out a 3.Nov;
+
+
 
 [Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
 
