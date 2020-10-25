@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-10-18 17:45:00 -0300
+date:   2020-10-25 12:15:00 -0300
 categories: agenda
 ---
   
 ## Responsabilidades 
-- [ ] Eduardo: verificar serviços de Enfermeiro (Lucas)
-- [ ] Juninho: orçar roupas (camisetas/bermudas/cuecas)
-- [ ] Thiago: recolher roupa de frio
+- [x] Eduardo: verificar serviços de Enfermeiro (Lucas)
+- [x] Eduardo: orçar roupas (camisetas/bermudas/cuecas)
+- [ ] Juninho: agendar dentista
+- [x] Thiago: recolher roupa de frio
 
-- [ ] _______: agendar dentista
 - [ ] _______: segunda via RG
   - [ ] agendar data em [Instituto de Identificação do Paraná](http://www.institutodeidentificacao.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61)
 
@@ -19,13 +19,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 19.out | Seg | Eduardo |             |
-| 20.out | Ter | Juninho |             |
-| 21.out | Qua | Thiago  |             |
-| 22.out | Qui | Juninho | _roupas_    |
-| 23.out | Sex | Eduardo |             |
-| 24.out | Sab | Thiago  |             |
-| 25.out | Dom | Thiago  |             |
+| 26.out | Seg | Eduardo |             |
+| 27.out | Ter | Juninho |             |
+| 28.out | Qua | Thiago  |             |
+| 29.out | Qui | Juninho | _roupas_    |
+| 30.out | Sex | Eduardo |             |
+| 31.out | Sab | Thiago  |             |
+| 01.out | Dom | Thiago  |             |
 
 
 ## Observações
@@ -704,3 +704,10 @@ categories: agenda
 | 16.out    | Sex | Juninho     |                     |
 | 17.out    | Sab | .           |                     |
 | 18.out    | Dom | Thiago      |                     |
+| 19.out    | Seg | Eduardo     |                     |
+| 20.out    | Ter | Juninho     |                     |
+| 21.out    | Qua | Thiago      |                     |
+| 22.out    | Qui | Juninho     |                     |
+| 23.out    | Sex | Eduardo     |                     |
+| 24.out    | Sab | Thiago      | _roupas_            |
+| 25.out    | Dom | Thiago      |                     |
