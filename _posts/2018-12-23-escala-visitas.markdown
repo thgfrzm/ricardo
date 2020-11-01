@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-10-25 12:15:00 -0300
+date:   2020-11-01 16:00:00 -0300
 categories: agenda
 ---
   
 ## Responsabilidades 
 - [x] Eduardo: verificar serviços de Enfermeiro (Lucas)
 - [x] Eduardo: orçar roupas (camisetas/bermudas/cuecas)
-- [ ] Juninho: agendar dentista
+- [x] Juninho: agendar dentista
 - [x] Thiago: recolher roupa de frio
 
 - [ ] _______: segunda via RG
@@ -19,13 +19,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 26.out | Seg | Eduardo |             |
-| 27.out | Ter | Juninho |             |
-| 28.out | Qua | Juninho |             |
-| 29.out | Qui | Juninho |             |
-| 30.out | Sex | Eduardo |             |
-| 31.out | Sab | Thiago  | _roupas_    |
-| 01.out | Dom | Thiago  |             |
+| 02.nov | Seg | Thiago  | _finados_   |
+| 03.nov | Ter | Juninho |             |
+| 04.nov | Qua | Eduardo |             |
+| 05.nov | Qui | Juninho | _roupas_    |
+| 06.nov | Sex | Eduardo |             |
+| 07.nov | Sab | Thiago  |             |
+| 08.nov | Dom | Thiago  |             |
 
 
 ## Observações
@@ -711,3 +711,10 @@ categories: agenda
 | 23.out    | Sex | Eduardo     |                     |
 | 24.out    | Sab | Thiago      | _roupas_            |
 | 25.out    | Dom | Thiago      |                     |
+| 26.out    | Seg | Eduardo     |                     |
+| 27.out    | Ter | Juninho     |                     |
+| 28.out    | Qua | Juninho     |                     |
+| 29.out    | Qui | Juninho     |                     |
+| 30.out    | Sex | Eduardo     |                     |
+| 31.out    | Sab | Thiago      | _roupas_            |
+| 01.nov    | Dom | Thiago      |                     |
