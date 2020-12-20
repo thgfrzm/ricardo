@@ -17,15 +17,15 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita     | observações |
-| ------ | --- | ---------- | ----------- |
-| 21.dez | Seg | Eduardo    |             |
-| 22.dez | Ter | Juninho    |             |
-| 23.dez | Qua | **Thiago** |             |
-| 24.dez | Qui | Juninho    | _roupas_    |
-| 25.dez | Sex | Eduardo    |             |
-| 26.dez | Sab | Thiago     |             |
-| 27.dez | Dom | Thiago     |             |
+| data   | dia | visita     | observações          |
+| ------ | --- | ---------- | -------------------- |
+| 21.dez | Seg | Eduardo    |                      |
+| 22.dez | Ter | Juninho    |                      |
+| 23.dez | Qua | **Thiago** |                      |
+| 24.dez | Qui | Juninho    | _roupas_ / _véspera_ |
+| 25.dez | Sex | Eduardo    | _natal_              |
+| 26.dez | Sab | Thiago     |                      |
+| 27.dez | Dom | Thiago     |                      |
 
 
 ## Observações
