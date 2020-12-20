@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-12-13 19:30:00 -0300
+date:   2020-12-20 18:00:00 -0300
 categories: agenda
 ---
   
@@ -17,15 +17,15 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 14.dez | Seg | Eduardo |             |
-| 15.dez | Ter | Juninho |             |
-| 16.dez | Qua | Eduardo |             |
-| 17.dez | Qui | Juninho |             |
-| 18.dez | Sex | Thiago  | _roupas_    |
-| 19.dez | Sab | Thiago  |             |
-| 20.dez | Dom | Thiago  |             |
+| data   | dia | visita     | observações |
+| ------ | --- | ---------- | ----------- |
+| 21.dez | Seg | Eduardo    |             |
+| 22.dez | Ter | Juninho    |             |
+| 23.dez | Qua | **Thiago** |             |
+| 24.dez | Qui | Juninho    | _roupas_    |
+| 25.dez | Sex | Eduardo    |             |
+| 26.dez | Sab | Thiago     |             |
+| 27.dez | Dom | Thiago     |             |
 
 
 ## Observações
@@ -758,3 +758,10 @@ categories: agenda
 | 11.dez    | Sex | Juninho     |                     |
 | 12.dez    | Sab | Thiago      |                     |
 | 13.dez    | Dom | Thiago      |                     |
+| 14.dez    | Seg | Eduardo     |                     |
+| 15.dez    | Ter | Juninho     |                     |
+| 16.dez    | Qua | Eduardo     |                     |
+| 17.dez    | Qui | Juninho     |                     |
+| 18.dez    | Sex | Thiago      | _roupas_            |
+| 19.dez    | Sab | **Eduardo** |                     |
+| 20.dez    | Dom | Thiago      |                     |
