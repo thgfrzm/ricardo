@@ -18,15 +18,15 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita  | observações          |
-| ------ | --- | ------- | -------------------- |
-| 28.dez | Seg | Eduardo |                      |
-| 29.dez | Ter | ?       |                      |
-| 30.dez | Qua | ?       |                      |
-| 31.dez | Qui | Juninho | _roupas_ / _véspera_ |
-| 01.jan | Sex | Thiago  | _ano novo_           |
-| 02.jan | Sab | Thiago  |                      |
-| 03.jan | Dom | ?       |                      |
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 28.dez | Seg | Eduardo |             |
+| 29.dez | Ter | Juninho | _roupas_    |
+| 30.dez | Qua | ?       |             |
+| 31.dez | Qui | ?       | _véspera_   |
+| 01.jan | Sex | Thiago  | _ano novo_  |
+| 02.jan | Sab | Thiago  |             |
+| 03.jan | Dom | ?       |             |
 
 
 ## Observações
