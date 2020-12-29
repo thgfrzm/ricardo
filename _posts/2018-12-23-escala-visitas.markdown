@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-12-28 10:00:00 -0300
+date:   2020-12-29 09:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -22,11 +22,11 @@ categories: agenda
 | ------ | --- | ------- | ----------- |
 | 28.dez | Seg | Eduardo |             |
 | 29.dez | Ter | Juninho | _roupas_    |
-| 30.dez | Qua | ?       |             |
-| 31.dez | Qui | ?       | _véspera_   |
+| 30.dez | Qua | Thiago  |             |
+| 31.dez | Qui | Juninho | _véspera_   |
 | 01.jan | Sex | Thiago  | _ano novo_  |
 | 02.jan | Sab | Thiago  |             |
-| 03.jan | Dom | ?       |             |
+| 03.jan | Dom | Eduardo |             |
 
 
 ## Observações
