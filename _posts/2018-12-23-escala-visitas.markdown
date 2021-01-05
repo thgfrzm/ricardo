@@ -1,16 +1,11 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-12-29 09:00:00 -0300
+date:   2021-01-04 21:20:00 -0300
 categories: agenda
 ---
 <!--   
 ## Responsabilidades 
-- [x] Eduardo: verificar serviços de Enfermeiro (Lucas)
-- [x] Eduardo: orçar roupas (camisetas/bermudas/cuecas)
-- [x] Juninho: agendar dentista
-- [x] Thiago: recolher roupa de frio
-
 - [ ] _______: segunda via RG
   - [ ] agendar data em [Instituto de Identificação do Paraná](http://www.institutodeidentificacao.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61)
 -->
@@ -18,15 +13,15 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 28.dez | Seg | Eduardo |             |
-| 29.dez | Ter | Juninho | _roupas_    |
-| 30.dez | Qua | Thiago  |             |
-| 31.dez | Qui | Juninho | _véspera_   |
-| 01.jan | Sex | Thiago  | _ano novo_  |
-| 02.jan | Sab | Thiago  |             |
-| 03.jan | Dom | Eduardo |             |
+| data   | dia | visita      | observações |
+| ------ | --- | ----------- | ----------- |
+| 04.jan | Seg | **Eduardo** |             |
+| 05.jan | Ter | Thiago      |             |
+| 06.jan | Qua | Juninho     |             |
+| 07.jan | Qui | Juninho     | _roupas_    |
+| 08.jan | Sex | Eduardo     |             |
+| 09.jan | Sab | Thiago      |             |
+| 10.jan | Dom | Eduardo     |             |
 
 
 ## Observações
@@ -773,3 +768,10 @@ categories: agenda
 | 25.dez.20 | Sex | Eduardo     | _natal_             |
 | 26.dez.20 | Sab | Thiago      | _roupas_            |
 | 27.dez.20 | Dom | Thiago      |                     |
+| 28.dez.20 | Seg | Eduardo     |                     |
+| 29.dez.20 | Ter | Juninho     | _roupas_            |
+| 30.dez.20 | Qua | Thiago      |                     |
+| 31.dez.20 | Qui | Juninho     | _véspera_           |
+| 01.jan.20 | Sex | Thiago      | _ano novo_          |
+| 02.jan.20 | Sab | Thiago      |                     |
+| 03.jan.20 | Dom | **Thiago**  |                     |
