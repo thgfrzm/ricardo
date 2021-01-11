@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-01-11 09:45:00 -0300
+date:   2021-01-11 09:50:00 -0300
 categories: agenda
 ---
 <!--   
@@ -15,13 +15,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 11.jan | Seg | Eduardo |             |
+| 11.jan | Seg | Thiago  |             |
 | 12.jan | Ter | Juninho |             |
 | 13.jan | Qua | Eduardo |             |
 | 14.jan | Qui | Juninho |             |
 | 15.jan | Sex | Eduardo |             |
 | 16.jan | Sab | Thiago  | _roupas_    |
-| 17.jan | Dom | Thiago  |             |
+| 17.jan | Dom | Eduardo |             |
 
 
 ## Observações
