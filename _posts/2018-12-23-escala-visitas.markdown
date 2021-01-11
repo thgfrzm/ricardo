@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-01-08 21:20:00 -0300
+date:   2021-01-11 09:45:00 -0300
 categories: agenda
 ---
 <!--   
@@ -13,15 +13,15 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita      | observações |
-| ------ | --- | ----------- | ----------- |
-| 04.jan | Seg | **Eduardo** |             |
-| 05.jan | Ter | Thiago      |             |
-| 06.jan | Qua | Juninho     |             |
-| 07.jan | Qui | Juninho     |             |
-| 08.jan | Sex | Eduardo     |             |
-| 09.jan | Sab | Eduardo     | _roupas_    |
-| 10.jan | Dom | Thiago      |             |
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 11.jan | Seg | Eduardo |             |
+| 12.jan | Ter | Juninho |             |
+| 13.jan | Qua | Eduardo |             |
+| 14.jan | Qui | Juninho |             |
+| 15.jan | Sex | Eduardo |             |
+| 16.jan | Sab | Thiago  | _roupas_    |
+| 17.jan | Dom | Thiago  |             |
 
 
 ## Observações
@@ -772,6 +772,13 @@ categories: agenda
 | 29.dez.20 | Ter | Juninho     | _roupas_            |
 | 30.dez.20 | Qua | Thiago      |                     |
 | 31.dez.20 | Qui | Juninho     | _véspera_           |
-| 01.jan.20 | Sex | Thiago      | _ano novo_          |
-| 02.jan.20 | Sab | Thiago      |                     |
-| 03.jan.20 | Dom | **Thiago**  |                     |
+| 01.jan    | Sex | Thiago      | _ano novo_          |
+| 02.jan    | Sab | Thiago      |                     |
+| 03.jan    | Dom | **Thiago**  |                     |
+| 04.jan    | Seg | **Eduardo** |                     |
+| 05.jan    | Ter | Thiago      |                     |
+| 06.jan    | Qua | Juninho     |                     |
+| 07.jan    | Qui | Juninho     |                     |
+| 08.jan    | Sex | Eduardo     |                     |
+| 09.jan    | Sab | Eduardo     | _roupas_            |
+| 10.jan    | Dom | Thiago      |                     |
