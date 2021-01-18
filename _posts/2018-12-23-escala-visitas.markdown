@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-01-11 09:50:00 -0300
+date:   2021-01-17 21:10:00 -0300
 categories: agenda
 ---
 <!--   
@@ -15,16 +15,18 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 11.jan | Seg | Thiago  |             |
-| 12.jan | Ter | Juninho |             |
-| 13.jan | Qua | Eduardo |             |
-| 14.jan | Qui | Juninho |             |
-| 15.jan | Sex | Eduardo |             |
-| 16.jan | Sab | Thiago  | _roupas_    |
-| 17.jan | Dom | Eduardo |             |
+| 18.jan | Seg | Juninho |             |
+| 19.jan | Ter | Juninho |             |
+| 20.jan | Qua | Eduardo |             |
+| 21.jan | Qui | Thiago  |             |
+| 22.jan | Sex | Eduardo | _roupas_    |
+| 23.jan | Sab | Thiago  |             |
+| 24.jan | Dom | Thiago  |             |
 
-
+<!-- 
 ## Observações
+Dom, 17.jan:    seria vez do Juninho levar roupas, mas como está indo no início da semana, estou colocando o Edu
+ -->
 
 
 ---
@@ -782,3 +784,10 @@ categories: agenda
 | 08.jan    | Sex | Eduardo     |                     |
 | 09.jan    | Sab | Eduardo     | _roupas_            |
 | 10.jan    | Dom | Thiago      |                     |
+| 11.jan    | Seg | Thiago      |                     |
+| 12.jan    | Ter | Juninho     |                     |
+| 13.jan    | Qua | Eduardo     |                     |
+| 14.jan    | Qui | Juninho     |                     |
+| 15.jan    | Sex | Eduardo     |                     |
+| 16.jan    | Sab | Thiago      | _roupas_            |
+| 17.jan    | Dom | Eduardo     |                     |
