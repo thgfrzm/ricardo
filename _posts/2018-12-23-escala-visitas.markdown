@@ -15,7 +15,7 @@ categories: agenda
 
 | data   | dia | visita     | observações |
 | ------ | --- | ---------- | ----------- |
-| 25.jan | Seg | Eduardo    |             |
+| 25.jan | Seg | **Thiago** |             |
 | 26.jan | Ter | Juninho    |             |
 | 27.jan | Qua | Juninho    | _roupas_    |
 | 28.jan | Qui | Eduardo    |             |
@@ -25,9 +25,9 @@ categories: agenda
 
 ## Observações
 
-Sab, 23.jan     Thiago deve repor esta data para Edu (29.jan)
+Sab, 23.jan     Thiago deve repor esta data para Edu (25.jan)
 
-Dom, 24.jan     Thiago deve repor esta data para Edu (a repor)
+Dom, 24.jan     Thiago deve repor esta data para Edu (29.jan)
 
 
 ---
