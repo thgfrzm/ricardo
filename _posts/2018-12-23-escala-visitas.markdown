@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-01-17 21:10:00 -0300
+date:   2021-01-25 00:30:00 -0300
 categories: agenda
 ---
 <!--   
@@ -13,19 +13,23 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 18.jan | Seg | Juninho |             |
-| 19.jan | Ter | Juninho |             |
-| 20.jan | Qua | Eduardo |             |
-| 21.jan | Qui | Thiago  |             |
-| 22.jan | Sex | Eduardo | _roupas_    |
-| 23.jan | Sab | Thiago  |             |
-| 24.jan | Dom | Thiago  |             |
+| data   | dia | visita     | observações |
+| ------ | --- | ---------- | ----------- |
+| 25.jan | Seg | Eduardo    |             |
+| 26.jan | Ter | Juninho    |             |
+| 27.jan | Qua | Juninho    | _roupas_    |
+| 28.jan | Qui | Eduardo    |             |
+| 29.jan | Sex | **Thiago** |             |
+| 30.jan | Sab | Thiago     |             |
+| 31.jan | Dom | Thiago     |             |
 
-<!-- 
 ## Observações
 Dom, 17.jan:    seria vez do Juninho levar roupas, mas como está indo no início da semana, estou colocando o Edu
+
+Sab, 23.jan     Thiago deve repor esta data para Edu (29.jan)
+Dom, 24.jan     Thiago deve repor esta data para Edu (a repor)
+
+<!-- 
  -->
 
 
@@ -791,3 +795,10 @@ Dom, 17.jan:    seria vez do Juninho levar roupas, mas como está indo no iníci
 | 15.jan    | Sex | Eduardo     |                     |
 | 16.jan    | Sab | Thiago      | _roupas_            |
 | 17.jan    | Dom | Eduardo     |                     |
+| 18.jan    | Seg | Juninho     |                     |
+| 19.jan    | Ter | Juninho     |                     |
+| 20.jan    | Qua | Eduardo     |                     |
+| 21.jan    | Qui | Thiago      |                     |
+| 22.jan    | Sex | Eduardo     | _roupas_            |
+| 23.jan    | Sab | **Eduardo** |                     |
+| 24.jan    | Dom | **Eduardo** |                     |
