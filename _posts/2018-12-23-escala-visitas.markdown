@@ -24,13 +24,10 @@ categories: agenda
 | 31.jan | Dom | Thiago     |             |
 
 ## Observações
-Dom, 17.jan:    seria vez do Juninho levar roupas, mas como está indo no início da semana, estou colocando o Edu
 
 Sab, 23.jan     Thiago deve repor esta data para Edu (29.jan)
-Dom, 24.jan     Thiago deve repor esta data para Edu (a repor)
 
-<!-- 
- -->
+Dom, 24.jan     Thiago deve repor esta data para Edu (a repor)
 
 
 ---
