@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-01-25 00:30:00 -0300
+date:   2021-01-31 10:50:00 -0300
 categories: agenda
 ---
 <!--   
@@ -13,21 +13,21 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita     | observações |
-| ------ | --- | ---------- | ----------- |
-| 25.jan | Seg | **Thiago** |             |
-| 26.jan | Ter | Juninho    |             |
-| 27.jan | Qua | Juninho    | _roupas_    |
-| 28.jan | Qui | Eduardo    |             |
-| 29.jan | Sex | **Thiago** |             |
-| 30.jan | Sab | Thiago     |             |
-| 31.jan | Dom | Thiago     |             |
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 01.fev | Seg | Eduardo |             |
+| 02.fev | Ter | Juninho |             |
+| 03.fev | Qua | Eduardo |             |
+| 04.fev | Qui | Juninho |             |
+| 05.fev | Sex | Eduardo | _roupas_    |
+| 06.fev | Sab | Juninho |             |
+| 07.fev | Dom | Eduardo |             |
 
 ## Observações
 
-Sab, 23.jan     Thiago deve repor esta data para Edu (25.jan)
+Dom, 24.jan     Thiago deve repor esta data para Edu
 
-Dom, 24.jan     Thiago deve repor esta data para Edu (29.jan)
+Qui, 29.jan a 07.fev  Thiago deve se manter afastado
 
 
 ---
@@ -799,3 +799,10 @@ Dom, 24.jan     Thiago deve repor esta data para Edu (29.jan)
 | 22.jan    | Sex | Eduardo     | _roupas_            |
 | 23.jan    | Sab | **Eduardo** |                     |
 | 24.jan    | Dom | **Eduardo** |                     |
+| 25.jan    | Seg | **Thiago**  |                     |
+| 26.jan    | Ter | Juninho     |                     |
+| 27.jan    | Qua | Juninho     | _roupas_            |
+| 28.jan    | Qui | Eduardo     |                     |
+| 29.jan    | Sex | Juninho     |                     |
+| 30.jan    | Sab | Eduardo     |                     |
+| 31.jan    | Dom | Juninho     |                     |
