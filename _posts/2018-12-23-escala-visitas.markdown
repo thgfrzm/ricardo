@@ -15,13 +15,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 01.fev | Seg | Eduardo |             |
-| 02.fev | Ter | Juninho |             |
-| 03.fev | Qua | Thiago  |             |
-| 04.fev | Qui | Juninho |             |
-| 05.fev | Sex | Thiago  | _roupas_    |
-| 06.fev | Sab | Eduardo |             |
-| 07.fev | Dom | Thiago  |             |
+| 08.fev | Seg | Eduardo |             |
+| 09.fev | Ter | Juninho |             |
+| 10.fev | Qua | Thiago  |             |
+| 11.fev | Qui | Juninho |             |
+| 12.fev | Sex | Thiago  | _roupas_    |
+| 13.fev | Sab | Eduardo |             |
+| 14.fev | Dom | Thiago  |             |
 
 ## Observações
 
