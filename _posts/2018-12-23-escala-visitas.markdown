@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-01-31 10:50:00 -0300
+date:   2021-02-08 18:50:00 -0300
 categories: agenda
 ---
 <!--   
@@ -17,11 +17,11 @@ categories: agenda
 | ------ | --- | ------- | ----------- |
 | 01.fev | Seg | Eduardo |             |
 | 02.fev | Ter | Juninho |             |
-| 03.fev | Qua | Eduardo |             |
+| 03.fev | Qua | Thiago  |             |
 | 04.fev | Qui | Juninho |             |
-| 05.fev | Sex | Eduardo | _roupas_    |
-| 06.fev | Sab | Juninho |             |
-| 07.fev | Dom | Eduardo |             |
+| 05.fev | Sex | Thiago  | _roupas_    |
+| 06.fev | Sab | Eduardo |             |
+| 07.fev | Dom | Thiago  |             |
 
 ## Observações
 
@@ -806,3 +806,10 @@ Qui, 29.jan a 07.fev  Thiago deve se manter afastado
 | 29.jan    | Sex | Juninho     |                     |
 | 30.jan    | Sab | Eduardo     |                     |
 | 31.jan    | Dom | Juninho     |                     |
+| 01.fev    | Seg | Eduardo     |                     |
+| 02.fev    | Ter | Juninho     |                     |
+| 03.fev    | Qua | Eduardo     |                     |
+| 04.fev    | Qui | Juninho     |                     |
+| 05.fev    | Sex | Eduardo     | _roupas_            |
+| 06.fev    | Sab | Juninho     |                     |
+| 07.fev    | Dom | Eduardo     |                     |
