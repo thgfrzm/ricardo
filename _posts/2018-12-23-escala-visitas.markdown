@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-02-08 18:50:00 -0300
+date:   2021-02-15 18:50:00 -0300
 categories: agenda
 ---
 <!--   
@@ -13,19 +13,19 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 08.fev | Seg | Eduardo |             |
-| 09.fev | Ter | Juninho |             |
-| 10.fev | Qua | Thiago  |             |
-| 11.fev | Qui | Juninho |             |
-| 12.fev | Sex | Thiago  | _roupas_    |
-| 13.fev | Sab | Eduardo |             |
-| 14.fev | Dom | Thiago  |             |
+| data   | dia | visita     | observações |
+| ------ | --- | ---------- | ----------- |
+| 15.fev | Seg | Eduardo    |             |
+| 16.fev | Ter | **Thiago** |             |
+| 17.fev | Qua | Thiago     |             |
+| 18.fev | Qui | Juninho    |             |
+| 19.fev | Sex | Juninho    | _roupas_    |
+| 20.fev | Sab | Thiago     |             |
+| 21.fev | Dom | Eduardo    |             |
 
 ## Observações
 
-Dom, 24.jan     Thiago deve repor esta data para Edu
+Dom, 24.jan > 16.fev  Thiago deve repor esta data para Edu
 
 Qui, 29.jan a 07.fev  Thiago deve se manter afastado
 
@@ -813,3 +813,10 @@ Qui, 29.jan a 07.fev  Thiago deve se manter afastado
 | 05.fev    | Sex | Eduardo     | _roupas_            |
 | 06.fev    | Sab | Juninho     |                     |
 | 07.fev    | Dom | Eduardo     |                     |
+| 08.fev    | Seg | Eduardo     |                     |
+| 09.fev    | Ter | Juninho     |                     |
+| 10.fev    | Qua | Thiago      |                     |
+| 11.fev    | Qui | Juninho     |                     |
+| 12.fev    | Sex | Thiago      | _roupas_            |
+| 13.fev    | Sab | Eduardo     |                     |
+| 14.fev    | Dom | Thiago      |                     |
