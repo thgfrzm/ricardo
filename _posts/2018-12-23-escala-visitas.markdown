@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-04-19 16:31:00 -0300
+date:   2021-04-20 09:50:00 -0300
 categories: agenda
 ---
 <!--   
@@ -17,9 +17,9 @@ categories: agenda
 | ------ | --- | ------- | ----------- |
 | 19.abr | Seg | Juninho |             |
 | 20.abr | Ter | Eduardo |             |
-| 21.abr | Qua | Eduardo |             |
+| 21.abr | Qua | Juninho |             |
 | 22.abr | Qui | Thiago  |             |
-| 23.abr | Sex | Juninho | _roupas_    |
+| 23.abr | Sex | Eduardo | _roupas_    |
 | 24.abr | Sab | Thiago  |             |
 | 25.abr | Dom | Thiago  |             |
 
