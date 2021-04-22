@@ -1,35 +1,31 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2020-09-29 08:00:00 -0300
+date:   2021-04-20 09:50:00 -0300
 categories: agenda
 ---
+<!--   
+## Responsabilidades 
+- [ ] _______: segunda via RG
+  - [ ] agendar data em [Instituto de Identificação do Paraná](http://www.institutodeidentificacao.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61)
+-->
+
 
 ### Atual
 
-| data   | dia | visita      | observações |
-| ------ | --- | ----------- | ----------- |
-| 28.set | Seg | Thiago      |             |
-| 29.set | Ter | Juninho     |             |
-| 30.set | Qua | Eduardo     |             |
-| 01.out | Qui | Juninho     |             |
-| 02.out | Sex | Eduardo     |             |
-| 03.out | Sab | **Eduardo** |             |
-| 04.out | Dom | Thiago      | _roupas_    |
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 19.abr | Seg | Juninho |             |
+| 20.abr | Ter | Eduardo |             |
+| 21.abr | Qua | Juninho |             |
+| 22.abr | Qui | Thiago  |             |
+| 23.abr | Sex | Eduardo | _roupas_    |
+| 24.abr | Sab | Thiago  |             |
+| 25.abr | Dom | Thiago  |             |
 
-<!-- 
-### nota
+## Observações
 
--->
-
-[Tarefas](https://thgfrzm.github.io/ricardo/lista-tarefas)
-
-- [ ] reorganizar documentos e cópicas
-
-- [ ] agendar data no [Instituto de Identificação do Paraná](http://www.institutodeidentificacao.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61)
-
-RG: pesquisar no histórico do grupo no whatsapp
-
+nenhuma
 
 ---
 
@@ -592,92 +588,295 @@ RG: pesquisar no histórico do grupo no whatsapp
 | 28.jun.20 | Dom | Thiago      |                     |
 | 29.jun.20 | Seg | Eduardo     |                     |
 | 30.jun.20 | Ter | Juninho     |                     |
-| 01.jul    | Qua | Thiago      |                     |
-| 02.jul    | Qui | Juninho     | _roupas_            |
-| 03.jul    | Sex | Eduardo     |                     |
-| 04.jul    | Sab | Eduardo     |                     |
-| 05.jul    | Dom | Thiago      |                     |
-| 06.jul    | Seg | Eduardo     |                     |
-| 07.jul    | Ter | **Eduardo** |                     |
-| 08.jul    | Qua | Juninho     |                     |
-| 09.jul    | Qui | Juninho     |                     |
-| 10.jul    | Sex | Eduardo     |                     |
-| 11.jul    | Sab | Thiago      |                     |
-| 12.jul    | Dom | Thiago      |                     |
-| 13.jul    | Seg | Eduardo     |                     |
-| 14.jul    | Ter | Juninho     |                     |
-| 15.jul    | Qua | Thiago      |                     |
-| 16.jul    | Qui | Juninho     |                     |
-| 17.jul    | Sex | Eduardo     |                     |
-| 18.jul    | Sab | Thiago      |                     |
-| 19.jul    | Dom | Thiago      |                     |
-| 20.jul    | Seg | Eduardo     |                     |
-| 21.jul    | Ter | Juninho     |                     |
-| 22.jul    | Qua | **Thiago**  |                     |
-| 23.jul    | Qui | Juninho     |                     |
-| 24.jul    | Sex | Eduardo     |                     |
-| 25.jul    | Sab | Thiago      |                     |
-| 26.jul    | Dom | Thiago      |                     |
-| 27.jul    | Seg | Eduardo     |                     |
-| 28.jul    | Ter | Juninho     |                     |
-| 29.jul    | Qua | **Eduardo** |                     |
-| 30.jul    | Qui | Juninho     |                     |
-| 31.jul    | Sex | Eduardo     |                     |
-| 01.ago    | Sab | **Thiago**  | _roupas_            |
-| 02.ago    | Dom | Thiago      |                     |
-| 03.ago    | Seg | Thiago      |                     |
-| 04.ago    | Ter | Juninho     |                     |
-| 05.ago    | Qua | Eduardo     |                     |
-| 06.ago    | Qui | Juninho     | _roupas_            |
-| 07.ago    | Sex | Eduardo     |                     |
-| 08.ago    | Sab | Thiago      |                     |
-| 09.ago    | Dom | Thiago      |                     |
-| 10.ago    | Seg | Eduardo     |                     |
-| 11.ago    | Ter | Juninho     |                     |
-| 12.ago    | Qua | Eduardo     |                     |
-| 13.ago    | Qui | Juninho     |                     |
-| 14.ago    | Sex | Eduardo     | _roupas_            |
-| 15.ago    | Sab | Thiago      |                     |
-| 16.ago    | Dom | Thiago      |                     |
-| 17.ago    | Seg | Thiago      |                     |
-| 18.ago    | Ter | Juninho     |                     |
-| 19.ago    | Qua | Eduardo     |                     |
-| 20.ago    | Qui | Juninho     |                     |
-| 21.ago    | Sex | Eduardo     |                     |
-| 22.ago    | Sab | Thiago      | _roupas_            |
-| 23.ago    | Dom | Thiago      |                     |
-| 24.ago    | Seg | Eduardo     |                     |
-| 25.ago    | Ter | Juninho     |                     |
-| 26.ago    | Qua | Eduardo     |                     |
-| 27.ago    | Qui | Juninho     |                     |
-| 28.ago    | Sex | Eduardo     | _roupas_            |
-| 29.ago    | Sab | Thiago      |                     |
-| 30.ago    | Dom | Thiago      |                     |
-| 31.ago    | Seg | Eduardo     |                     |
-| 01.set    | Ter | Juninho     |                     |
-| 02.set    | Qua | Thiago      |                     |
-| 03.set    | Qui | Juninho     | _roupas_            |
-| 04.set    | Sex | Eduardo     |                     |
-| 05.set    | Sab | Thiago      |                     |
-| 06.set    | Dom | **Eduardo** |                     |
-| 07.set    | Seg | **Thiago**  |                     |
-| 08.set    | Ter | Juninho     |                     |
-| 09.set    | Qua | Eduardo     |                     |
-| 10.set    | Qui | Juninho     |                     |
-| 11.set    | Sex | Eduardo     |                     |
-| 12.set    | Sab | Thiago      | _roupas_            |
-| 13.set    | Dom | Thiago      |                     |
-| 14.set    | Seg | Eduardo     |                     |
-| 15.set    | Ter | Juninho     |                     |
-| 16.set    | Qua | Thiago      |                     |
-| 17.set    | Qui | **Thiago**  |                     |
-| 18.set    | Sex | Eduardo     | _roupas_            |
-| 19.set    | Sab | **Juninho** |                     |
-| 20.set    | Dom | Thiago      |                     |
-| 21.set    | Seg | Eduardo     |                     |
-| 22.set    | Ter | Juninho     |                     |
-| 23.set    | Qua | Thiago      |                     |
-| 24.set    | Qui | Juninho     | _roupas_            |
-| 25.set    | Sex | Eduardo     |                     |
-| 26.set    | Sab | Thiago      |                     |
-| 27.set    | Dom | Eduardo     |                     |
+| 01.jul.20 | Qua | Thiago      |                     |
+| 02.jul.20 | Qui | Juninho     | _roupas_            |
+| 03.jul.20 | Sex | Eduardo     |                     |
+| 04.jul.20 | Sab | Eduardo     |                     |
+| 05.jul.20 | Dom | Thiago      |                     |
+| 06.jul.20 | Seg | Eduardo     |                     |
+| 07.jul.20 | Ter | **Eduardo** |                     |
+| 08.jul.20 | Qua | Juninho     |                     |
+| 09.jul.20 | Qui | Juninho     |                     |
+| 10.jul.20 | Sex | Eduardo     |                     |
+| 11.jul.20 | Sab | Thiago      |                     |
+| 12.jul.20 | Dom | Thiago      |                     |
+| 13.jul.20 | Seg | Eduardo     |                     |
+| 14.jul.20 | Ter | Juninho     |                     |
+| 15.jul.20 | Qua | Thiago      |                     |
+| 16.jul.20 | Qui | Juninho     |                     |
+| 17.jul.20 | Sex | Eduardo     |                     |
+| 18.jul.20 | Sab | Thiago      |                     |
+| 19.jul.20 | Dom | Thiago      |                     |
+| 20.jul.20 | Seg | Eduardo     |                     |
+| 21.jul.20 | Ter | Juninho     |                     |
+| 22.jul.20 | Qua | **Thiago**  |                     |
+| 23.jul.20 | Qui | Juninho     |                     |
+| 24.jul.20 | Sex | Eduardo     |                     |
+| 25.jul.20 | Sab | Thiago      |                     |
+| 26.jul.20 | Dom | Thiago      |                     |
+| 27.jul.20 | Seg | Eduardo     |                     |
+| 28.jul.20 | Ter | Juninho     |                     |
+| 29.jul.20 | Qua | **Eduardo** |                     |
+| 30.jul.20 | Qui | Juninho     |                     |
+| 31.jul.20 | Sex | Eduardo     |                     |
+| 01.ago.20 | Sab | **Thiago**  | _roupas_            |
+| 02.ago.20 | Dom | Thiago      |                     |
+| 03.ago.20 | Seg | Thiago      |                     |
+| 04.ago.20 | Ter | Juninho     |                     |
+| 05.ago.20 | Qua | Eduardo     |                     |
+| 06.ago.20 | Qui | Juninho     | _roupas_            |
+| 07.ago.20 | Sex | Eduardo     |                     |
+| 08.ago.20 | Sab | Thiago      |                     |
+| 09.ago.20 | Dom | Thiago      |                     |
+| 10.ago.20 | Seg | Eduardo     |                     |
+| 11.ago.20 | Ter | Juninho     |                     |
+| 12.ago.20 | Qua | Eduardo     |                     |
+| 13.ago.20 | Qui | Juninho     |                     |
+| 14.ago.20 | Sex | Eduardo     | _roupas_            |
+| 15.ago.20 | Sab | Thiago      |                     |
+| 16.ago.20 | Dom | Thiago      |                     |
+| 17.ago.20 | Seg | Thiago      |                     |
+| 18.ago.20 | Ter | Juninho     |                     |
+| 19.ago.20 | Qua | Eduardo     |                     |
+| 20.ago.20 | Qui | Juninho     |                     |
+| 21.ago.20 | Sex | Eduardo     |                     |
+| 22.ago.20 | Sab | Thiago      | _roupas_            |
+| 23.ago.20 | Dom | Thiago      |                     |
+| 24.ago.20 | Seg | Eduardo     |                     |
+| 25.ago.20 | Ter | Juninho     |                     |
+| 26.ago.20 | Qua | Eduardo     |                     |
+| 27.ago.20 | Qui | Juninho     |                     |
+| 28.ago.20 | Sex | Eduardo     | _roupas_            |
+| 29.ago.20 | Sab | Thiago      |                     |
+| 30.ago.20 | Dom | Thiago      |                     |
+| 31.ago.20 | Seg | Eduardo     |                     |
+| 01.set.20 | Ter | Juninho     |                     |
+| 02.set.20 | Qua | Thiago      |                     |
+| 03.set.20 | Qui | Juninho     | _roupas_            |
+| 04.set.20 | Sex | Eduardo     |                     |
+| 05.set.20 | Sab | Thiago      |                     |
+| 06.set.20 | Dom | **Eduardo** |                     |
+| 07.set.20 | Seg | **Thiago**  |                     |
+| 08.set.20 | Ter | Juninho     |                     |
+| 09.set.20 | Qua | Eduardo     |                     |
+| 10.set.20 | Qui | Juninho     |                     |
+| 11.set.20 | Sex | Eduardo     |                     |
+| 12.set.20 | Sab | Thiago      | _roupas_            |
+| 13.set.20 | Dom | Thiago      |                     |
+| 14.set.20 | Seg | Eduardo     |                     |
+| 15.set.20 | Ter | Juninho     |                     |
+| 16.set.20 | Qua | Thiago      |                     |
+| 17.set.20 | Qui | **Thiago**  |                     |
+| 18.set.20 | Sex | Eduardo     | _roupas_            |
+| 19.set.20 | Sab | **Juninho** |                     |
+| 20.set.20 | Dom | Thiago      |                     |
+| 21.set.20 | Seg | Eduardo     |                     |
+| 22.set.20 | Ter | Juninho     |                     |
+| 23.set.20 | Qua | Thiago      |                     |
+| 24.set.20 | Qui | Juninho     | _roupas_            |
+| 25.set.20 | Sex | Eduardo     |                     |
+| 26.set.20 | Sab | Thiago      |                     |
+| 27.set.20 | Dom | Eduardo     |                     |
+| 28.set.20 | Seg | Thiago      |                     |
+| 29.set.20 | Ter | Juninho     |                     |
+| 30.set.20 | Qua | Eduardo     |                     |
+| 01.out.20 | Qui | Juninho     |                     |
+| 02.out.20 | Sex | Eduardo     |                     |
+| 03.out.20 | Sab | **Eduardo** |                     |
+| 04.out.20 | Dom | Thiago      | _roupas_            |
+| 05.out.20 | Seg | Thiago      |                     |
+| 06.out.20 | Ter | Juninho     |                     |
+| 07.out.20 | Qua | Thiago      | _roupas_            |
+| 08.out.20 | Qui | **Eduardo** |                     |
+| 09.out.20 | Sex | **Eduardo** |                     |
+| 10.out.20 | Sab | **Eduardo** |                     |
+| 11.out.20 | Dom | **Eduardo** |                     |
+| 12.out.20 | Seg | **Eduardo** | _feriado_           |
+| 13.out.20 | Ter | **Eduardo** |                     |
+| 14.out.20 | Qua | **Eduardo** |                     |
+| 15.out.20 | Qui | **Eduardo** |                     |
+| 16.out.20 | Sex | Juninho     |                     |
+| 17.out.20 | Sab | .           |                     |
+| 18.out.20 | Dom | Thiago      |                     |
+| 19.out.20 | Seg | Eduardo     |                     |
+| 20.out.20 | Ter | Juninho     |                     |
+| 21.out.20 | Qua | Thiago      |                     |
+| 22.out.20 | Qui | Juninho     |                     |
+| 23.out.20 | Sex | Eduardo     |                     |
+| 24.out.20 | Sab | Thiago      | _roupas_            |
+| 25.out.20 | Dom | Thiago      |                     |
+| 26.out.20 | Seg | Eduardo     |                     |
+| 27.out.20 | Ter | Juninho     |                     |
+| 28.out.20 | Qua | Juninho     |                     |
+| 29.out.20 | Qui | Juninho     |                     |
+| 30.out.20 | Sex | Eduardo     |                     |
+| 31.out.20 | Sab | Thiago      | _roupas_            |
+| 01.nov.20 | Dom | Thiago      |                     |
+| 02.nov.20 | Seg | Thiago      | _finados_           |
+| 03.nov.20 | Ter | Eduardo     |                     |
+| 04.nov.20 | Qua | Juninho     |                     |
+| 05.nov.20 | Qui | Juninho     | _roupas_            |
+| 06.nov.20 | Sex | Eduardo     |                     |
+| 07.nov.20 | Sab | Thiago      |                     |
+| 08.nov.20 | Dom | Thiago      |                     |
+| 09.nov.20 | Seg | Eduardo     |                     |
+| 10.nov.20 | Ter | Juninho     | _roupas_            |
+| 11.nov.20 | Qua | Eduardo     |                     |
+| 12.nov.20 | Qui | Juninho     |                     |
+| 13.nov.20 | Sex | Eduardo     |                     |
+| 14.nov.20 | Sab | Thiago      |                     |
+| 15.nov.20 | Dom | Thiago      |                     |
+| 16.nov.20 | Seg | Eduardo     |                     |
+| 17.nov.20 | Ter | Juninho     |                     |
+| 18.nov.20 | Qua | Thiago      |                     |
+| 19.nov.20 | Qui | Juninho     |                     |
+| 20.nov.20 | Sex | Thiago*     |                     |
+| 21.nov.20 | Sab | Thiago      |                     |
+| 22.nov.20 | Dom | Eduardo     | _roupas_            |
+| 23.nov.20 | Seg | Eduardo     |                     |
+| 24.nov.20 | Ter | Juninho     |                     |
+| 25.nov.20 | Qua | Eduardo     |                     |
+| 26.nov.20 | Qui | Juninho     |                     |
+| 27.nov.20 | Sex | Eduardo     |                     |
+| 28.nov.20 | Sab | Thiago      | _roupas_            |
+| 29.nov.20 | Dom | Thiago      |                     |
+| 30.nov.20 | Seg | Eduardo     |                     |
+| 01.dez.20 | Ter | Juninho     |                     |
+| 02.dez.20 | Qua | Thiago      |                     |
+| 03.dez.20 | Qui | Juninho     | _roupas_            |
+| 04.dez.20 | Sex | Eduardo     |                     |
+| 05.dez.20 | Sab | Thiago      |                     |
+| 06.dez.20 | Dom | Thiago      |                     |
+| 07.dez.20 | Seg | Eduardo     |                     |
+| 08.dez.20 | Ter | Juninho     |                     |
+| 09.dez.20 | Qua | Eduardo     |                     |
+| 10.dez.20 | Qui | Eduardo     | _roupas_            |
+| 11.dez.20 | Sex | Juninho     |                     |
+| 12.dez.20 | Sab | Thiago      |                     |
+| 13.dez.20 | Dom | Thiago      |                     |
+| 14.dez.20 | Seg | Eduardo     |                     |
+| 15.dez.20 | Ter | Juninho     |                     |
+| 16.dez.20 | Qua | Eduardo     |                     |
+| 17.dez.20 | Qui | Juninho     |                     |
+| 18.dez.20 | Sex | Thiago      | _roupas_            |
+| 19.dez.20 | Sab | **Eduardo** |                     |
+| 20.dez.20 | Dom | Thiago      |                     |
+| 21.dez.20 | Seg | Eduardo     |                     |
+| 22.dez.20 | Ter | Juninho     |                     |
+| 23.dez.20 | Qua | **Thiago**  |                     |
+| 24.dez.20 | Qui | Juninho     | _véspera_           |
+| 25.dez.20 | Sex | Eduardo     | _natal_             |
+| 26.dez.20 | Sab | Thiago      | _roupas_            |
+| 27.dez.20 | Dom | Thiago      |                     |
+| 28.dez.20 | Seg | Eduardo     |                     |
+| 29.dez.20 | Ter | Juninho     | _roupas_            |
+| 30.dez.20 | Qua | Thiago      |                     |
+| 31.dez.20 | Qui | Juninho     | _véspera_           |
+| 01.jan    | Sex | Thiago      | _ano novo_          |
+| 02.jan    | Sab | Thiago      |                     |
+| 03.jan    | Dom | **Thiago**  |                     |
+| 04.jan    | Seg | **Eduardo** |                     |
+| 05.jan    | Ter | Thiago      |                     |
+| 06.jan    | Qua | Juninho     |                     |
+| 07.jan    | Qui | Juninho     |                     |
+| 08.jan    | Sex | Eduardo     |                     |
+| 09.jan    | Sab | Eduardo     | _roupas_            |
+| 10.jan    | Dom | Thiago      |                     |
+| 11.jan    | Seg | Thiago      |                     |
+| 12.jan    | Ter | Juninho     |                     |
+| 13.jan    | Qua | Eduardo     |                     |
+| 14.jan    | Qui | Juninho     |                     |
+| 15.jan    | Sex | Eduardo     |                     |
+| 16.jan    | Sab | Thiago      | _roupas_            |
+| 17.jan    | Dom | Eduardo     |                     |
+| 18.jan    | Seg | Juninho     |                     |
+| 19.jan    | Ter | Juninho     |                     |
+| 20.jan    | Qua | Eduardo     |                     |
+| 21.jan    | Qui | Thiago      |                     |
+| 22.jan    | Sex | Eduardo     | _roupas_            |
+| 23.jan    | Sab | **Eduardo** |                     |
+| 24.jan    | Dom | **Eduardo** |                     |
+| 25.jan    | Seg | **Thiago**  |                     |
+| 26.jan    | Ter | Juninho     |                     |
+| 27.jan    | Qua | Juninho     | _roupas_            |
+| 28.jan    | Qui | Eduardo     |                     |
+| 29.jan    | Sex | Juninho     |                     |
+| 30.jan    | Sab | Eduardo     |                     |
+| 31.jan    | Dom | Juninho     |                     |
+| 01.fev    | Seg | Eduardo     |                     |
+| 02.fev    | Ter | Juninho     |                     |
+| 03.fev    | Qua | Eduardo     |                     |
+| 04.fev    | Qui | Juninho     |                     |
+| 05.fev    | Sex | Eduardo     | _roupas_            |
+| 06.fev    | Sab | Juninho     |                     |
+| 07.fev    | Dom | Eduardo     |                     |
+| 08.fev    | Seg | Eduardo     |                     |
+| 09.fev    | Ter | Juninho     |                     |
+| 10.fev    | Qua | Thiago      |                     |
+| 11.fev    | Qui | Juninho     |                     |
+| 12.fev    | Sex | Thiago      | _roupas_            |
+| 13.fev    | Sab | Eduardo     |                     |
+| 14.fev    | Dom | Thiago      |                     |
+| 15.fev    | Seg | Eduardo     |                     |
+| 16.fev    | Ter | **Thiago**  |                     |
+| 17.fev    | Qua | Thiago      |                     |
+| 18.fev    | Qui | Juninho     |                     |
+| 19.fev    | Sex | Juninho     | _roupas_            |
+| 20.fev    | Sab | Thiago      |                     |
+| 21.fev    | Dom | Eduardo     |                     |
+| 22.fev    | Seg | Eduardo     |                     |
+| 23.fev    | Ter | Juninho     |                     |
+| 24.fev    | Qua | Thiago      |                     |
+| 25.fev    | Qui | Thiago      |                     |
+| 26.fev    | Sex | Eduardo     | _roupas_            |
+| 27.fev    | Sab | Juninho     |                     |
+| 28.fev    | Dom | Thiago      |                     |
+| 01.mar    | Seg | Eduardo     |                     |
+| 02.mar    | Ter | Juninho     |                     |
+| 03.mar    | Qua | Thiago      |                     |
+| 04.mar    | Qui | Juninho     |                     |
+| 05.mar    | Sex | Eduardo     |                     |
+| 06.mar    | Sab | Thiago      | _roupas_            |
+| 07.mar    | Dom | Eduardo     |                     |
+| 08.mar    | Seg | Eduardo     |                     |
+| 09.mar    | Ter | **Eduardo** |                     |
+| 10.mar    | Qua | Thiago      |                     |
+| 11.mar    | Qui | Juninho     | _roupas_            |
+| 12.mar    | Sex | **Juninho** |                     |
+| 13.mar    | Sab | Thiago      |                     |
+| 14.mar    | Dom | Thiago      |                     |
+| 15.mar    | Seg | Eduardo     |                     |
+| 16.mar    | Ter | Juninho     |                     |
+| 17.mar    | Qua | Thiago      |                     |
+| 18.mar    | Qui | Juninho     |                     |
+| 19.mar    | Sex | Eduardo     | _roupas_            |
+| 20.mar    | Sab | Thiago      |                     |
+| 21.mar    | Dom | Eduardo     |                     |
+| 22.mar    | Seg | Eduardo     |                     |
+| 23.mar    | Ter | Eduardo     |                     |
+| 24.mar    | Qua | Juninho     |                     |
+| 25.mar    | Qui | Thiago      |                     |
+| 26.mar    | Sex | Juninho     |                     |
+| 27.mar    | Sab | Thiago      | _roupas_            |
+| 28.mar    | Dom | Thiago      |                     |
+| 29.mar    | Seg | Eduardo     |                     |
+| 30.mar    | Ter | Eduardo     |                     |
+| 31.mar    | Qua | Juninho     |                     |
+| 01.abr    | Qui | Thiago      |                     |
+| 02.abr    | Sex | Juninho     | _roupas_            |
+| 03.abr    | Sab | Thiago      |                     |
+| 04.abr    | Dom | Eduardo     |                     |
+| 05.abr    | Seg | Eduardo     |                     |
+| 06.abr    | Ter | Juninho     |                     |
+| 07.abr    | Qua | Thiago      |                     |
+| 08.abr    | Qui | Juninho     |                     |
+| 09.abr    | Sex | Eduardo     | _roupas_            |
+| 10.abr    | Sab | Thiago      |                     |
+| 11.abr    | Dom | Thiago      |                     |
+| 12.abr    | Seg | Eduardo     |                     |
+| 13.abr    | Ter | Juninho     |                     |
+| 14.abr    | Qua | Eduardo     |                     |
+| 15.abr    | Qui | Eduardo     |                     |
+| 16.abr    | Sex | Juninho     |                     |
+| 17.abr    | Sab | Thiago      | _roupas_            |
+| 18.abr    | Dom | Thiago      |                     |
