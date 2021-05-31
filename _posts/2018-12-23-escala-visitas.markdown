@@ -15,13 +15,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 30.mai | Seg | Juninho |             |
-| 31.mai | Ter | Eduardo |             |
-| 01.jun | Qua | Eduardo |             |
-| 02.jun | Qui | Thiago  |             |
-| 03.jun | Sex | Juninho | _roupas_    |
-| 04.jun | Sab | Thiago  |             |
-| 05.jun | Dom | Thiago  |             |
+| 31.mai | Seg | Juninho |             |
+| 01.jun | Ter | Eduardo |             |
+| 02.jun | Qua | Eduardo |             |
+| 03.jun | Qui | Thiago  |             |
+| 04.jun | Sex | Juninho | _roupas_    |
+| 05.jun | Sab | Thiago  |             |
+| 06.jun | Dom | Thiago  |             |
 
 ## Observações
 
