@@ -16,12 +16,12 @@ categories: agenda
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
 | 07.jun | Seg | Eduardo |             |
-| 07.jun | Ter | Eduardo |             |
-| 07.jun | Qua | Thiago  |             |
-| 07.jun | Qui | Juninho |             |
-| 07.jun | Sex | Juninho |             |
-| 07.jun | Sab | Eduardo | _roupas_    |
-| 07.jun | Dom | Thiago  |             |
+| 08.jun | Ter | Eduardo |             |
+| 09.jun | Qua | Thiago  |             |
+| 10.jun | Qui | Juninho |             |
+| 11.jun | Sex | Juninho |             |
+| 12.jun | Sab | Eduardo | _roupas_    |
+| 13.jun | Dom | Thiago  |             |
 
 ## Observações
 
