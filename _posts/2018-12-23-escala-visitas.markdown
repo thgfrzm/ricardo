@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-06-20 21:00:00 -0300
+date:   2021-06-20 20:50:00 -0300
 categories: agenda
 ---
 <!--   
