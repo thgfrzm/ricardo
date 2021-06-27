@@ -18,10 +18,10 @@ categories: agenda
 | 28.jun | Seg | Eduardo |             |
 | 29.jun | Ter | Juninho |             |
 | 30.jun | Qua | Juninho |             |
-| 01.jun | Qui | Thiago  |             |
-| 02.jun | Sex | Eduardo | _roupas_    |
-| 03.jun | Sab | Thiago  |             |
-| 04.jun | Dom | Thiago  |             |
+| 01.jul | Qui | Thiago  |             |
+| 02.jul | Sex | Eduardo | _roupas_    |
+| 03.jul | Sab | Thiago  |             |
+| 04.jul | Dom | Thiago  |             |
 
 ## Observações
 
