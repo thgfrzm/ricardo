@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-06-27 20:50:00 -0300
+date:   2021-07-05 01:30:00 -0300
 categories: agenda
 ---
 <!--   
@@ -15,13 +15,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 28.jun | Seg | Eduardo |             |
-| 29.jun | Ter | Juninho |             |
-| 30.jun | Qua | Juninho |             |
-| 01.jul | Qui | Thiago  |             |
-| 02.jul | Sex | Eduardo | _roupas_    |
-| 03.jul | Sab | Thiago  |             |
-| 04.jul | Dom | Thiago  |             |
+| 05.jul | Seg | Thiago  |             |
+| 06.jul | Ter | Juninho |             |
+| 07.jul | Qua | Juninho |             |
+| 08.jul | Qui | Eduardo |             |
+| 09.jul | Sex | Eduardo |             |
+| 10.jul | Sab | Thiago  | _roupas_    |
+| 11.jul | Dom | Eduardo |             |
 
 ## Observações
 
@@ -950,3 +950,10 @@ Juninho: 29.Jun 30.Jun, 06.Jul e 07.Jul
 | 25.jun    | Sex | Juninho     | _roupas_            |
 | 26.jun    | Sab | Eduardo     |                     |
 | 27.jun    | Dom | Thiago      |                     |
+| 28.jun    | Seg | Eduardo     |                     |
+| 29.jun    | Ter | Juninho     |                     |
+| 30.jun    | Qua | Juninho     |                     |
+| 01.jul    | Qui | Thiago      |                     |
+| 02.jul    | Sex | Eduardo     | _roupas_            |
+| 03.jul    | Sab | Thiago      |                     |
+| 04.jul    | Dom | Thiago      |                     |
