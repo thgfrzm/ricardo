@@ -15,13 +15,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 11.out | Seg | Eduardo |             |
-| 12.out | Ter | Eduardo |             |
-| 13.out | Qua | Juninho |             |
-| 14.out | Qui | Juninho |             |
-| 15.out | Sex | Thiago  | _roupas_    |
-| 16.out | Sab | Thiago  |             |
-| 17.out | Dom | Thiago  |             |
+| 18.out | Seg | Eduardo |             |
+| 19.out | Ter | Juninho |             |
+| 20.out | Qua | Juninho |             |
+| 21.out | Qui | Eduardo |             |
+| 22.out | Sex | Thiago  |             |
+| 23.out | Sab | Eduardo | _roupas_    |
+| 24.out | Dom | Thiago  |             |
 
 ## Observações
 
@@ -1054,3 +1054,10 @@ categories: agenda
 | 08.out    | Sex | Juninho     | _roupas_            |
 | 09.out    | Sab | Eduardo     |                     |
 | 10.out    | Dom | Thiago      |                     |
+| 11.out    | Seg | Eduardo     |                     |
+| 12.out    | Ter | Eduardo     |                     |
+| 13.out    | Qua | Juninho     |                     |
+| 14.out    | Qui | Juninho     |                     |
+| 15.out    | Sex | Thiago      | _roupas_            |
+| 16.out    | Sab | Thiago      |                     |
+| 17.out    | Dom | Thiago      |                     |
