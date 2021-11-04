@@ -17,11 +17,11 @@ categories: agenda
 | ------ | --- | ------- | ----------- |
 | 01.nov | Seg | Thiago  |             |
 | 02.nov | Ter | Juninho |             |
-| 03.nov | Qua | Juninho |             |
+| 03.nov | Qua | Eduardo |             |
 | 04.nov | Qui | Eduardo |             |
-| 05.nov | Sex | Eduardo | _roupas_    |
+| 05.nov | Sex | Eduardo |             |
 | 06.nov | Sab | Thiago  |             |
-| 07.nov | Dom | Eduardo |             |
+| 07.nov | Dom | Juninho | _roupas_    |
 
 ## Observações
 
