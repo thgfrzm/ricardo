@@ -19,9 +19,9 @@ categories: agenda
 | 09.nov | Ter | Eduardo |             |
 | 10.nov | Qua | Thiago  |             |
 | 11.nov | Qui | Juninho |             |
-| 12.nov | Sex | Juninho |             |
-| 13.nov | Sab | Thiago  | _roupas_    |
-| 14.nov | Dom | Thiago  |             |
+| 12.nov | Sex | Thiago  | _roupas_    |
+| 13.nov | Sab | Thiago  |             |
+| 14.nov | Dom | Juninho |             |
 
 ## Observações
 
