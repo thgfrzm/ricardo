@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-11-21 00:00:00 -0300
+date:   2021-11-22 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -19,9 +19,9 @@ categories: agenda
 | 23.nov | Ter | Eduardo |             |
 | 24.nov | Qua | Thiago  |             |
 | 25.nov | Qui | Juninho |             |
-| 26.nov | Sex | Juninho | _roupas_    |
+| 26.nov | Sex | Thiago  |             |
 | 27.nov | Sab | Eduardo |             |
-| 28.nov | Dom | Thiago  |             |
+| 28.nov | Dom | Juninho | _roupas_    |
 
 ## Observações
 
