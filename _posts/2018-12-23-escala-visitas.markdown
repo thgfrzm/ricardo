@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2021-12-08 00:00:00 -0300
+date:   2021-12-09 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -17,7 +17,7 @@ categories: agenda
 | ------ | --- | ------- | ----------- |
 | 06.dez | Seg | Eduardo |             |
 | 07.dez | Ter | Juninho |             |
-| 08.dez | Qua | Juninho |             |
+| 08.dez | Qua | Eduardo |             |
 | 09.dez | Qui | Juninho |             |
 | 10.dez | Sex | Thiago  |             |
 | 11.dez | Sab | Eduardo | _roupas_    |
