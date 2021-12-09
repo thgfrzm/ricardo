@@ -20,8 +20,8 @@ categories: agenda
 | 08.dez | Qua | Eduardo |             |
 | 09.dez | Qui | Juninho |             |
 | 10.dez | Sex | Thiago  |             |
-| 11.dez | Sab | Eduardo | _roupas_    |
-| 12.dez | Dom | Eduardo |             |
+| 11.dez | Sab | Thiago  |             |
+| 12.dez | Dom | Eduardo | _roupas_    |
 
 ## Observações
 
