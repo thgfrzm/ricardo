@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-01-09 00:00:00 -0300
+date:   2022-01-17 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -15,13 +15,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 10.jan | Seg | Thiago  |             |
-| 11.jan | Ter | Juninho |             |
-| 12.jan | Qua | Eduardo |             |
-| 13.jan | Qui | Juninho |             |
-| 14.jan | Sex | Eduardo |             |
-| 15.jan | Sab | Thiago  | _roupas_    |
-| 16.jan | Dom | Thiago  |             |
+| 17.jan | Seg | Thiago  |             |
+| 18.jan | Ter | Eduardo |             |
+| 19.jan | Qua | Juninho |             |
+| 20.jan | Qui | Juninho |             |
+| 21.jan | Sex | Juninho |             |
+| 22.jan | Sab | Eduardo | _roupas_    |
+| 23.jan | Dom | Juninho |             |
 
 ## Observações
 
@@ -1145,3 +1145,10 @@ categories: agenda
 | 07.jan    | Sex | Eduardo     |                     |
 | 08.jan    | Sab | Thiago      |                     |
 | 09.jan    | Dom | Juninho     | _roupas_            |
+| 10.jan    | Seg | Thiago      |                     |
+| 11.jan    | Ter | Juninho     |                     |
+| 12.jan    | Qua | Eduardo     |                     |
+| 13.jan    | Qui | Juninho     |                     |
+| 14.jan    | Sex | Eduardo     |                     |
+| 15.jan    | Sab | Thiago      | _roupas_            |
+| 16.jan    | Dom | Thiago      |                     |
