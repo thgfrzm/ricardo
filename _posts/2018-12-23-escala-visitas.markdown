@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-01-17 00:00:00 -0300
+date:   2022-01-30 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -15,13 +15,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 17.jan | Seg | Thiago  |             |
-| 18.jan | Ter | Eduardo |             |
-| 19.jan | Qua | Juninho |             |
-| 20.jan | Qui | Juninho |             |
-| 21.jan | Sex | Juninho |             |
-| 22.jan | Sab | Eduardo | _roupas_    |
-| 23.jan | Dom | Juninho |             |
+| 31.jan | Seg | Thiago  |             |
+| 01.fev | Ter | Juninho |             |
+| 02.fev | Qua | Eduardo |             |
+| 03.fev | Qui | Eduardo |             |
+| 04.fev | Sex | Juninho | _roupas_    |
+| 05.fev | Sab | Thiago  |             |
+| 06.fev | Dom | Eduardo |             |
 
 ## Observações
 
@@ -1152,3 +1152,17 @@ categories: agenda
 | 14.jan    | Sex | Eduardo     |                     |
 | 15.jan    | Sab | Thiago      | _roupas_            |
 | 16.jan    | Dom | Thiago      |                     |
+| 17.jan    | Seg | Thiago      |                     |
+| 18.jan    | Ter | Eduardo     |                     |
+| 19.jan    | Qua | Juninho     |                     |
+| 20.jan    | Qui | Juninho     |                     |
+| 21.jan    | Sex | Juninho     |                     |
+| 22.jan    | Sab | Eduardo     | _roupas_            |
+| 23.jan    | Dom | Juninho     |                     |
+| 24.jan    | Seg | Thiago      |                     |
+| 25.jan    | Ter | Eduardo     |                     |
+| 26.jan    | Qua | Thiago      |                     |
+| 27.jan    | Qui | Eduardo     |                     |
+| 28.jan    | Sex | Thiago      | _roupas_            |
+| 29.jan    | Sab | Eduardo     |                     |
+| 30.jan    | Dom | Thiago      |                     |
