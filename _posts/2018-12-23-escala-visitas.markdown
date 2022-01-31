@@ -16,8 +16,8 @@ categories: agenda
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
 | 31.jan | Seg | Thiago  |             |
-| 01.fev | Ter | Juninho |             |
-| 02.fev | Qua | Eduardo |             |
+| 01.fev | Ter | Eduardo |             |
+| 02.fev | Qua | Juninho |             |
 | 03.fev | Qui | Eduardo |             |
 | 04.fev | Sex | Juninho | _roupas_    |
 | 05.fev | Sab | Thiago  |             |
