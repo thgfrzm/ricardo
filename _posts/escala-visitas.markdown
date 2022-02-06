@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-01-30 00:00:00 -0300
+date:   2022-02-06 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -13,15 +13,15 @@ categories: agenda
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 31.jan | Seg | Thiago  |             |
-| 01.fev | Ter | Eduardo |             |
-| 02.fev | Qua | Juninho |             |
-| 03.fev | Qui | Eduardo |             |
-| 04.fev | Sex | Juninho | _roupas_    |
-| 05.fev | Sab | Thiago  |             |
-| 06.fev | Dom | Eduardo |             |
+| data   | dia | visita  | observações              |
+| ------ | --- | ------- | ------------------------ |
+| 07.fev | Seg | Thiago  |                          |
+| 08.fev | Ter | Juninho | Dentista 15h (resp. Edu) |
+| 09.fev | Qua | Eduardo |                          |
+| 10.fev | Qui | Juninho |                          |
+| 11.fev | Sex | Thiago  |                          |
+| 12.fev | Sab | Eduardo | _roupas_                 |
+| 13.fev | Dom | Thiago  |                          |
 
 ## Compromissos 2022
 
@@ -31,7 +31,7 @@ categories: agenda
 | 26.jan | Qua --:-- | Eduardo     | UBS Marabá, Buscar remédios                                                                   |
 | 27.jan | Qui --:-- | Eduardo     | UBS Marabá, Dentista (extração)                                                               |
 | 31.jan | Seg --:-- | Eduardo     | UBS Marabá, Dentista (retorno)                                                                |
-| 08.fev | Ter 15:00 | ?           | UBS Marabá, Dentista (extração)                                                               |
+| 08.fev | Ter 15:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                               |
 | 11.fev | Sex --:-- | ?           | UBS Marabá, Dentista (retorno)                                                                |
 | 17.fev | Qui 07:00 | ?           | UBS Marabá, Exames - obs.: jejum 12h, permitido ingestão de água                              |
 | 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                   |
@@ -1178,3 +1178,10 @@ categories: agenda
 | 28.jan    | Sex | Thiago      | _roupas_            |
 | 29.jan    | Sab | Eduardo     |                     |
 | 30.jan    | Dom | Thiago      |                     |
+| 31.jan    | Seg | Eduardo     |                     |
+| 01.fev    | Ter | Eduardo     |                     |
+| 02.fev    | Qua | Juninho     |                     |
+| 03.fev    | Qui | Eduardo     |                     |
+| 04.fev    | Sex | Juninho     | _roupas_            |
+| 05.fev    | Sab | Thiago      |                     |
+| 06.fev    | Dom | Thiago      |                     |
