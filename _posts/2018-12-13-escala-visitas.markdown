@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-02-09 00:00:00 -0300
+date:   2022-02-10 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -34,7 +34,7 @@ categories: agenda
 | 08.fev | Ter 15:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                               |
 | 09.fev | Qua 11:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                               |
 | 15.fev | Ter 07:30 | Juninho     | UBS Marabá, Dentista (retorno)                                                                |
-| 17.fev | Qui 07:00 | Juninho     | UBS Marabá, Exames - obs.: jejum 12h, permitido ingestão de água                              |
+| 17.fev | Qui 07:00 | Juninho     | UBS Marabá, Exames - obs.: levar amostra da 1a urina do dia, levar receita de medicamentos e fazer jejum 12h, permitido ingestão de água |
 | 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                   |
 | 11.mar | Sex --:-- | ?           | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários |
 
