@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-02-08 00:00:00 -0300
+date:   2022-02-09 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -32,7 +32,8 @@ categories: agenda
 | 27.jan | Qui --:-- | Eduardo     | UBS Marabá, Dentista (extração)                                                               |
 | 31.jan | Seg --:-- | Eduardo     | UBS Marabá, Dentista (retorno)                                                                |
 | 08.fev | Ter 15:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                               |
-| 09.fev | Qua 11:00 | Eduardo     | UBS Marabá, Dentista (retorno)                                                                |
+| 09.fev | Qua 11:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                               |
+| 15.fev | Ter 07:30 | ?           | UBS Marabá, Dentista (retorno)                                                                |
 | 17.fev | Qui 07:00 | ?           | UBS Marabá, Exames - obs.: jejum 12h, permitido ingestão de água                              |
 | 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                   |
 | 11.mar | Sex --:-- | ?           | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários |
