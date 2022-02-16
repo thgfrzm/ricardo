@@ -19,9 +19,9 @@ categories: agenda
 | 15.fev | Ter | Eduardo | 07:30 Dentista (resp. Ju)                                       |
 | 16.fev | Qua | Eduardo |                                                                 |
 | 17.fev | Qui | Eduardo | 7:00 UBS Marabá, Exames* / 9:30 Dentista (prótese) - (resp. Ju) |
-| 18.fev | Sex | Thiago  |                                                                 |
+| 18.fev | Sex | Juninho |                                                                 |
 | 19.fev | Sab | Thiago  | _roupas_                                                        |
-| 20.fev | Dom | Juninho |                                                                 |
+| 20.fev | Dom | Thiago  |                                                                 |
 
 * UBS Marabá, Exames - obs.: 1a urina do dia, receita de medicamentos e fazer jejum 12h, permitido ingestão de água
 
