@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-02-22 00:00:00 -0300
+date:   2022-02-28 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -15,16 +15,21 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 21.fev | Seg | Thiago  |             |
-| 22.fev | Ter | Juninho |             |
-| 23.fev | Qua | Eduardo |             |
-| 24.fev | Qui | Juninho | _roupas_    |
-| 25.fev | Sex | Eduardo |             |
-| 26.fev | Sab | Thiago  |             |
-| 27.fev | Dom | Thiago  |             |
+| 28.fev | Seg | Thiago  |             |
+| 01.mar | Ter | Juninho |             |
+| 02.mar | Qua | Eduardo |             |
+| 03.mar | Qui | Eduardo |             |
+| 04.mar | Sex | Juninho |             |
+| 05.mar | Sab | Eduardo | _roupas_    |
+| 06.mar | Dom | Thiago  |             |
 
+### Compromissos próximos
+| data   | dia/hora  | Responsável | observações                                                                                   |
+| ------ | --------- | ----------- | --------------------------------------------------------------------------------------------- |
+| 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                   |
+| 11.mar | Sex 08:30 | ?           | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários |
 
-## Compromissos 2022
+### Compromissos 2022
 
 | data   | dia/hora  | Responsável | observações                                                                                                       |
 | ------ | --------- | ----------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -37,6 +42,7 @@ categories: agenda
 | 15.fev | Ter 07:30 | Juninho     | UBS Marabá, Dentista (retorno)                                                                                    |
 | 17.fev | Qui 07:00 | Juninho     | UBS Marabá, Exames - obs.: 1a urina do dia, receita de medicamentos e fazer jejum 12h, permitido ingestão de água |
 | 17.fev | Qui 09:30 | Juninho     | Cal - Dentista (prótese)                                                                                          |
+| 24.fev | Qui --:-- | Eduardo     | Orçamentos - Dentista (prótese)                                                                                   |
 | 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                       |
 | 11.mar | Sex 08:30 | ?           | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários                     |
 | 13.abr | Qua 14:00 | ?           | UBS Marabá, Dentista (extração)                                                                                   |
@@ -1203,3 +1209,10 @@ categories: agenda
 | 18.fev    | Sex | Juninho     |                                                     |
 | 19.fev    | Sab | Thiago      | _roupas_                                            |
 | 20.fev    | Dom | Thiago      |                                                     |
+| 21.fev    | Seg | Thiago      |                                                     |
+| 22.fev    | Ter | Juninho     |                                                     |
+| 23.fev    | Qua | Eduardo     |                                                     |
+| 24.fev    | Qui | Juninho     | _roupas_                                            |
+| 25.fev    | Sex | Eduardo     |                                                     |
+| 26.fev    | Sab | Thiago      |                                                     |
+| 27.fev    | Dom | Thiago      |                                                     |
