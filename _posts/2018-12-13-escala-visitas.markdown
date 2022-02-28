@@ -26,7 +26,7 @@ categories: agenda
 ### Compromissos próximos
 | data   | dia/hora  | Responsável | observações                                                                                   |
 | ------ | --------- | ----------- | --------------------------------------------------------------------------------------------- |
-| 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                   |
+| 04.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                   |
 | 11.mar | Sex 08:30 | ?           | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários |
 
 ### Compromissos 2022
