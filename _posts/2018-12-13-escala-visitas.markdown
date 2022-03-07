@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-02-28 00:00:00 -0300
+date:   2022-03-07 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -10,26 +10,24 @@ categories: agenda
   - [ ] agendar data em [Instituto de Identificação do Paraná](http://www.institutodeidentificacao.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61)
 -->
 
+### Compromissos próximos
+
+| data   | dia/hora  | Responsável | observações                                                                                   |
+| ------ | --------- | ----------- | --------------------------------------------------------------------------------------------- |
+| 11.mar | Sex 08:30 | Eduardo     | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários |
+
 
 ### Atual
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 28.fev | Seg | Thiago  |             |
-| 01.mar | Ter | Juninho |             |
-| 02.mar | Qua | Eduardo |             |
-| 03.mar | Qui | Eduardo |             |
-| 04.mar | Sex | Juninho |             |
-| 05.mar | Sab | Eduardo | _roupas_    |
-| 06.mar | Dom | Thiago  |             |
-
-
-### Compromissos próximos
-
-| data   | dia/hora  | Responsável | observações                                                                                   |
-| ------ | --------- | ----------- | --------------------------------------------------------------------------------------------- |
-| 04.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                   |
-| 11.mar | Sex 08:30 | ?           | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários |
+| 07.mar | Seg | Thiago  |             |
+| 08.mar | Ter | Juninho |             |
+| 09.mar | Qua | Eduardo |             |
+| 10.mar | Qui | Juninho |             |
+| 11.mar | Sex | Thiago  |             |
+| 12.mar | Sab | Thiago  | _roupas_    |
+| 13.mar | Dom | Eduardo |             |
 
 
 ### Compromissos 2022
@@ -1219,3 +1217,10 @@ categories: agenda
 | 25.fev    | Sex | Eduardo     |                                                     |
 | 26.fev    | Sab | Thiago      |                                                     |
 | 27.fev    | Dom | Thiago      |                                                     |
+| 28.fev    | Seg | Thiago      |                                                     |
+| 01.mar    | Ter | Juninho     |                                                     |
+| 02.mar    | Qua | Eduardo     |                                                     |
+| 03.mar    | Qui | Eduardo     |                                                     |
+| 04.mar    | Sex | Juninho     |                                                     |
+| 05.mar    | Sab | Eduardo     | _roupas_                                            |
+| 06.mar    | Dom | Thiago      |                                                     |
