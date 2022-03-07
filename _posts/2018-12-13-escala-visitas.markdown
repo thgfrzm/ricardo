@@ -45,7 +45,7 @@ categories: agenda
 | 17.fev | Qui 09:30 | Juninho     | Cal - Dentista (prótese)                                                                                          |
 | 24.fev | Qui --:-- | Eduardo     | Orçamentos - Dentista (prótese)                                                                                   |
 | 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                       |
-| 11.mar | Sex 08:30 | ?           | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários                     |
+| 11.mar | Sex 08:30 | Eduardo     | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários                     |
 | 13.abr | Qua 14:00 | ?           | UBS Marabá, Dentista (extração)                                                                                   |
 
 
