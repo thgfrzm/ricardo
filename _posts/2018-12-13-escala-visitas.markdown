@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-03-07 00:00:00 -0300
+date:   2022-03-13 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -12,41 +12,45 @@ categories: agenda
 
 ### Compromissos próximos
 
-| data   | dia/hora  | Responsável | observações                                                                                   |
-| ------ | --------- | ----------- | --------------------------------------------------------------------------------------------- |
-| 11.mar | Sex 08:30 | Eduardo     | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários |
+Esta semana:
+- Eduardo| agendar consulta dentista Dr. Paulo         // solicitar orçamento para prótese com Dr. Paulo
+- Thiago | cancelar extração em UBS Marabá (13.abr)    // StarClin oferece extração gratuita fazendo prótese lá
+- ? | agendar prótese superior para aprox. 15.abr      // aguardar orçamento de prótese com Dr. Paulo 
 
 
 ### Atual
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 07.mar | Seg | Thiago  |             |
-| 08.mar | Ter | Juninho |             |
-| 09.mar | Qua | Eduardo |             |
-| 10.mar | Qui | Juninho |             |
-| 11.mar | Sex | Thiago  |             |
-| 12.mar | Sab | Thiago  | _roupas_    |
-| 13.mar | Dom | Eduardo |             |
+| 14.mar | Seg | Thiago  | _roupas_    |
+| 15.mar | Ter | Eduardo |             |
+| 16.mar | Qua | Juninho |             |
+| 17.mar | Qui | Eduardo |             |
+| 18.mar | Sex | Juninho |             |
+| 19.mar | Sab | Eduardo |             |
+| 20.mar | Dom | Thiago  |             |
 
 
 ### Compromissos 2022
 
-| data   | dia/hora  | Responsável | observações                                                                                                       |
-| ------ | --------- | ----------- | ----------------------------------------------------------------------------------------------------------------- |
-| 26.jan | Qua --:-- | Eduardo     | UBS Marabá, Consulta médica                                                                                       |
-| 26.jan | Qua --:-- | Eduardo     | UBS Marabá, Buscar remédios                                                                                       |
-| 27.jan | Qui --:-- | Eduardo     | UBS Marabá, Dentista (extração)                                                                                   |
-| 31.jan | Seg --:-- | Eduardo     | UBS Marabá, Dentista (retorno)                                                                                    |
-| 08.fev | Ter 15:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                                                   |
-| 09.fev | Qua 11:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                                                   |
-| 15.fev | Ter 07:30 | Juninho     | UBS Marabá, Dentista (retorno)                                                                                    |
-| 17.fev | Qui 07:00 | Juninho     | UBS Marabá, Exames - obs.: 1a urina do dia, receita de medicamentos e fazer jejum 12h, permitido ingestão de água |
-| 17.fev | Qui 09:30 | Juninho     | Cal - Dentista (prótese)                                                                                          |
-| 24.fev | Qui --:-- | Eduardo     | Orçamentos - Dentista (prótese)                                                                                   |
-| 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                       |
-| 11.mar | Sex 08:30 | Eduardo     | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários                     |
-| 13.abr | Qua 14:00 | ?           | UBS Marabá, Dentista (extração)                                                                                   |
+| data   | dia/hora  | Responsável | observações                                                                                                        |
+| ------ | --------- | ----------- | ------------------------------------------------------------------------------------------------------------------ |
+| 26.jan | Qua --:-- | Eduardo     | UBS Marabá, Consulta médica                                                                                        |
+| 26.jan | Qua --:-- | Eduardo     | UBS Marabá, Buscar remédios                                                                                        |
+| 27.jan | Qui --:-- | Eduardo     | UBS Marabá, Dentista (extração)                                                                                    |
+| 31.jan | Seg --:-- | Eduardo     | UBS Marabá, Dentista (retorno)                                                                                     |
+| 08.fev | Ter 15:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                                                    |
+| 09.fev | Qua 11:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                                                    |
+| 15.fev | Ter 07:30 | Juninho     | UBS Marabá, Dentista (retorno)                                                                                     |
+| 17.fev | Qui 07:00 | Juninho     | UBS Marabá, Exames - obs.: 1a urina do dia, receita de medicamentos e fazer jejum 12h, permitido ingestão de água  |
+| 17.fev | Qui 09:30 | Juninho     | Cal - Dentista (prótese)                                                                                           |
+| 24.fev | Qui --:-- | Eduardo     | Orçamentos - Dentista (prótese)                                                                                    |
+| 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
+| 11.mar | Sex 08:30 | Eduardo     | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários                      |
+| 13.abr | Qua 14:00 | Thiago      | (CANCELAR)  UBS Marabá, Dentista (extração)                                                                        |
+| 27.abr | Qua 09:15 | ?           | UBS Marabá, Nutricionista                                                                                          |
+| 31.out | ??? ??:?? | ?           | UBS Marabá, agendar consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
+
 
 
 ---
@@ -1224,3 +1228,10 @@ categories: agenda
 | 04.mar    | Sex | Juninho     |                                                     |
 | 05.mar    | Sab | Eduardo     | _roupas_                                            |
 | 06.mar    | Dom | Thiago      |                                                     |
+| 07.mar    | Seg | Thiago      |                                                     |
+| 08.mar    | Ter | Juninho     |                                                     |
+| 09.mar    | Qua | Juninho     |                                                     |
+| 10.mar    | Qui | Juninho     |                                                     |
+| 11.mar    | Sex | Thiago      |                                                     |
+| 12.mar    | Sab | Thiago      |                                                     |
+| 13.mar    | Dom | Eduardo     |                                                     |
