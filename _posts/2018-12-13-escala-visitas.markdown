@@ -13,9 +13,11 @@ categories: agenda
 ### Compromissos próximos
 
 Esta semana:
-- Eduardo| agendar consulta dentista Dr. Paulo         // solicitar orçamento para prótese com Dr. Paulo
-- Thiago | cancelar extração em UBS Marabá (13.abr)    // StarClin oferece extração gratuita fazendo prótese lá
-- ? | agendar prótese superior para aprox. 15.abr      // aguardar orçamento de prótese com Dr. Paulo 
+| data    | compromisso                                                                                          |
+| ------- | ---------------------------------------------------------------------------------------------------- |
+| Eduardo | agendar consulta dentista Dr. Paulo \n // solicitar orçamento para prótese com Dr. Paulo             |
+| Thiago  | cancelar extração em UBS Marabá (13.abr) \n // StarClin oferece extração gratuita fazendo prótese lá |
+| ?       | agendar prótese superior para aprox. 15.abr \n // aguardar orçamento de prótese com Dr. Paulo        |
 
 
 ### Atual
