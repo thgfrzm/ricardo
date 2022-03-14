@@ -12,7 +12,8 @@ categories: agenda
 
 ### Compromissos próximos
 
-Esta semana:
+#### Esta semana:
+
 | data    | compromisso                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------------------- |
 | Eduardo | agendar consulta dentista Dr. Paulo \n // solicitar orçamento para prótese com Dr. Paulo             |
