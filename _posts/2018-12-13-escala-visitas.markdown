@@ -50,6 +50,8 @@ categories: agenda
 | 24.fev | Qui --:-- | Eduardo     | Orçamentos - Dentista (prótese)                                                                                    |
 | 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
 | 11.mar | Sex 08:30 | Eduardo     | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários                      |
+| 25.mar | Sex ??:?? | Eduardo     | Orçamentos - Dentista (prótese) - Dr Paulo, horário a confirmar                                                    |
+| 25.mar | Sex ??:?? | Thiago      | (AGENDAR)   StarClin, Dentista (prótese + extrações)                                                               |
 | 13.abr | Qua 14:00 | Thiago      | (CANCELAR)  UBS Marabá, Dentista (extração)                                                                        |
 | 27.abr | Qua 09:15 | ?           | UBS Marabá, Nutricionista                                                                                          |
 | 31.out | ??? ??:?? | ?           | UBS Marabá, agendar consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
