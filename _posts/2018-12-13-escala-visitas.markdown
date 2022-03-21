@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-03-13 00:00:00 -0300
+date:   2022-03-21 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -14,24 +14,22 @@ categories: agenda
 
 #### Esta semana:
 
-| data    | compromisso                                                                                          |
-| ------- | ---------------------------------------------------------------------------------------------------- |
-| Eduardo | agendar consulta dentista Dr. Paulo \n // solicitar orçamento para prótese com Dr. Paulo             |
-| Thiago  | cancelar extração em UBS Marabá (13.abr) \n // StarClin oferece extração gratuita fazendo prótese lá |
-| ?       | agendar prótese superior para aprox. 15.abr \n // aguardar orçamento de prótese com Dr. Paulo        |
+[ Eduardo ] 25.Março, agendar consulta dentista Dr. Paulo (solicitar orçamento para prótese com Dr. Paulo)
+[ Thiago  ] cancelar extração em UBS Marabá (13.abr) \n (StarClin oferece extração gratuita)
+[ Thiago  ] agendar prótese superior para aprox. 15.abr (aguardar orçamento de prótese)
 
 
 ### Atual
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 14.mar | Seg | Thiago  | _roupas_    |
-| 15.mar | Ter | Eduardo |             |
-| 16.mar | Qua | Juninho |             |
-| 17.mar | Qui | Eduardo |             |
-| 18.mar | Sex | Juninho |             |
-| 19.mar | Sab | Eduardo |             |
-| 20.mar | Dom | Thiago  |             |
+| 21.mar | Seg | Juninho |             |
+| 22.mar | Ter | Eduardo |             |
+| 23.mar | Qua | Eduardo |             |
+| 24.mar | Qui | Juninho | _roupas_    |
+| 25.mar | Sex | Thiago  |             |
+| 26.mar | Sab | Thiago  |             |
+| 27.mar | Dom | Thiago  |             |
 
 
 ### Compromissos 2022
@@ -1238,3 +1236,10 @@ categories: agenda
 | 11.mar    | Sex | Thiago      |                                                     |
 | 12.mar    | Sab | Thiago      |                                                     |
 | 13.mar    | Dom | Eduardo     |                                                     |
+| 14.mar    | Seg | Thiago      | _roupas_                                            |
+| 15.mar    | Ter | Eduardo     |                                                     |
+| 16.mar    | Qua | Juninho     |                                                     |
+| 17.mar    | Qui | Eduardo     |                                                     |
+| 18.mar    | Sex | Juninho     |                                                     |
+| 19.mar    | Sab | Eduardo     |                                                     |
+| 20.mar    | Dom | Thiago      |                                                     |
