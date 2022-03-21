@@ -15,7 +15,9 @@ categories: agenda
 #### Esta semana:
 
 [ Eduardo ] 25.Março, agendar consulta dentista Dr. Paulo (solicitar orçamento para prótese com Dr. Paulo)
+
 [ Thiago  ] cancelar extração em UBS Marabá (13.abr) \n (StarClin oferece extração gratuita)
+
 [ Thiago  ] agendar prótese superior para aprox. 15.abr (aguardar orçamento de prótese)
 
 
