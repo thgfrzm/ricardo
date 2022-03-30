@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-03-21 00:00:00 -0300
+date:   2022-03-30 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -14,24 +14,24 @@ categories: agenda
 
 #### Esta semana:
 
-[ Eduardo ] 25.Março, agendar consulta dentista Dr. Paulo (solicitar orçamento para prótese com Dr. Paulo)
+[ Thiago  ] UBS Marabá, Buscar remédios
 
-[ Thiago  ] cancelar extração em UBS Marabá (13.abr) \n (StarClin oferece extração gratuita)
+[ Thiago  ] (CANCELAR)  UBS Marabá, Dentista (extração) 13.abr 14:00
 
-[ Thiago  ] agendar prótese superior para aprox. 15.abr (aguardar orçamento de prótese)
+[ Thiago  ] (AGENDAR)   StarClin, Dentista (prótese superior + extrações) - aprox 15.abr
 
 
 ### Atual
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 21.mar | Seg | Juninho |             |
-| 22.mar | Ter | Eduardo |             |
-| 23.mar | Qua | Eduardo |             |
-| 24.mar | Qui | Juninho | _roupas_    |
-| 25.mar | Sex | Thiago  |             |
-| 26.mar | Sab | Thiago  |             |
-| 27.mar | Dom | Thiago  |             |
+| 28.mar | Seg | Thiago  |             |
+| 29.mar | Ter | Juninho |             |
+| 30.mar | Qua | Thiago  |             |
+| 31.mar | Qui | Eduardo |             |
+| 01.mar | Sex | Eduardo | _roupas_    |
+| 02.mar | Sab | Eduardo |             |
+| 03.mar | Dom | Juninho |             |
 
 
 ### Compromissos 2022
@@ -50,9 +50,10 @@ categories: agenda
 | 24.fev | Qui --:-- | Eduardo     | Orçamentos - Dentista (prótese)                                                                                    |
 | 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
 | 11.mar | Sex 08:30 | Eduardo     | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários                      |
-| 25.mar | Sex ??:?? | Eduardo     | Orçamentos - Dentista (prótese) - Dr Paulo, horário a confirmar                                                    |
-| 25.mar | Sex ??:?? | Thiago      | (AGENDAR)   StarClin, Dentista (prótese + extrações)                                                               |
-| 13.abr | Qua 14:00 | Thiago      | (CANCELAR)  UBS Marabá, Dentista (extração)                                                                        |
+| 25.mar | Sex --:-- | Eduardo     | Orçamentos - Dentista (prótese) - Dr Paulo                                                                         |
+| 01.abr | Sex --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
+| 01.abr | Sex --:-- | Thiago      | (AGENDAR)   StarClin, Dentista (prótese + extrações)                                                               |
+| 01.abr | Sex --:-- | Thiago      | (CANCELAR)  UBS Marabá, Dentista (extração) 13.abr 14:00                                                           |  |
 | 27.abr | Qua 09:15 | ?           | UBS Marabá, Nutricionista                                                                                          |
 | 31.out | ??? ??:?? | ?           | UBS Marabá, agendar consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
 
@@ -1247,3 +1248,10 @@ categories: agenda
 | 18.mar    | Sex | Juninho     |                                                     |
 | 19.mar    | Sab | Eduardo     |                                                     |
 | 20.mar    | Dom | Thiago      |                                                     |
+| 21.mar    | Seg | Juninho     |                                                     |
+| 22.mar    | Ter | Eduardo     |                                                     |
+| 23.mar    | Qua | Eduardo     |                                                     |
+| 24.mar    | Qui | Juninho     | _roupas_                                            |
+| 25.mar    | Sex | Thiago      |                                                     |
+| 26.mar    | Sab | Thiago      |                                                     |
+| 27.mar    | Dom | Thiago      |                                                     |
