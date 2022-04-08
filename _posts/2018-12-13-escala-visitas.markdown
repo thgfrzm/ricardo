@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-03-30 00:00:00 -0300
+date:   2022-04-08 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -14,24 +14,22 @@ categories: agenda
 
 #### Esta semana:
 
-[ Thiago  ] UBS Marabá, Buscar remédios
+[ Thiago  ] (CANCELAR)  UBS Marabá, Dentista (extração) - 13.abr 14:00
 
-[ Thiago  ] (CANCELAR)  UBS Marabá, Dentista (extração) 13.abr 14:00
-
-[ Thiago  ] (AGENDAR)   StarClin, Dentista (prótese superior + extrações) - aprox 15.abr
+[ Juninho ] Jantar tia Célia - 10.abr noite
 
 
 ### Atual
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 28.mar | Seg | Thiago  |             |
-| 29.mar | Ter | Juninho |             |
-| 30.mar | Qua | Thiago  |             |
-| 31.mar | Qui | Eduardo |             |
-| 01.mar | Sex | Eduardo | _roupas_    |
-| 02.mar | Sab | Eduardo |             |
-| 03.mar | Dom | Juninho |             |
+| 04.abr | Seg | Juninho |             |
+| 05.abr | Ter | Eduardo |             |
+| 06.abr | Qua | Juninho |             |
+| 07.abr | Qui | Eduardo |             |
+| 08.abr | Sex | Thiago  | _roupas_    |
+| 09.abr | Sab | Thiago  |             |
+| 10.abr | Dom | Juninho |             |
 
 
 ### Compromissos 2022
@@ -54,7 +52,9 @@ categories: agenda
 | 01.abr | Sex --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
 | 01.abr | Sex --:-- | Thiago      | (AGENDAR)   StarClin, Dentista (prótese + extrações)                                                               |
 | 01.abr | Sex --:-- | Thiago      | (CANCELAR)  UBS Marabá, Dentista (extração) 13.abr 14:00                                                           |  |
+| 10.abr | Dom --:-- | Juninho     | Jantar tia Célia                                                                                                   |
 | 27.abr | Qua 09:15 | ?           | UBS Marabá, Nutricionista                                                                                          |
+| 04.mai | ??? --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
 | 31.out | ??? ??:?? | ?           | UBS Marabá, agendar consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
 
 
@@ -1255,3 +1255,10 @@ categories: agenda
 | 25.mar    | Sex | Thiago      |                                                     |
 | 26.mar    | Sab | Thiago      |                                                     |
 | 27.mar    | Dom | Thiago      |                                                     |
+| 28.mar    | Seg | Thiago      |                                                     |
+| 29.mar    | Ter | Juninho     |                                                     |
+| 30.mar    | Qua | Thiago      |                                                     |
+| 31.mar    | Qui | Eduardo     |                                                     |
+| 01.abr    | Sex | Eduardo     | _roupas_                                            |
+| 02.abr    | Sab | Eduardo     |                                                     |
+| 03.abr    | Dom | Juninho     |                                                     |
