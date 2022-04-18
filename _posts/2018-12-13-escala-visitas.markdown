@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-04-08 00:00:00 -0300
+date:   2022-04-18 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -14,22 +14,24 @@ categories: agenda
 
 #### Esta semana:
 
-[ Thiago  ] (CANCELAR)  UBS Marabá, Dentista (extração) - 13.abr 14:00
+13.abr, Qua 15:00, StarClin, Extração (Juninho)
+??.abr, ??? ??:??, StarClin, Retorno e molde (?)
 
-[ Juninho ] Jantar tia Célia - 10.abr noite
+#### Próxima semana:
 
+27.abr, Qua 09:15, UBS Marabá, Nutricionista (?)
 
 ### Atual
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 04.abr | Seg | Juninho |             |
-| 05.abr | Ter | Eduardo |             |
-| 06.abr | Qua | Juninho |             |
-| 07.abr | Qui | Eduardo |             |
-| 08.abr | Sex | Thiago  | _roupas_    |
-| 09.abr | Sab | Thiago  |             |
-| 10.abr | Dom | Juninho |             |
+| 18.abr | Seg | Juninho |             |
+| 19.abr | Ter | Juninho |             |
+| 20.abr | Qua | Eduardo |             |
+| 21.abr | Qui | Thiago  | _roupas_    |
+| 22.abr | Sex | Thiago  |             |
+| 23.abr | Sab | Thiago  |             |
+| 24.abr | Dom | Thiago  |             |
 
 
 ### Compromissos 2022
@@ -1262,3 +1264,17 @@ categories: agenda
 | 01.abr    | Sex | Eduardo     | _roupas_                                            |
 | 02.abr    | Sab | Eduardo     |                                                     |
 | 03.abr    | Dom | Juninho     |                                                     |
+| 04.abr    | Seg | Juninho     |                                                     |
+| 05.abr    | Ter | Eduardo     |                                                     |
+| 06.abr    | Qua | Juninho     |                                                     |
+| 07.abr    | Qui | Eduardo     |                                                     |
+| 08.abr    | Sex | Thiago      | _roupas_                                            |
+| 09.abr    | Sab | Thiago      |                                                     |
+| 10.abr    | Dom | Juninho     |                                                     |
+| 11.abr    | Seg | Thiago      |                                                     |
+| 12.abr    | Ter | Juninho     |                                                     |
+| 13.abr    | Qua | Juninho     |                                                     |
+| 14.abr    | Qui | Eduardo     |                                                     |
+| 15.abr    | Sex | Eduardo     |                                                     |
+| 16.abr    | Sab | Eduardo     |                                                     |
+| 17.abr    | Dom | Juninho     |                                                     |
