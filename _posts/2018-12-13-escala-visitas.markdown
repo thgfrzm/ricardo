@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-04-18 00:00:00 -0300
+date:   2022-04-19 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -14,9 +14,7 @@ categories: agenda
 
 #### Esta semana:
 
-13.abr, Qua 15:00, StarClin, Extração (Juninho)
-
-??.abr, ??? ??:??, StarClin, Retorno e molde (?)
+20.abr, Qua 15:00, StarClin, Retorno e molde (Eduardo)
 
 #### Próxima semana:
 
@@ -29,9 +27,9 @@ categories: agenda
 | 18.abr | Seg | Juninho |             |
 | 19.abr | Ter | Juninho |             |
 | 20.abr | Qua | Eduardo |             |
-| 21.abr | Qui | Thiago  | _roupas_    |
-| 22.abr | Sex | Thiago  |             |
-| 23.abr | Sab | Thiago  |             |
+| 21.abr | Qui | Eduardo |             |
+| 22.abr | Sex | Eduardo |             |
+| 23.abr | Sab | Thiago  | _roupas_    |
 | 24.abr | Dom | Thiago  |             |
 
 
