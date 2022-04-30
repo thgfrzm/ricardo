@@ -31,7 +31,7 @@ categories: agenda
 | 07.mai | Sab | .      |              |
 | 08.mai | Dom | .      | Dia das Mães |
 
-Obs.: Eduardo 3x esta semana
+Obs.: Eduardo 3x esta semana, Eduardo responsável pelas roupas 
 
 Disponibilidade:
 
