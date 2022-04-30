@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-04-19 00:00:00 -0300
+date:   2022-04-30 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -14,23 +14,22 @@ categories: agenda
 
 #### Esta semana:
 
-20.abr, Qua 15:00, StarClin, Retorno e molde (Eduardo)
+04.mai, Qua --:--, UBS Marabá, Buscar Remédios (Thiago)
 
-#### Próxima semana:
+<!-- #### Próxima semana: -->
 
-27.abr, Qua 09:15, UBS Marabá, Nutricionista (?)
 
 ### Atual
 
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 18.abr | Seg | Juninho |             |
-| 19.abr | Ter | Juninho |             |
-| 20.abr | Qua | Eduardo |             |
-| 21.abr | Qui | Eduardo |             |
-| 22.abr | Sex | Eduardo |             |
-| 23.abr | Sab | Thiago  | _roupas_    |
-| 24.abr | Dom | Thiago  |             |
+| data   | dia | visita | observações  |
+| ------ | --- | ------ | ------------ |
+| 02.mai | Seg | .      |              |
+| 03.mai | Ter | .      |              |
+| 04.mai | Qua | .      |              |
+| 05.mai | Qui | .      |              |
+| 06.mai | Sex | .      |              |
+| 07.mai | Sab | .      |              |
+| 08.mai | Dom | .      | Dia das Mães |
 
 
 ### Compromissos 2022
@@ -52,10 +51,12 @@ categories: agenda
 | 25.mar | Sex --:-- | Eduardo     | Orçamentos - Dentista (prótese) - Dr Paulo                                                                         |
 | 01.abr | Sex --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
 | 01.abr | Sex --:-- | Thiago      | (AGENDAR)   StarClin, Dentista (prótese + extrações)                                                               |
-| 01.abr | Sex --:-- | Thiago      | (CANCELAR)  UBS Marabá, Dentista (extração) 13.abr 14:00                                                           |  |
+| 01.abr | Sex --:-- | Thiago      | (CANCELAR)  UBS Marabá, Dentista (extração) 13.abr 14:00                                                           |
 | 10.abr | Dom --:-- | Juninho     | Jantar tia Célia                                                                                                   |
-| 27.abr | Qua 09:15 | ?           | UBS Marabá, Nutricionista                                                                                          |
-| 04.mai | ??? --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
+| 20.abr | Qua 15:00 | Eduardo     | StarClin, Retorno e molde                                                                                          |
+| 27.abr | Qua 09:15 | Juninho     | UBS Marabá, Nutricionista                                                                                          |
+| 29.abr | Sex 15:00 | Eduardo     | StarClin, Retorno                                                                                                  |
+| 04.mai | Qua --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
 | 31.out | ??? ??:?? | ?           | UBS Marabá, agendar consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
 
 
@@ -1277,3 +1278,17 @@ categories: agenda
 | 15.abr    | Sex | Eduardo     |                                                     |
 | 16.abr    | Sab | Eduardo     |                                                     |
 | 17.abr    | Dom | Juninho     |                                                     |
+| 18.abr    | Seg | Juninho     |                                                     |
+| 19.abr    | Ter | Juninho     |                                                     |
+| 20.abr    | Qua | Eduardo     |                                                     |
+| 21.abr    | Qui | Eduardo     |                                                     |
+| 22.abr    | Sex | Eduardo     |                                                     |
+| 23.abr    | Sab | Thiago      | _roupas_                                            |
+| 24.abr    | Dom | Thiago      |                                                     |
+| 25.abr    | Seg | Thiago      |                                                     |
+| 26.abr    | Ter | Juninho     |                                                     |
+| 27.abr    | Qua | Eduardo     |                                                     |
+| 28.abr    | Qui | Eduardo     |                                                     |
+| 29.abr    | Sex | Juninho     | _roupas_                                            |
+| 30.abr    | Sab | Thiago      |                                                     |
+| 01.mai    | Dom | Thiago      |                                                     |
