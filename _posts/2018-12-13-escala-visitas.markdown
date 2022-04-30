@@ -31,6 +31,12 @@ categories: agenda
 | 07.mai | Sab | .      |              |
 | 08.mai | Dom | .      | Dia das Mães |
 
+Obs.: Eduardo 3x esta semana
+
+Disponibilidade:
+
+Indisponibilidade: Thiago (qua, qui); Edu (sex, sab, dom);
+
 
 ### Compromissos 2022
 
