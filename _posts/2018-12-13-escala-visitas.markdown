@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-04-30 00:00:00 -0300
+date:   2022-05-10 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -14,28 +14,22 @@ categories: agenda
 
 #### Esta semana:
 
-04.mai, Qua --:--, UBS Marabá, Buscar Remédios (Thiago)
+12.mai, Qui 16:00, responsável: ?, StarClin, Extração de espícula + cabelereiro
 
 <!-- #### Próxima semana: -->
 
 
 ### Atual
 
-| data   | dia | visita | observações  |
-| ------ | --- | ------ | ------------ |
-| 02.mai | Seg | .      |              |
-| 03.mai | Ter | .      |              |
-| 04.mai | Qua | .      |              |
-| 05.mai | Qui | .      |              |
-| 06.mai | Sex | .      |              |
-| 07.mai | Sab | .      |              |
-| 08.mai | Dom | .      | Dia das Mães |
-
-Obs.: Eduardo 3x esta semana, Eduardo responsável pelas roupas 
-
-Disponibilidade:
-
-Indisponibilidade: Thiago (qua, qui); Edu (sex, sab, dom);
+| data   | dia | visita  | observações |
+| ------ | --- | ------- | ----------- |
+| 09.mai | Seg | Eduardo |             |
+| 10.mai | Ter | Juninho |             |
+| 11.mai | Qua | Juninho |             |
+| 12.mai | Qui | Eduardo |             |
+| 13.mai | Sex | Thiago  | _roupas_    |
+| 14.mai | Sab | Thiago  |             |
+| 15.mai | Dom | Thiago  |             |
 
 
 ### Compromissos 2022
@@ -63,6 +57,7 @@ Indisponibilidade: Thiago (qua, qui); Edu (sex, sab, dom);
 | 27.abr | Qua 09:15 | Juninho     | UBS Marabá, Nutricionista                                                                                          |
 | 29.abr | Sex 15:00 | Eduardo     | StarClin, Retorno                                                                                                  |
 | 04.mai | Qua --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
+| 12.mai | Qui 16:00 | ?           | StarClin, Extração de espícula                                                                                     |
 | 31.out | ??? ??:?? | ?           | UBS Marabá, agendar consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
 
 
@@ -1298,3 +1293,10 @@ Indisponibilidade: Thiago (qua, qui); Edu (sex, sab, dom);
 | 29.abr    | Sex | Juninho     | _roupas_                                            |
 | 30.abr    | Sab | Thiago      |                                                     |
 | 01.mai    | Dom | Thiago      |                                                     |
+| 02.mai    | Seg | Juninho     |                                                     |
+| 03.mai    | Ter | Eduardo     |                                                     |
+| 04.mai    | Qua | Eduardo     |                                                     |
+| 05.mai    | Qui | Juninho     |                                                     |
+| 06.mai    | Sex | Eduardo     | _roupas_                                            |
+| 07.mai    | Sab | Thiago      |                                                     |
+| 08.mai    | Dom | Thiago      | Dia das Mães                                        |
