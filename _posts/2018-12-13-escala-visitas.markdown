@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-05-10 00:00:00 -0300
+date:   2022-05-16 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -14,7 +14,7 @@ categories: agenda
 
 #### Esta semana:
 
-12.mai, Qui 16:00, responsável: ?, StarClin, Extração de espícula + cabelereiro
+19.mai, Qui 16:30, responsável: Juninho, StarClin, Retorno
 
 <!-- #### Próxima semana: -->
 
@@ -23,42 +23,44 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 09.mai | Seg | Eduardo |             |
-| 10.mai | Ter | Juninho |             |
-| 11.mai | Qua | Juninho |             |
-| 12.mai | Qui | Eduardo |             |
-| 13.mai | Sex | Thiago  | _roupas_    |
-| 14.mai | Sab | Thiago  |             |
-| 15.mai | Dom | Thiago  |             |
+| 16.mai | Seg | Thiago  |             |
+| 17.mai | Ter | Juninho |             |
+| 18.mai | Qua | Eduardo |             |
+| 19.mai | Qui | Eduardo |             |
+| 20.mai | Sex | Juninho | _roupas_    |
+| 21.mai | Sab | Eduardo |             |
+| 22.mai | Dom | Thiago  |             |
 
 
 ### Compromissos 2022
 
-| data   | dia/hora  | Responsável | observações                                                                                                        |
-| ------ | --------- | ----------- | ------------------------------------------------------------------------------------------------------------------ |
-| 26.jan | Qua --:-- | Eduardo     | UBS Marabá, Consulta médica                                                                                        |
-| 26.jan | Qua --:-- | Eduardo     | UBS Marabá, Buscar remédios                                                                                        |
-| 27.jan | Qui --:-- | Eduardo     | UBS Marabá, Dentista (extração)                                                                                    |
-| 31.jan | Seg --:-- | Eduardo     | UBS Marabá, Dentista (retorno)                                                                                     |
-| 08.fev | Ter 15:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                                                    |
-| 09.fev | Qua 11:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                                                    |
-| 15.fev | Ter 07:30 | Juninho     | UBS Marabá, Dentista (retorno)                                                                                     |
-| 17.fev | Qui 07:00 | Juninho     | UBS Marabá, Exames - obs.: 1a urina do dia, receita de medicamentos e fazer jejum 12h, permitido ingestão de água  |
-| 17.fev | Qui 09:30 | Juninho     | Cal - Dentista (prótese)                                                                                           |
-| 24.fev | Qui --:-- | Eduardo     | Orçamentos - Dentista (prótese)                                                                                    |
-| 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
-| 11.mar | Sex 08:30 | Eduardo     | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários                      |
-| 25.mar | Sex --:-- | Eduardo     | Orçamentos - Dentista (prótese) - Dr Paulo                                                                         |
-| 01.abr | Sex --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
-| 01.abr | Sex --:-- | Thiago      | (AGENDAR)   StarClin, Dentista (prótese + extrações)                                                               |
-| 01.abr | Sex --:-- | Thiago      | (CANCELAR)  UBS Marabá, Dentista (extração) 13.abr 14:00                                                           |
-| 10.abr | Dom --:-- | Juninho     | Jantar tia Célia                                                                                                   |
-| 20.abr | Qua 15:00 | Eduardo     | StarClin, Retorno e molde                                                                                          |
-| 27.abr | Qua 09:15 | Juninho     | UBS Marabá, Nutricionista                                                                                          |
-| 29.abr | Sex 15:00 | Eduardo     | StarClin, Retorno                                                                                                  |
-| 04.mai | Qua --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                        |
-| 12.mai | Qui 16:00 | ?           | StarClin, Extração de espícula                                                                                     |
-| 31.out | ??? ??:?? | ?           | UBS Marabá, agendar consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
+| data   | dia/hora  | Responsável | observações                                                                                                                      |
+| ------ | --------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 26.jan | Qua --:-- | Eduardo     | UBS Marabá, Consulta médica                                                                                                      |
+| 26.jan | Qua --:-- | Eduardo     | UBS Marabá, Buscar remédios                                                                                                      |
+| 27.jan | Qui --:-- | Eduardo     | UBS Marabá, Dentista (extração)                                                                                                  |
+| 31.jan | Seg --:-- | Eduardo     | UBS Marabá, Dentista (retorno)                                                                                                   |
+| 08.fev | Ter 15:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                                                                  |
+| 09.fev | Qua 11:00 | Eduardo     | UBS Marabá, Dentista (extração)                                                                                                  |
+| 15.fev | Ter 07:30 | Juninho     | UBS Marabá, Dentista (retorno)                                                                                                   |
+| 17.fev | Qui 07:00 | Juninho     | UBS Marabá, Exames - obs.: 1a urina do dia, receita de medicamentos e fazer jejum 12h, permitido ingestão de água                |
+| 17.fev | Qui 09:30 | Juninho     | Cal - Dentista (prótese)                                                                                                         |
+| 24.fev | Qui --:-- | Eduardo     | Orçamentos - Dentista (prótese)                                                                                                  |
+| 01.mar | Ter --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                                      |
+| 11.mar | Sex 08:30 | Eduardo     | UBS Marabá, Consulta - Dra. Luciana, levar receita médica + dados de pressão arterial diários                                    |
+| 25.mar | Sex --:-- | Eduardo     | Orçamentos - Dentista (prótese) - Dr Paulo                                                                                       |
+| 01.abr | Sex --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                                      |
+| 01.abr | Sex --:-- | Thiago      | (AGENDAR)   StarClin, Dentista (prótese + extrações)                                                                             |
+| 01.abr | Sex --:-- | Thiago      | (CANCELAR)  UBS Marabá, Dentista (extração) 13.abr 14:00                                                                         |
+| 10.abr | Dom --:-- | Juninho     | Jantar tia Célia                                                                                                                 |
+| 20.abr | Qua 15:00 | Eduardo     | StarClin, Retorno e molde                                                                                                        |
+| 27.abr | Qua 09:15 | Juninho     | UBS Marabá, Nutricionista                                                                                                        |
+| 29.abr | Sex 15:00 | Eduardo     | StarClin, Retorno                                                                                                                |
+| 04.mai | Qua --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                                      |
+| 12.mai | Qui 16:00 | Eduardo     | StarClin, Extração de espícula                                                                                                   |
+| 19.mai | Qui 16:30 | Juninho     | StarClin, Retorno                                                                                                                |
+| 22.ago | ??? ??:?? | ?           | UBS Marabá, agenda abre em Julho. Consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
+| 22.ago | ??? ??:?? | ?           | UBS Marabá, após exames, marcar consulta com nutricionista Renata Freitas                                                        |
 
 
 
@@ -1300,3 +1302,10 @@ categories: agenda
 | 06.mai    | Sex | Eduardo     | _roupas_                                            |
 | 07.mai    | Sab | Thiago      |                                                     |
 | 08.mai    | Dom | Thiago      | Dia das Mães                                        |
+| 09.mai    | Seg | Eduardo     |                                                     |
+| 10.mai    | Ter | Juninho     |                                                     |
+| 11.mai    | Qua | Juninho     |                                                     |
+| 12.mai    | Qui | Eduardo     |                                                     |
+| 13.mai    | Sex | Thiago      | _roupas_                                            |
+| 14.mai    | Sab | Thiago      |                                                     |
+| 15.mai    | Dom | Thiago      |                                                     |
