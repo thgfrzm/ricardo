@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-05-16 00:00:00 -0300
+date:   2022-05-23 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -14,7 +14,8 @@ categories: agenda
 
 #### Esta semana:
 
-19.mai, Qui 16:30, responsável: Juninho, StarClin, Retorno
+24.mai, Ter 17:00, Thiago, StarClin, Retorno
+
 
 <!-- #### Próxima semana: -->
 
@@ -23,13 +24,13 @@ categories: agenda
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 16.mai | Seg | Thiago  |             |
-| 17.mai | Ter | Juninho |             |
-| 18.mai | Qua | Eduardo |             |
-| 19.mai | Qui | Eduardo |             |
-| 20.mai | Sex | Juninho | _roupas_    |
-| 21.mai | Sab | Eduardo |             |
-| 22.mai | Dom | Thiago  |             |
+| 23.mai | Seg | Juninho |             |
+| 24.mai | Ter | Thiago  |             |
+| 25.mai | Qua | Eduardo |             |
+| 26.mai | Qui | Juninho |             |
+| 27.mai | Sex | Thiago  |             |
+| 28.mai | Sab | Eduardo | _roupas_    |
+| 29.mai | Dom | Thiago  |             |
 
 
 ### Compromissos 2022
@@ -59,6 +60,7 @@ categories: agenda
 | 04.mai | Qua --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                                      |
 | 12.mai | Qui 16:00 | Eduardo     | StarClin, Extração de espícula                                                                                                   |
 | 19.mai | Qui 16:30 | Juninho     | StarClin, Retorno                                                                                                                |
+| 24.mai | Ter 17:00 | Thiago     | StarClin, Retorno                                                                                                                |
 | 22.ago | ??? ??:?? | ?           | UBS Marabá, agenda abre em Julho. Consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
 | 22.ago | ??? ??:?? | ?           | UBS Marabá, após exames, marcar consulta com nutricionista Renata Freitas                                                        |
 
@@ -1309,3 +1311,10 @@ categories: agenda
 | 13.mai    | Sex | Thiago      | _roupas_                                            |
 | 14.mai    | Sab | Thiago      |                                                     |
 | 15.mai    | Dom | Thiago      |                                                     |
+| 16.mai | Seg | Thiago  |             |
+| 17.mai | Ter | Juninho |             |
+| 18.mai | Qua | Eduardo |             |
+| 19.mai | Qui | Eduardo |             |
+| 20.mai | Sex | Juninho | _roupas_    |
+| 21.mai | Sab | Eduardo |             |
+| 22.mai | Dom | Thiago  |             |
