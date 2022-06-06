@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-06-01 00:00:00 -0300
+date:   2022-06-06 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -16,7 +16,7 @@ categories: agenda
 
 StarClin deve ligar para marcar dia de retorno (implantação de prótese)
 
-6.jun UBS Marabá, Buscar remédios Thiago
+??.jun, ??? ??:??, responsável: ?, StarClin, Implantação de prótese
 
 <!-- #### Próxima semana: -->
 
@@ -25,13 +25,13 @@ StarClin deve ligar para marcar dia de retorno (implantação de prótese)
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 30.mai | Seg | Juninho |             |
-| 31.mai | Ter | Thiago  |             |
-| 01.jun | Qua | Juninho |             |
-| 02.jun | Qui | Eduardo |             |
-| 03.jun | Sex | Eduardo |             |
-| 04.jun | Sab | Thiago  | _roupas_    |
-| 05.jun | Dom | Eduardo |             |
+| 06.jun | Seg | Juninho |             |
+| 07.jun | Ter | Juninho |             |
+| 08.jun | Qua | Thiago  |             |
+| 09.jun | Qui | Eduardo |             |
+| 10.jun | Sex | Thiago  |             |
+| 11.jun | Sab | Eduardo | _roupas_    |
+| 12.jun | Dom | Thiago  |             |
 
 
 ### Compromissos 2022
@@ -62,8 +62,8 @@ StarClin deve ligar para marcar dia de retorno (implantação de prótese)
 | 12.mai | Qui 16:00 | Eduardo     | StarClin, Extração de espícula                                                                                                   |
 | 19.mai | Qui 16:30 | Juninho     | StarClin, Retorno                                                                                                                |
 | 24.mai | Ter 17:00 | Thiago      | StarClin, Teste de molde                                                                                                         |
-| --.jun | ??? ??:?? | ?           | StarClin, Implantação de prótese                                                                                                 |
 | 06.jun | Seg --:-- | Thiago      | UBS Marabá, Buscar remédios                                                                                                      |
+| --.jun | ??? ??:?? | ?           | StarClin, Implantação de prótese                                                                                                 |
 | 22.ago | ??? ??:?? | ?           | UBS Marabá, agenda abre em Julho. Consulta médica para SET (em março exames tiveram bons resultados, pressão arterial aceitável) |
 | 22.ago | ??? ??:?? | ?           | UBS Marabá, após exames, marcar consulta com nutricionista Renata Freitas                                                        |
 
@@ -1328,3 +1328,10 @@ StarClin deve ligar para marcar dia de retorno (implantação de prótese)
 | 27.mai    | Sex | Thiago      |                                                     |
 | 28.mai    | Sab | Eduardo     | _roupas_                                            |
 | 29.mai    | Dom | Thiago      |                                                     |
+| 30.mai    | Seg | Juninho     |                                                     |
+| 31.mai    | Ter | Thiago      |                                                     |
+| 01.jun    | Qua | Juninho     |                                                     |
+| 02.jun    | Qui | Eduardo     |                                                     |
+| 03.jun    | Sex | Eduardo     |                                                     |
+| 04.jun    | Sab | Thiago      | _roupas_                                            |
+| 05.jun    | Dom | Eduardo     |                                                     |
