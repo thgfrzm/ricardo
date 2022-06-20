@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escala de visitas"
-date:   2022-06-13 00:00:00 -0300
+date:   2022-06-20 00:00:00 -0300
 categories: agenda
 ---
 <!--   
@@ -25,13 +25,13 @@ StarClin deve ligar para marcar dia de retorno (implantação de prótese)
 
 | data   | dia | visita  | observações |
 | ------ | --- | ------- | ----------- |
-| 13.jun | Seg | Thiago  |             |
-| 14.jun | Ter | Eduardo |             |
-| 15.jun | Qua | Juninho |             |
-| 16.jun | Qui | Thiago  |             |
-| 17.jun | Sex | Eduardo |             |
-| 18.jun | Sab | Juninho | _roupas_    |
-| 19.jun | Dom | Eduardo |             |
+| 20.jun | Seg | Thiago  |             |
+| 21.jun | Ter | Juninho |             |
+| 22.jun | Qua | Thiago  |             |
+| 23.jun | Qui | Thiago  | _roupas_    |
+| 24.jun | Sex | Eduardo |             |
+| 25.jun | Sab | Eduardo |             |
+| 26.jun | Dom | Juninho |             |
 
 
 ### Compromissos 2022
@@ -1342,3 +1342,10 @@ StarClin deve ligar para marcar dia de retorno (implantação de prótese)
 | 10.jun | Sex | Thiago  |             |
 | 11.jun | Sab | Eduardo | _roupas_    |
 | 12.jun | Dom | Thiago  |             |
+| 13.jun | Seg | Thiago  |             |
+| 14.jun | Ter | Eduardo |             |
+| 15.jun | Qua | Juninho |             |
+| 16.jun | Qui | Thiago  |             |
+| 17.jun | Sex | Eduardo |             |
+| 18.jun | Sab | Juninho | _roupas_    |
+| 19.jun | Dom | Eduardo |             |
