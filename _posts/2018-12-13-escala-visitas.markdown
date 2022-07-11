@@ -10,30 +10,13 @@ categories: agenda
   - [ ] agendar data em [Instituto de Identificação do Paraná](http://www.institutodeidentificacao.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61)
 -->
 
-### Compromissos próximos
-
-#### Esta semana:
+### Avisos
 
 StarClin deve ligar para marcar dia de retorno (implantação de prótese)
 
 ??.jun, ??? ??:??, responsável: ?, StarClin, Implantação de prótese
 
-<!-- #### Próxima semana: -->
-
-
-### Atual
-
-| data   | dia | visita  | observações |
-| ------ | --- | ------- | ----------- |
-| 11.jul | Seg | Thiago  |             |
-| 12.jul | Ter | Juninho |             |
-| 13.jul | Qua | Eduardo |             |
-| 14.jul | Qui | Juninho |             |
-| 15.jul | Sex | Thiago  | _roupas_    |
-| 16.jul | Sab | Eduardo |             |
-| 17.jul | Dom | Eduardo |             |
-
-<iframe src="https://calendar.google.com/calendar/embed?src=d675gn56jj92pd2h4220adobbg%40group.calendar.google.com&ctz=America%2FSao_Paulo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=420&wkst=2&bgcolor=%23A79B8E&ctz=America%2FSao_Paulo&mode=MONTH&showPrint=0&showTabs=0&showCalendars=0&showTz=0&showDate=1&showNav=1&showTitle=1&title=Agenda%20Ricardo&src=ZDY3NWduNTZqajkycGQyaDQyMjBhZG9iYmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23795548" style="border:solid 1px #777" width="800" height="420" frameborder="0" scrolling="no"></iframe>
 
 
 ### Compromissos 2022
