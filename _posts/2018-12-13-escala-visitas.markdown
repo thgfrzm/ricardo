@@ -29,9 +29,11 @@ StarClin deve ligar para marcar dia de retorno (implantação de prótese)
 | 12.jul | Ter | Juninho |             |
 | 13.jul | Qua | Eduardo |             |
 | 14.jul | Qui | Juninho |             |
-| 15.jul | Sex | Eduardo |             |
+| 15.jul | Sex | Thiago  | _roupas_    |
 | 16.jul | Sab | Eduardo |             |
-| 17.jul | Dom | Thiago  | _roupas_    |
+| 17.jul | Dom | Eduardo |             |
+
+<iframe src="https://calendar.google.com/calendar/embed?src=d675gn56jj92pd2h4220adobbg%40group.calendar.google.com&ctz=America%2FSao_Paulo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ### Compromissos 2022
